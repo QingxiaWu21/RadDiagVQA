@@ -1,0 +1,3492 @@
+[
+    {
+        "ID": 1,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Chest",
+        "Modality": "Hybrid",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2023.12.14.109700",
+        "Type": "multiple-choice",
+        "Question": "In children or adults with recurrent aspiration pneumonias, which of the following is the most definitive way to diagnose a tracheoesophageal fistula?",
+        "OptionA": "CT scan",
+        "OptionB": "Bronchoscopy",
+        "OptionC": "Oesophagoscopy",
+        "OptionD": "Fluoroscopic oesophagram",
+        "Answer": "Bronchoscopy",
+        "AnswerLabel": "B",
+        "num_image": 3,
+        "image_ids": [
+            "1-1.jpg",
+            "1-2.jpg",
+            "1-3.jpg"
+        ]
+    },
+    {
+        "ID": 2,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Abdominal",
+        "Modality": "CT",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2023.12.06.109694",
+        "Type": "multiple-choice",
+        "Question": "A 12-year-old boy with a 3-week history of abdominal pain, was referred to our emergency room. The patient had been diagnosed with acute pancreatitis at another hospital before he came to see us. Notably after treatment, he went into remission, but relapsed after he started eating again, prompting the referral to our department. He had marfanoid habitus. Laboratory investigations showed serum amylase concentration of 98 U/L (normal range 40-132) and serum lipase concentration of 143 U/L (normal range 0-60). Which of the following is the most likely diagnosis?",
+        "OptionA": "Medium chain acyl CoA dehydrogenase (MCAD) deficiency",
+        "OptionB": "Phenylketonuria",
+        "OptionC": "Hyperhomocysteinemia",
+        "OptionD": "Inflammatory bowel disease",
+        "Answer": "Hyperhomocysteinemia",
+        "AnswerLabel": "C",
+        "num_image": 2,
+        "image_ids": [
+            "2-1.jpg",
+            "2-2.jpg"
+        ]
+    },
+    {
+        "ID": 3,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "MR",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2023.11.08.109665",
+        "Type": "multiple-choice",
+        "Question": "A 55-year-old, right-handed man with a history of treatment-resistant epilepsy, which began when he was 3 years old, attended our specialist centre for surgical assessment. He reported twitching of his left leg with altered, uncomfortable, sensation; he had an average of 10-15 episodes a week, each lasting approximately 20 sec. He had no impairment of consciousness. He also reported infrequent episodes of sudden-onset myoclonic jerks and numbness in his left leg followed by spasms of both legs with impaired consciousness throughout the whole attack. He had continued to have seizures despite treatment with multiple antiseizure medications. Which of the following treatment options is likely to achieve complete seizure control?",
+        "OptionA": "A ketogenic diet",
+        "OptionB": "Neuromodulation",
+        "OptionC": "Resective surgery",
+        "OptionD": "Vagus nerve stimulation",
+        "Answer": "Resective surgery",
+        "AnswerLabel": "C",
+        "num_image": 2,
+        "image_ids": [
+            "3-1.jpg",
+            "3-2.jpg"
+        ]
+    },
+    {
+        "ID": 4,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Musculoskeletal",
+        "Modality": "Hybrid",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2023.10.26.109647",
+        "Type": "multiple-choice",
+        "Question": "Patients with complete congenital corticotrophin and gonadotrophin deficiency may theoretically grow at any age, as they lack 3 steroid hormones responsible for growth cartilage maturation. Which of the following gives all 3?",
+        "OptionA": "Cortisol, testosterone, and thyroxine",
+        "OptionB": "Dehydroepiandrosterone, testosterone, and oestradiol",
+        "OptionC": "Corticotropin, cortisol, and testosterone",
+        "OptionD": "Dehydroepiandrosterone, testosterone, and inhibin B",
+        "Answer": "Dehydroepiandrosterone, testosterone, and oestradiol",
+        "AnswerLabel": "B",
+        "num_image": 2,
+        "image_ids": [
+            "4-1.jpg",
+            "4-2.jpg"
+        ]
+    },
+    {
+        "ID": 5,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Cardiovascular",
+        "Modality": "CT",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2023.10.18.109637",
+        "Type": "multiple-choice",
+        "Question": "A 78-year-old man presented with a 4-year history of progressive shortness of breath. Two years earlier he had a deep venous thrombosis in his right leg and bilateral pulmonary emboli. He was anticoagulated with warfarin. CT pulmonary angiogram shows non-occlusive pulmonary emboli increasing in size and bilateral pulmonary aneurysms. Fluorodeoxyglucose PET/CT scan shows aneurysm wall glucose-avidity. Which of the following might present with both recurrent venous thromboembolism and aneurysms in the pulmonary arteries?",
+        "OptionA": "Vasculitis",
+        "OptionB": "Malignancy",
+        "OptionC": "Pulmonary valve stenosis",
+        "OptionD": "Thrombophilia",
+        "Answer": "Vasculitis",
+        "AnswerLabel": "A",
+        "num_image": 2,
+        "image_ids": [
+            "5-1.jpg",
+            "5-2.jpg"
+        ]
+    },
+    {
+        "ID": 6,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Chest",
+        "Modality": "CT",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2023.10.11.109632",
+        "Type": "multiple-choice",
+        "Question": "A 64-year-old man with a 2-month history of breathlessness, reduced effort tolerance, and a worsening cough, attended our clinic. The patient was a non-smoker, and he had no relevant history of occupational exposures or severe viral infections; he reported that none of his family had lung disease. No consanguinity was noted. Plain chest x-ray showed diffuse sandstorm-like micro-nodular pattern throughout both lung fields obscuring the cardiac border. High resolution chest CT showed a crazy-paving pattern characterised by thickened interlobular septa and punctiform calcifications, distributed diffusely along the interlobular septa. We diagnosed pulmonary alveolar microlithiasis. Which of the following is an effective therapy for this rare condition?",
+        "OptionA": "Corticosteroids",
+        "OptionB": "Lung transplantation",
+        "OptionC": "Whole lung lavage",
+        "OptionD": "Disodium etidronate",
+        "Answer": "lung transplantation",
+        "AnswerLabel": "B",
+        "num_image": 2,
+        "image_ids": [
+            "6-1.jpg",
+            "6-2.jpg"
+        ]
+    },
+    {
+        "ID": 7,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Abdominal",
+        "Modality": "CT",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2023.10.04.109625",
+        "Type": "multiple-choice",
+        "Question": "A man with metastatic rectal cancer was found to have a large incidental hiatal hernia. Which of the following is not a recognised complication?",
+        "OptionA": "Gastric volvulus",
+        "OptionB": "Oesophageal obstruction",
+        "OptionC": "Diaphragmatic palsy",
+        "OptionD": "Chronic bleeding",
+        "Answer": "Diaphragmatic palsy",
+        "AnswerLabel": "C",
+        "num_image": 1,
+        "image_ids": [
+            "7-1.jpg"
+        ]
+    },
+    {
+        "ID": 8,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Abdominal",
+        "Modality": "CT",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2023.09.14.109601",
+        "Type": "multiple-choice",
+        "Question": "A 66-year-old man presented to our hospital with a 5-year history of recurrent episodes of epigastric burning pain, bloating, and constipation. In the past 3 months, the patient reported that his symptoms had resulted in him losing 4·5 kg in weight. CT of the patient’s abdomen showed gastric dilation above the junction between the gastric antrum and the duodenum where the calibre of the gastric antrum reduced substantially in diameter. Laboratory investigations found a positive test for Helicobacter pylori. What diagnosis would be most likely?",
+        "OptionA": "Peptic ulcer disease",
+        "OptionB": "Chronic pancreatitis",
+        "OptionC": "Gastric cancer",
+        "OptionD": "Crohn’s disease",
+        "Answer": "Peptic ulcer disease",
+        "AnswerLabel": "A",
+        "num_image": 2,
+        "image_ids": [
+            "8-1.jpg",
+            "8-2.jpg"
+        ]
+    },
+    {
+        "ID": 9,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Cardiovascular",
+        "Modality": "CT",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2023.09.07.109596",
+        "Type": "multiple-choice",
+        "Question": "A 77-year-old man, who had catheter ablation of atrial fibrillation 2 weeks beforehand, was referred to our unit with dyspnoea and pyrexia. A chest CT under a longitudinal view was done. Looking at the scan, what is the most likely diagnosis seen in this image?",
+        "OptionA": "Pericardial-oesophageal fistula",
+        "OptionB": "Cardiac tumour",
+        "OptionC": "Acute myocarditis",
+        "OptionD": "Cardiac perforation",
+        "Answer": "Pericardial-oesophageal fistula",
+        "AnswerLabel": "A",
+        "num_image": 1,
+        "image_ids": [
+            "9-1.jpg"
+        ]
+    },
+    {
+        "ID": 10,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Abdominal",
+        "Modality": "MR",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2023.08.23.109583",
+        "Type": "multiple-choice",
+        "Question": "A 33-year-old woman, 28-weeks pregnant, reporting 2 months of increasing discomfort and swelling in her upper abdomen. The findings of an abdominal ultrasound were confirmed by an MRI which showed a large heterogeneous mass in the left lateral liver segments. A biopsy showed hepatocytes without atypia, arranged in 2-cell thick trabeculae; bland hepatocytes surrounded by fibrous septa, containing artery branches and variable amounts of inflammatory infiltrate. Immunohistochemistry showed patchy staining for glutamine synthetase and CD34; glypican 3, heat shock protein 70, and β-catenin were negative. What is the most likely diagnosis?",
+        "OptionA": "Focal nodular hyperplasia",
+        "OptionB": "Haemangioma",
+        "OptionC": "Hepatocellular adenoma",
+        "OptionD": "Fibrolamellar hepatocellular carcinoma",
+        "Answer": "focal nodular hyperplasia",
+        "AnswerLabel": "A",
+        "num_image": 1,
+        "image_ids": [
+            "10-1.jpg"
+        ]
+    },
+    {
+        "ID": 11,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Cardiovascular",
+        "Modality": "Hybrid",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2023.08.21.109582",
+        "Type": "multiple-choice",
+        "Question": "A 65-year-old hypertensive man presented with a 3-month history of progressive fatigue, anorexia, weight loss, and dull abdominal pain. These symptoms were followed by haemoptysis and a worsening estimated glomerular filtration rate. On evaluation, the man was found to have antimyeloperoxidase antineutrophil cytoplasmic antibody (ANCA)-associated pulmonary renal syndrome with diffuse alveolar haemorrhage and rapidly progressive glomerulonephritis, and radiological evidence of abdominal aortitis. Which statement about ANCA-related aortitis is false?",
+        "OptionA": "ANCA-related aortitis involves the aortic intima",
+        "OptionB": "ANCA-related aortitis can be associated with pauci-immune necrotising crescentic glomerulonephritis",
+        "OptionC": "ANCA-related aortitis is not complicated by aortic aneurysms or dissection",
+        "OptionD": "ANCA-related aortitis involves vasculitis and fibrinoid necrosis of the vaso vasorum interna of the aorta",
+        "Answer": "ANCA-related aortitis is not complicated by aortic aneurysms or dissection",
+        "AnswerLabel": "C",
+        "num_image": 4,
+        "image_ids": [
+            "11-1.jpg",
+            "11-2.jpg",
+            "11-3.jpg",
+            "11-4.jpg"
+        ]
+    },
+    {
+        "ID": 13,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "Hybrid",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2023.07.25.109554",
+        "Type": "multiple-choice",
+        "Question": "A 40-year-old man presented with vision problems and a headache that had started the day before. A brain CT showed an acute intracerebral haemorrhage in the left occipital lobe and evidence of an old craniotomy, and a defect in the parenchyma in the right occipital lobe. MRI showed numerous lobar microbleeds and white matter hyperintensities in a multi-spot pattern. Genetic testing for the suspected diseases showed no abnormalities. What is the most likely underlying cause of the haemorrhage?",
+        "OptionA": "Primary central nervous system vasculitis",
+        "OptionB": "Cerebral sinus venous thrombosis",
+        "OptionC": "Iatrogenic cerebral amyloid angiopathy",
+        "OptionD": "Infective aortic valve endocarditis",
+        "Answer": "Iatrogenic cerebral amyloid angiopathy",
+        "AnswerLabel": "C",
+        "num_image": 3,
+        "image_ids": [
+            "13-1.jpg",
+            "13-2.jpg",
+            "13-3.jpg"
+        ]
+    },
+    {
+        "ID": 14,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "MR",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2023.07.19.109551",
+        "Type": "multiple-choice",
+        "Question": "A 52-year-old woman presented with a 4-year history of spontaneous episodes of dizziness, each described as a sudden sensation of the room spinning for 5–40 seconds with no triggers. The episodes occurred approximately three times a day. They had occasionally caused her to fall without any impairment of consciousness. She reported no visual symptoms, tinnitus, or headache. A high-resolution axial T2-weighted MRI of the internal auditory meatus is shown below. Make the diagnosis and select the appropriate treatment from the following options.",
+        "OptionA": "Betahistine",
+        "OptionB": "Epley manoeuvre",
+        "OptionC": "Microvascular decompression surgery of the eighth cranial nerve",
+        "OptionD": "Carbamazepine",
+        "Answer": "Carbamazepine",
+        "AnswerLabel": "D",
+        "num_image": 1,
+        "image_ids": [
+            "14-1.jpg"
+        ]
+    },
+    {
+        "ID": 15,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Musculoskeletal",
+        "Modality": "X-ray",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2023.07.12.109543",
+        "Type": "multiple-choice",
+        "Question": "A two-year-old boy presented with a large unresectable maxillary giant cell tumour. Which of the following is the most effective treatment option?",
+        "OptionA": "Zoledronic acid",
+        "OptionB": "Intralesional corticosteroids",
+        "OptionC": "Denosumab",
+        "OptionD": "Interferon",
+        "Answer": "Denosumab",
+        "AnswerLabel": "C",
+        "num_image": 3,
+        "image_ids": [
+            "15-1.jpg",
+            "15-2.jpg",
+            "15-3.jpg"
+        ]
+    },
+    {
+        "ID": 16,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Chest",
+        "Modality": "Hybrid",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2023.06.22.109524",
+        "Type": "multiple-choice",
+        "Question": "A 41-year-old smoking man presented with cough, polyarthralgia, and dyspnoea. He worked as a glassmaker until 11 years earlier. Imaging showed miliary pattern and cavity lung lesions. What is the diagnosis?",
+        "OptionA": "Tuberculosis",
+        "OptionB": "Sarcoidosis",
+        "OptionC": "Lymphangitic carcinomatosis",
+        "OptionD": "Caplan syndrome",
+        "Answer": "Sarcoidosis",
+        "AnswerLabel": "B",
+        "num_image": 3,
+        "image_ids": [
+            "16-1.jpg",
+            "16-2.jpg",
+            "16-3.jpg"
+        ]
+    },
+    {
+        "ID": 17,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Abdominal",
+        "Modality": "CT",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2023.05.25.109500",
+        "Type": "multiple-choice",
+        "Question": "A 60-year-old woman presented with a 4-day history of mild diffuse abdominal pain and discomfort. The patient was haemodynamically stable, but febrile. On examination she had diffuse left abdomen pain. Laboratory investigations showed a mildly elevated C-reactive protein concentration and a raised white blood cell count. CT scan showed thickening of the descending colon wall, a 3·3 cm × 2·8 cm × 8·0 cm intramural peripherally enhancing hypodense colonic lesion with simultaneous pericolic fat stranding and haziness, and multiple diverticula throughout the remainder of the colon. What is the most likely diagnosis?",
+        "OptionA": "Inflammatory bowel disease",
+        "OptionB": "Large bowel duplication cyst",
+        "OptionC": "Intramural large bowel diverticular abscess",
+        "OptionD": "Colonic cancer",
+        "Answer": "Intramural large bowel diverticular abscess",
+        "AnswerLabel": "C",
+        "num_image": 3,
+        "image_ids": [
+            "17-1.jpg",
+            "17-2.jpg",
+            "17-3.jpg"
+        ]
+    },
+    {
+        "ID": 18,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Cardiovascular",
+        "Modality": "CT",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2023.05.17.109494",
+        "Type": "multiple-choice",
+        "Question": "A 51-year-old woman presented to our emergency room with a 4-day history of fever, chills, abdominal pain, vomiting, and diarrhoea. 24 h after admission, she went into cardiogenic shock. Troponin blood concentration was 104819 ng/L (normal <74). After some initial improvement her condition worsened. A CT scan showed diffuse myocardial calcifications of the left ventricle. The following—apart from one—are recognised causes of diffuse myocardial calcification, which is it?",
+        "OptionA": "Tuberculosis",
+        "OptionB": "Hypoparathyroidism",
+        "OptionC": "Metastatic disease",
+        "OptionD": "Sarcoidosis",
+        "Answer": "Hypoparathyroidism",
+        "AnswerLabel": "B",
+        "num_image": 1,
+        "image_ids": [
+            "18-1.jpg"
+        ]
+    },
+    {
+        "ID": 19,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Cardiovascular",
+        "Modality": "Hybrid",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2023.05.16.109492",
+        "Type": "multiple-choice",
+        "Question": "A 69-year-old woman with a diagnosis of axial and peripheral spondylarthritis in remission with anti-tumour necrosis factor therapy, presented with a recent arthritis flare, asthenia, and weight loss of 10 kg in the last 3 months. Additional investigations found a C-reactive protein of 24 mg/L and the identification of a left atrial mass suggesting a myxoma. Which statement about cardiac myxoma is false?",
+        "OptionA": "It is a frequent malignant neoplasm",
+        "OptionB": "The treatment is surgical",
+        "OptionC": "It can mimic a systemic disease",
+        "OptionD": "It can produce interleukin-6",
+        "Answer": "It is a frequent malignant neoplasm",
+        "AnswerLabel": "A",
+        "num_image": 2,
+        "image_ids": [
+            "19-1.jpg",
+            "19-2.jpg"
+        ]
+    },
+    {
+        "ID": 20,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Urogenital",
+        "Modality": "CT",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2023.05.04.109485",
+        "Type": "multiple-choice",
+        "Question": "An elderly patient with frontotemporal dementia presented with acute kidney injury. His kidney biopsy revealed calcium oxalate crystals. What is the next most pertinent investigation?",
+        "OptionA": "Faecal microbiome testing",
+        "OptionB": "Genetic testing",
+        "OptionC": "Dietary history",
+        "OptionD": "Faecal elastase",
+        "Answer": "Dietary history",
+        "AnswerLabel": "C",
+        "num_image": 1,
+        "image_ids": [
+            "20-1.jpg"
+        ]
+    },
+    {
+        "ID": 21,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "MR",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2023.04.26.109471",
+        "Type": "multiple-choice",
+        "Question": "A 45-year-old man presented to the psychiatry department with 5-year history of an episodic sensation of an unknown smell accompanied by a vision that generally lasted about 1 minute. Initially, the symptoms occurred once every 3 months, but as his work had become more demanding, they occurred more frequently, affecting him weekly in the month before attending the department. Physical examination showed no abnormalities. What is the most likely diagnosis?",
+        "OptionA": "Paranoid schizophrenia",
+        "OptionB": "Temporal lobe epilepsy",
+        "OptionC": "Delirium",
+        "OptionD": "Lewy body disease",
+        "Answer": "Temporal lobe epilepsy",
+        "AnswerLabel": "B",
+        "num_image": 4,
+        "image_ids": [
+            "21-1.jpg",
+            "21-2.jpg",
+            "21-3.jpg",
+            "21-4.jpg"
+        ]
+    },
+    {
+        "ID": 22,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Musculoskeletal",
+        "Modality": "Hybrid",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2023.04.06.109456",
+        "Type": "multiple-choice",
+        "Question": "Which of the following does not underlie the pathogenesis of avascular necrosis in patients with transfusion dependent thalassaemia?",
+        "OptionA": "Exercise",
+        "OptionB": "Microfractures",
+        "OptionC": "Hypoxia",
+        "OptionD": "Medullary expansion",
+        "Answer": "Exercise",
+        "AnswerLabel": "A",
+        "num_image": 2,
+        "image_ids": [
+            "22-1.jpg",
+            "22-2.jpg"
+        ]
+    },
+    {
+        "ID": 23,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Head and neck",
+        "Modality": "MR",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2023.03.22.109442",
+        "Type": "multiple-choice",
+        "Question": "A 50-year-old woman with mantle-cell lymphoma reported a 6-month history of a slow-growing mass over the bridge of her nose. The patient had no pain, respiratory symptoms, nasal discharge, double vision, headache, fever, night sweats, or weight loss. She reported no recent infections or recent international travel. On examination, the swelling was firm, fixed, and painless without any pustules or fistulas. What would be the best first step to assess this patient?",
+        "OptionA": "Hospitalization for intravenous antibiotics",
+        "OptionB": "Attempt to drain the lesion",
+        "OptionC": "Re-staging radiographic imaging",
+        "OptionD": "Lumbar puncture",
+        "Answer": "Re-staging radiographic imaging",
+        "AnswerLabel": "C",
+        "num_image": 1,
+        "image_ids": [
+            "23-1.jpg"
+        ]
+    },
+    {
+        "ID": 24,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Chest",
+        "Modality": "CT",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2023.03.16.109438",
+        "Type": "multiple-choice",
+        "Question": "A 69-year-old woman presented with fever, respiratory failure, and bilateral nodular pulmonary lesions resistant to antibiotics therapy. Cultures of blood, urine, broncho-alveolar lavage fluid, and a sample of a lung biopsy showed non-extended-spectrum β-lactamase-producing strain E coli, mucoid phenotype, characterised by a thick polysaccharide wall impervious to antibiotics. Which of the following bacteria does not produce a mucoid phenotype?",
+        "OptionA": "Pseudomonas aeruginosa",
+        "OptionB": "Neisseria gonorrhoeae",
+        "OptionC": "Acinetobacter baumannii",
+        "OptionD": "Escherichia coli",
+        "Answer": "Neisseria gonorrhoeae",
+        "AnswerLabel": "B",
+        "num_image": 2,
+        "image_ids": [
+            "24-1.jpg",
+            "24-2.jpg"
+        ]
+    },
+    {
+        "ID": 25,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Abdominal",
+        "Modality": "CT",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2023.03.02.109424",
+        "Type": "multiple-choice",
+        "Question": "A 71-year-old woman with a 3-month history of nausea, weight loss, and iron deficiency anaemia attended hospital for further investigation. She had been referred after initial investigations found an anaemia (haemoglobin concentration 8·9 g/dL) and mild thrombocytosis (platelet count 589 x 109 per L). Gastroscopy showed an ulcerating mucosal lesion on the lesser curve of the stomach which was biopsied and confirmed histologically as a moderately differentiated adenocarcinoma; the tumour was human epidermal growth factor receptor 2 (HER2) positive. Which of the following treatments may provide sustained remission beyond 36 months?",
+        "OptionA": "Cisplatin",
+        "OptionB": "Trastuzumab",
+        "OptionC": "Capecitabine",
+        "OptionD": "Taxol",
+        "Answer": "Taxol",
+        "AnswerLabel": "D",
+        "num_image": 1,
+        "image_ids": [
+            "25-1.jpg"
+        ]
+    },
+    {
+        "ID": 27,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Chest",
+        "Modality": "CT",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2023.01.25.109386",
+        "Type": "multiple-choice",
+        "Question": "Which of the following pulmonary manifestations are common findings in advanced cystic fibrosis?",
+        "OptionA": "Pulmonary embolism",
+        "OptionB": "Upper lobe bronchiectasis",
+        "OptionC": "Pulmonary sequestration",
+        "OptionD": "Pulmonary fibrosis",
+        "Answer": "Upper lobe bronchiectasis",
+        "AnswerLabel": "B",
+        "num_image": 3,
+        "image_ids": [
+            "27-1.jpg",
+            "27-2.jpg",
+            "27-3.jpg"
+        ]
+    },
+    {
+        "ID": 28,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "MR",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2023.01.19.109382",
+        "Type": "multiple-choice",
+        "Question": "A 20-year-old man presented at the emergency department with a 48-h history of painless progressive right-sided weakness. On examination, the patient had partial amnesic aphasia and showed hemiparesis on the right side. Brain MRI showed lesions in left periventricular and medulla oblongata. After standard high-dose steroid treatment and consecutive plasmapheresis the patient did not show any clinical improvement. A further brain MRI showed an enlargement of the left periventricular lesion, but now, with marked contrast-enhancement. What is the most likely diagnosis?",
+        "OptionA": "Progressive ischemic stroke",
+        "OptionB": "Tumefactive inflammatory demyelination",
+        "OptionC": "Primary CNS lymphoma",
+        "OptionD": "Progressive multifocal leukoencephalopathy with immune reconstitution inflammatory",
+        "Answer": "Tumefactive inflammatory demyelination",
+        "AnswerLabel": "B",
+        "num_image": 1,
+        "image_ids": [
+            "28-1.jpg"
+        ]
+    },
+    {
+        "ID": 29,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Musculoskeletal",
+        "Modality": "Hybrid",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2023.01.12.109375",
+        "Type": "multiple-choice",
+        "Question": "A 70-year-old man with familial hypercholesterolemia complained swelling and aching in left ankle developing over 2 weeks. He reported no recent trauma. An x-ray taken 2 years before showed thickening of the left Achilles tendon—suggestive of xanthomas. A repeat x-ray and T1-weighed MRI indicated oedema and Achilles tendon rupture. Which of the following statements about Achilles tendon xanthoma is false?",
+        "OptionA": "Thickness of Achilles tendon improves by lowering LDL cholesterol levels",
+        "OptionB": "Achilles tendon softness helps in the diagnosis of familial hypercholesterolemia (FH)",
+        "OptionC": "Xanthelasmas are more specific for FH than Achilles tendon thickening",
+        "OptionD": "Thickness of Achilles tendon correlates with coronary artery disease severity",
+        "Answer": "Xanthelasmas are more specific for FH than Achilles tendon thickening",
+        "AnswerLabel": "C",
+        "num_image": 3,
+        "image_ids": [
+            "29-1.jpg",
+            "29-2.jpg",
+            "29-3.jpg"
+        ]
+    },
+    {
+        "ID": 30,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "CT",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2023.01.05.109370",
+        "Type": "multiple-choice",
+        "Question": "A 64-year-old man with a history of atrial fibrillation with portal vein and superior mesenteric vein thrombosis was admitted with haematemesis. He was diagnosed with non-cirrhotic portal hypertension leading to variceal bleeding. He had two endoscopies with variceal banding and gastric variceal glue injection within 1 month, which were unsuccessful. Given his performance status and comorbidities, and after careful counselling, glue embolisation of the culprit vein was performed via an endovascular approach. Post-procedure, the patient developed left homonymous hemianopia that gradually worsened, leading to cortical blindness. On the basis of the CT scan appearance, which part of the brain is affected?",
+        "OptionA": "Left occipital area",
+        "OptionB": "Right occipital area",
+        "OptionC": "Left parietal area",
+        "OptionD": "Left parietal area",
+        "Answer": "Right occipital area",
+        "AnswerLabel": "B",
+        "num_image": 1,
+        "image_ids": [
+            "30-1.jpg"
+        ]
+    },
+    {
+        "ID": 31,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Abdominal",
+        "Modality": "CT",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2022.12.14.109362",
+        "Type": "multiple-choice",
+        "Question": "An 18-year-old woman was admitted to our hospital for investigation of repeated episodes of rectal bleeding. Over the preceding 5 months, the patient had made 4 visits to our emergency room reporting bleeding from the rectum. The problem was not associated with any other symptoms and was self-limiting. A CT showed an abnormality in the sigmoid colon. What is the most likely cause?",
+        "OptionA": "Lymphoma",
+        "OptionB": "Haemangioma",
+        "OptionC": "Multiple polyps",
+        "OptionD": "Diverticulitis",
+        "Answer": "Haemangioma",
+        "AnswerLabel": "B",
+        "num_image": 1,
+        "image_ids": [
+            "31-1.jpg"
+        ]
+    },
+    {
+        "ID": 32,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "MR",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2022.12.01.109352",
+        "Type": "multiple-choice",
+        "Question": "A 54-year-old woman with a 2-week history of rapidly worsening difficulty with her walking, tremor, a weak voice, and trouble swallowing, attended our hospital. She had a history of systemic lupus erythematosus and antiphospholipid syndrome. Despite extensive immunosuppressive and anticoagulant treatment, she developed multi-organ failure and died 2 months later. Based on the MRI findings, what is the most likely cause of death? Hint: transthoracic echocardiography showed no valvular vegetations and blood and cerebrospinal fluid cultures were negative.",
+        "OptionA": "Multiorgan inflammation due to SLE flare",
+        "OptionB": "Multiorgan ischaemia due to microthrombi caused by catastrophic antiphospholipid syndrome and Libman-Sachs endocarditis",
+        "OptionC": "Multiorgan ischaemia due to septic embolies caused by infectious endocarditis in an immunocompromised patient",
+        "OptionD": "Multiorgan ischaemia due to small vessel vasculitis in SLE",
+        "Answer": "Multiorgan ischaemia due to microthrombi caused by catastrophic antiphospholipid syndrome and Libman-Sachs endocarditis",
+        "AnswerLabel": "B",
+        "num_image": 2,
+        "image_ids": [
+            "32-1.jpg",
+            "32-2.jpg"
+        ]
+    },
+    {
+        "ID": 33,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "Hybrid",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2022.10.31.109324",
+        "Type": "multiple-choice",
+        "Question": "An 85-year-old man with a 5-day history of persistent fever and severe neck pain presented to our hospital. No bacteria were identified in the culture test including cerebrospinal fluid. What is the most probable diagnosis?",
+        "OptionA": "Spinal meningitis",
+        "OptionB": "Spinal gout",
+        "OptionC": "Crowned dense syndrome",
+        "OptionD": "Ankylosing spondylitis",
+        "Answer": "Spinal gout",
+        "AnswerLabel": "B",
+        "num_image": 4,
+        "image_ids": [
+            "33-1.jpg",
+            "33-2.jpg",
+            "33-3.jpg",
+            "33-4.jpg"
+        ]
+    },
+    {
+        "ID": 34,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Musculoskeletal",
+        "Modality": "X-ray",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2022.10.12.109312",
+        "Type": "multiple-choice",
+        "Question": "A 75-year-old man presented with a 12-month history of increasing pain in his right knee; he said that intermittently he had \"popping\" sensations and episodic locking of the joint that prevented full extension. The patient also reported feeling like objects were moving inside his knee. Looking at the x-ray what is the most likely diagnosis?",
+        "OptionA": "Osteoarthritis",
+        "OptionB": "Gouty tophi",
+        "OptionC": "Osteochondromatosis",
+        "OptionD": "Osteochondral injury",
+        "Answer": "Osteochondromatosis",
+        "AnswerLabel": "C",
+        "num_image": 1,
+        "image_ids": [
+            "34-1.jpg"
+        ]
+    },
+    {
+        "ID": 35,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "MR",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2022.09.29.109302",
+        "Type": "multiple-choice",
+        "Question": "A 66-year-old attended our hospital reporting a 1-year-history of progressively worsening difficulties with walking, falls, a tremor, and erectile dysfunction. Additionally, he believed he had become more impulsive, anxious, and he reported feeling resentment towards others. Genetic testing showed 111 CGG trinucleotide repeats in the fragile X mental retardation 1 protein gene (FMRI), confirming a diagnosis of fragile X-associated tremor or ataxia syndrome (FXTAS). Which of the following statements is false?",
+        "OptionA": "All sons of men with FXTAS will have fragile X syndrome",
+        "OptionB": "All daughters of men with FXTAS are obligate FMRI premutation carriers",
+        "OptionC": "Daughters of men with FXTAS have a 50% chance of having the syndrome",
+        "OptionD": "Women with FXTAS have a 50% chance of having a child with the mutation",
+        "Answer": "Daughters of men with FXTAS have a 50% chance of having the syndrome",
+        "AnswerLabel": "C",
+        "num_image": 2,
+        "image_ids": [
+            "35-1.jpg",
+            "35-2.jpg"
+        ]
+    },
+    {
+        "ID": 36,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Chest",
+        "Modality": "CT",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2022.09.14.109286",
+        "Type": "multiple-choice",
+        "Question": "A 79-year-old woman, receiving maintenance peritoneal dialysis, presented with sudden onset of shortness of breath and a right-sided pleural effusion. She reported no cough, fever, or chills; she had no oedema. Pleural fluid analysis showed clear yellow fluid with a nucleated cell count of 113 cells per mm3, including 2% neutrophils, 45% lymphocytes. Pleural protein concentration was 5 g/L, glucose 7·9 mmol/L, and creatinine 498 µmol/L. Blood test showed a white blood cell count of 8·67 x 109 per L, C-reactive protein concentration 0·8 mg/L, glucose concentration was 5·4 mmol/L, protein 69 g/L, albumin 32 g/L and creatinine 512 µmol/L. Liver function was normal. Peritonea dialysis fluid showed a glucose concentration of 7·8 g/L and creatinine of 484 µmol/L. Look at the imaging and select the most likely diagnosis?",
+        "OptionA": "Congestive heart failure",
+        "OptionB": "Pleuro-peritoneal communication",
+        "OptionC": "Nephrotic syndrome",
+        "OptionD": "Malignant pleural effusion",
+        "Answer": "Pleuro-peritoneal communication",
+        "AnswerLabel": "B",
+        "num_image": 2,
+        "image_ids": [
+            "36-1.jpg",
+            "36-2.jpg"
+        ]
+    },
+    {
+        "ID": 37,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Musculoskeletal",
+        "Modality": "MR",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2022.09.08.109281",
+        "Type": "multiple-choice",
+        "Question": "A 31-year-old HIV positive man presented to the hospital with a vesicular rash, perianal lesions, swollen inguinal lymph nodes, and arthralgia of the right knee. 1 week before symptom onset he had unprotected sex with a man. Specimens from two different skin lesions yielded a positive PCR result for monkeypox virus. 11 days later the patient presented a marked swelling of the right knee, indicating the need for arthrocentesis. What is the most likely diagnosis?",
+        "OptionA": "Viral arthritis",
+        "OptionB": "Reactive arthritis",
+        "OptionC": "New onset of juvenile idiopathic arthritis",
+        "OptionD": "Beginning of osteomyelitis",
+        "Answer": "Viral arthritis",
+        "AnswerLabel": "A",
+        "num_image": 1,
+        "image_ids": [
+            "37-1.jpg"
+        ]
+    },
+    {
+        "ID": 38,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "Hybrid",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2022.08.31.109273",
+        "Type": "multiple-choice",
+        "Question": "A 59-year-old man attended our emergency department reporting a sudden onset of a severe headache and photophobia. A CT scan of the patient’s head showed a diffuse subarachnoid haemorrhage predominantly in the basal cisterns. During three-dimensional rotational angiography, a posterior inferior cerebellar artery aneurysm ruptured. Regarding aneurysm rupture, which of the following statements is correct?",
+        "OptionA": "Rebleeding or rupture of cerebral aneurysms occurs in 8-23% of cases within the first 72 h",
+        "OptionB": "Between 50-90% of case of rupture or rebleeding of cerebral aneurysms occur after 12 h",
+        "OptionC": "Risk factors for rebleeding include hypotension and a small aneurysm",
+        "OptionD": "All cases of rebleeding or rupture occur after administration of antiplatelet drugs",
+        "Answer": "Rebleeding or rupture of cerebral aneurysms occurs in 8-23% of cases within the first 72 h",
+        "AnswerLabel": "A",
+        "num_image": 2,
+        "image_ids": [
+            "38-1.jpg",
+            "38-2.jpg"
+        ]
+    },
+    {
+        "ID": 40,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Cardiovascular",
+        "Modality": "MR",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2022.08.17.109257",
+        "Type": "multiple-choice",
+        "Question": "A 39-year-old man with uneventful medical history presents with biventricular heart failure, ascites, and bronze skin pigmentation. Looking at the cardiac magnetic resonance. What is the most likely diagnosis?",
+        "OptionA": "Arrhythmogenic right ventricular dysplasia",
+        "OptionB": "Cardiac sarcoidosis",
+        "OptionC": "Juvenile haemochromatosis",
+        "OptionD": "Beta-thalassaemia",
+        "Answer": "Juvenile haemochromatosis",
+        "AnswerLabel": "C",
+        "num_image": 3,
+        "image_ids": [
+            "40-1.jpg",
+            "40-2.jpg",
+            "40-3.jpg"
+        ]
+    },
+    {
+        "ID": 41,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Musculoskeletal",
+        "Modality": "MR",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2022.06.30.109208",
+        "Type": "multiple-choice",
+        "Question": "A 34-year-old man was run over the right side of his body by a truck. Initially imaging shown no abnormalities. A fluctuant swelling was noted around the right hip 3 weeks later. Looking at the MRI, what is the most likely diagnosis?",
+        "OptionA": "Haematoma",
+        "OptionB": "Post-traumatic myositis ossificans",
+        "OptionC": "Morel-Lavallée lesion",
+        "OptionD": "Neoplasm",
+        "Answer": "Morel-Lavallée lesion",
+        "AnswerLabel": "C",
+        "num_image": 2,
+        "image_ids": [
+            "41-1.jpg",
+            "41-2.jpg"
+        ]
+    },
+    {
+        "ID": 42,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Chest",
+        "Modality": "X-ray",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2022.06.23.109201",
+        "Type": "multiple-choice",
+        "Question": "An 80-year-old man was admitted to our hospital with chest pain and shortness of breath. The patient had a long medical history of diabetes, ischaemic heart disease, and end stage kidney disease requiring regular haemodialysis. An urgent chest x-ray showed a radio-opaque nodule—not seen in previous x-rays—in the right lower lung field. What do you think it is?",
+        "OptionA": "Implantable cardio-defibrillator",
+        "OptionB": "Part of a denture",
+        "OptionC": "Single-chamber pacemaker",
+        "OptionD": "Continuous glucose monitoring device",
+        "Answer": "Continuous glucose monitoring device",
+        "AnswerLabel": "D",
+        "num_image": 1,
+        "image_ids": [
+            "42-1.jpg"
+        ]
+    },
+    {
+        "ID": 43,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "MR",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2022.05.26.109174",
+        "Type": "multiple-choice",
+        "Question": "Hemangioblastomas of the brain are typically considered an adult tumour. If found in a child, the presence of a brain hemangioblastoma should raise suspicion of one of the following syndromes?",
+        "OptionA": "Li-Fraumeni syndrome",
+        "OptionB": "Von Hippel-Lindau disease",
+        "OptionC": "Sturge-Weber syndrome",
+        "OptionD": "Neurofibromatosis Type 2",
+        "Answer": "Von Hippel-Lindau disease",
+        "AnswerLabel": "B",
+        "num_image": 3,
+        "image_ids": [
+            "43-1.jpg",
+            "43-2.jpg",
+            "43-3.jpg"
+        ]
+    },
+    {
+        "ID": 44,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Abdominal",
+        "Modality": "CT",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2022.05.18.109170",
+        "Type": "multiple-choice",
+        "Question": "A 58-year-old woman presented with a 4-month history of intermittent upper abdominal pain and vomiting. 4 years earlier she underwent an umbilical hernia repair. What is the possible diagnosis based on this CT scan image?",
+        "OptionA": "Retained foreign object or gossypiboma",
+        "OptionB": "Gall stone pancreatitis",
+        "OptionC": "Intra-abdominal mesh",
+        "OptionD": "Small bowel obstruction",
+        "Answer": "Intra-abdominal mesh",
+        "AnswerLabel": "C",
+        "num_image": 1,
+        "image_ids": [
+            "44-1.jpg"
+        ]
+    },
+    {
+        "ID": 45,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Abdominal",
+        "Modality": "CT",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2022.03.24.109116",
+        "Type": "multiple-choice",
+        "Question": "A 25-year-old woman with no medical history presented with recurrent vomiting and weight loss for 2 weeks. A vague abdominal mass was palpable; her abdominal CT is shown below. Which one of the following courses of management of intussusception would be the best?",
+        "OptionA": "Fluid resuscitation, intravenous potassium replacement, and biopsy of the intra-abdominal mass",
+        "OptionB": "Conservative management with close observation",
+        "OptionC": "Emergency laparoscopic assessment and biopsy of the lesion",
+        "OptionD": "Fluid resuscitation followed by immediate laparotomy and bowel resection",
+        "Answer": "Fluid resuscitation followed by immediate laparotomy and bowel resection",
+        "AnswerLabel": "D",
+        "num_image": 1,
+        "image_ids": [
+            "45-1.jpg"
+        ]
+    },
+    {
+        "ID": 46,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Musculoskeletal",
+        "Modality": "CT",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2022.03.03.109094",
+        "Type": "multiple-choice",
+        "Question": "Although elevated parathyroid hormone levels appear to have an expansile effect on calvarial bones, what is the most common skeletal concern in patients with hyperparathyroidism?",
+        "OptionA": "Osteopetrosis",
+        "OptionB": "Osteoporosis",
+        "OptionC": "Osteonecrosis",
+        "OptionD": "Osteosarcoma",
+        "Answer": "Osteoporosis",
+        "AnswerLabel": "B",
+        "num_image": 1,
+        "image_ids": [
+            "46-1.jpg"
+        ]
+    },
+    {
+        "ID": 47,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "MR",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2022.02.17.109072",
+        "Type": "multiple-choice",
+        "Question": "A 57-year-old man was found to have a lesion in his brain. Look at the MRI and decide what deficits might you expect to find clinically?",
+        "OptionA": "Verbal auditory agnosia (word deafness)",
+        "OptionB": "Cortical deafness",
+        "OptionC": "Diplacusis (double hearing)",
+        "OptionD": "Auditory hallucinations",
+        "Answer": "Verbal auditory agnosia (word deafness)",
+        "AnswerLabel": "A",
+        "num_image": 2,
+        "image_ids": [
+            "47-1.jpg",
+            "47-2.jpg"
+        ]
+    },
+    {
+        "ID": 48,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Abdominal",
+        "Modality": "Hybrid",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2022.02.02.109059",
+        "Type": "multiple-choice",
+        "Question": "A 46-year-old woman presented with abdominal discomfort, pressure symptoms, and bowel and bladder changes—including incomplete emptying—associated with a rapidly growing abdomino-pelvic mass. She had previously had power morcellation for multiple uterine myomas. Which of the following statements about power morcellation is false?",
+        "OptionA": "it is very commonly associated with visceral damage",
+        "OptionB": "it should always be performed with in-bag morcellator",
+        "OptionC": "it should not be used in postmenopausal women or when there is a suspicion of malignancy because it can upstage an existing cancer",
+        "OptionD": "it can decrease length of hospital stay, enhance recovery, and improve cosmetic outcome",
+        "Answer": "it is very commonly associated with visceral damage",
+        "AnswerLabel": "A",
+        "num_image": 3,
+        "image_ids": [
+            "48-1.jpg",
+            "48-2.jpg",
+            "48-3.jpg"
+        ]
+    },
+    {
+        "ID": 49,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Chest",
+        "Modality": "Hybrid",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2022.01.13.109023",
+        "Type": "multiple-choice",
+        "Question": "An 83-year-old man presented with a 3-week history of intractable cough and exertional dyspnoea. He had not been vaccinated against SARS-CoV-2 and was 4 weeks into a 7-week course of daptomycin and rifampicin for a prosthetic knee infection. A chest CT showed ground glass opacities. Apart from COVID-19 and community acquired pneumonia, which one of the following is the most likely diagnosis?",
+        "OptionA": "Eosinophilic pneumonitis",
+        "OptionB": "Cryptogenic organising pneumonia",
+        "OptionC": "Mesothelioma",
+        "OptionD": "Invasive pulmonary aspergillosis",
+        "Answer": "Eosinophilic pneumonitis",
+        "AnswerLabel": "A",
+        "num_image": 2,
+        "image_ids": [
+            "49-1.jpg",
+            "49-2.jpg"
+        ]
+    },
+    {
+        "ID": 51,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Abdominal",
+        "Modality": "X-ray",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2022.01.04.109012",
+        "Type": "multiple-choice",
+        "Question": "A 55-year-old women diagnosed with fistulising ileocolonic Crohn’s disease 5 years ago presented with pain and swelling at the right hip for 2 months. The patient had not been using any medication for Crohn’s disease for 3 years before the presentation. She was not able to walk without support, had a fever (38°C), and multiple fistulas on her right inguinal region and right flank. The right inguinal fistula was active with visible faecal discharge. Her right hip was swollen, warm, and had decreased range of motion. The fistulogram of the patient is shown in the image. What is the most likely diagnosis?",
+        "OptionA": "Type 1 arthropathy",
+        "OptionB": "Type 2 arthropathy",
+        "OptionC": "Septic arthritis",
+        "OptionD": "Spondylitis",
+        "Answer": "Septic arthritis",
+        "AnswerLabel": "C",
+        "num_image": 2,
+        "image_ids": [
+            "51-1.jpg",
+            "51-2.jpg"
+        ]
+    },
+    {
+        "ID": 52,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "MR",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2021.12.09.108989",
+        "Type": "multiple-choice",
+        "Question": "Regarding sequencing and oncogenic fusions, which of the following statements is false?",
+        "OptionA": "Tropomyosin receptor kinase (TRK) oncogenic fusions are found in a wide array of cancers in both children and adults",
+        "OptionB": "Without guidance from next generation sequencing routine histopathology cannot detect all relevant druggable targets in cancer",
+        "OptionC": "Treatment targeted to oncogenic fusions in cancer can result in durable responses changing the outcome and prognosis of select patients",
+        "OptionD": "High grade, primary tumours of the brain and spine in infants do not harbour druggable oncogenic targets",
+        "Answer": "High grade, primary tumours of the brain and spine in infants do not harbour druggable oncogenic targets",
+        "AnswerLabel": "D",
+        "num_image": 1,
+        "image_ids": [
+            "52-1.jpg"
+        ]
+    },
+    {
+        "ID": 53,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Urogenital",
+        "Modality": "Hybrid",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2021.11.24.108972",
+        "Type": "multiple-choice",
+        "Question": "A 31-year-old nulliparous woman attended our hospital for treatment of carcinoma of the cervix. She had previously presented with vaginal bleeding when a 28 mm lesion had been found on clinical examination and shown on MRI. The following statements about fertility sparing treatment of carcinoma of the cervix are true except one, which is it?",
+        "OptionA": "Fertility sparing surgery can be safety offered in adenocarcinoma or squamous cell carcinomas",
+        "OptionB": "Fertility sparing surgery can be safety offered in patients with stage IBI disease without nodal metastasis",
+        "OptionC": "Removal of the uterus is required after pregnancy",
+        "OptionD": "Different approaches can be used to carry out fertility sparing surgery",
+        "Answer": "Removal of the uterus is required after pregnancy",
+        "AnswerLabel": "C",
+        "num_image": 1,
+        "image_ids": [
+            "53-1.jpg"
+        ]
+    },
+    {
+        "ID": 54,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Cardiovascular",
+        "Modality": "Hybrid",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2021.11.17.108966",
+        "Type": "multiple-choice",
+        "Question": "A 51-year-old woman presented with dizziness and heart failure. She was taking azathioprine, hydroxychloroquine, and prednisolone for systemic lupus erythematosus. Cardiac MRI showed left ventricular hypertrophy with normal ejection fraction, impaired right ventricular function, and a non-coronary pattern of late gadolinium enhancement. An endomyocardial biopsy showed hypertrophied myocytes with vacuolation. What is the most likely diagnosis?",
+        "OptionA": "Hypertrophic cardiomyopathy",
+        "OptionB": "Hydroxychloroquine-induced cardiomyopathy",
+        "OptionC": "Lupus myocarditis",
+        "OptionD": "Fabry’s disease",
+        "Answer": "Hydroxychloroquine-induced cardiomyopathy",
+        "AnswerLabel": "B",
+        "num_image": 2,
+        "image_ids": [
+            "54-1.jpg",
+            "54-2.jpg"
+        ]
+    },
+    {
+        "ID": 55,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Urogenital",
+        "Modality": "MR",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2021.11.04.108953",
+        "Type": "multiple-choice",
+        "Question": "A 63-year-old man presented to our emergency department with a 1-year history of severe nocturia and straining to pass urine. Additionally, he reported having tenesmus and abdominal pain in the 2 weeks prior to attending. What is your favoured diagnosis here?",
+        "OptionA": "Prostate cystoadenocarcinoma",
+        "OptionB": "Locally advanced urothelial bladder cancer",
+        "OptionC": "Pelvic lymphangioma",
+        "OptionD": "Multilocular peritoneal inclusion cysts",
+        "Answer": "Prostate cystoadenocarcinoma",
+        "AnswerLabel": "A",
+        "num_image": 1,
+        "image_ids": [
+            "55-1.jpg"
+        ]
+    },
+    {
+        "ID": 56,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "MR",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2021.10.28.108942",
+        "Type": "multiple-choice",
+        "Question": "A previously healthy 37-year-old man presented to our emergency room with sudden onset partial vision loss and diplopia while driving home. Transsphenoidal endoscopic resection showed an extradural mass containing yellow crystalline-like fluid. What is the most likely diagnosis?",
+        "OptionA": "Craniopharyngioma",
+        "OptionB": "Cystic pituitary adenoma",
+        "OptionC": "Rathke cleft cyst",
+        "OptionD": "Xanthogranuloma",
+        "Answer": "Xanthogranuloma",
+        "AnswerLabel": "D",
+        "num_image": 2,
+        "image_ids": [
+            "56-1.jpg",
+            "56-2.jpg"
+        ]
+    },
+    {
+        "ID": 57,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Abdominal",
+        "Modality": "CT",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2021.10.18.108929",
+        "Type": "multiple-choice",
+        "Question": "A 58-year-old woman was admitted a 10-hr history of abdominal pain predominantly in the left lower quadrant. Vital signs were normal. Her white blood cell count was raised at 12·4 x 109 per mL. The serum C-reactive protein concentration was 22 mg/L. Look at the CT scans and decide upon the most appropriate treatment.",
+        "OptionA": "Immediate laparotomy and resection of the diseased bowel",
+        "OptionB": "Immediate laparoscopy and laparoscopic lavage if there is no faecal contamination",
+        "OptionC": "Observation without any treatment",
+        "OptionD": "Conservative treatment with antibiotics and close observation",
+        "Answer": "Conservative treatment with antibiotics and close observation",
+        "AnswerLabel": "D",
+        "num_image": 3,
+        "image_ids": [
+            "57-1.jpg",
+            "57-2.jpg",
+            "57-3.jpg"
+        ]
+    },
+    {
+        "ID": 58,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "MR",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2021.10.13.108927",
+        "Type": "multiple-choice",
+        "Question": "A 39-year-old woman was transferred to our neurosurgical service following a fall and development of a progressive quadriparesis over the previous 24 h. The patient had a history of uncontrolled type 1 diabetes and chronic pancreatitis associated with alcohol and benzodiazepine dependence. She was diagnosed with meningitis. Which of following statements is false?",
+        "OptionA": "The classic triad of fever, stiff neck, and alterations in mental status is present in about two-thirds of adults",
+        "OptionB": "Fever is the most common finding",
+        "OptionC": "The absence of fever, neck stiffness, and altered mental status eliminates meningitis as a likely diagnosis with a sensitivity of about 70%",
+        "OptionD": "Signs and symptoms alone do not provide sufficient information to diagnose meningitis",
+        "Answer": "The absence of fever, neck stiffness, and altered mental status eliminates meningitis as a likely diagnosis with a sensitivity of about 70%",
+        "AnswerLabel": "C",
+        "num_image": 1,
+        "image_ids": [
+            "58.jpg"
+        ]
+    },
+    {
+        "ID": 59,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Cardiovascular",
+        "Modality": "MR",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2021.10.06.108922",
+        "Type": "multiple-choice",
+        "Question": "An 81-year-old man presented with 1-year history of shortness of breath. Clinical examination found a pan-systolic murmur. Look at the findings of the echocardiography and cardiovascular magnetic resonance and suggest the most likely diagnosis.",
+        "OptionA": "Mild mitral regurgitation and non-ischaemic cardiomyopathy",
+        "OptionB": "Mild mitral regurgitation and ischaemic cardiomyopathy",
+        "OptionC": "Tricuspid regurgitation",
+        "OptionD": "Aortic regurgitation",
+        "Answer": "Mild mitral regurgitation and non-ischaemic cardiomyopathy",
+        "AnswerLabel": "A",
+        "num_image": 1,
+        "image_ids": [
+            "59.jpg"
+        ]
+    },
+    {
+        "ID": 60,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Cardiovascular",
+        "Modality": "MR",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2021.09.29.108913",
+        "Type": "multiple-choice",
+        "Question": "A 32-year-old woman presented to our department for an evaluation of possible cardiac manifestations of tuberous sclerosis. The patient had been diagnosed with tuberous sclerosis in her early childhood when she started having daily focal seizures. The following statements about cardiac findings in tuberous sclerosis and the MRI (pictured) are true except one, which is it?",
+        "OptionA": "Tuberous sclerosis complex is characterized by hamartomas in various organs",
+        "OptionB": "Cardiac rhabdomyomas are closely associated with tuberous sclerosis complex",
+        "OptionC": "Cardiac rhabdomyomas regress spontaneously in a large majority of patients during the first year of life",
+        "OptionD": "The cardiac MRI shows multiple cardiac rhabdomyomas",
+        "Answer": "The cardiac MRI shows multiple cardiac rhabdomyomas",
+        "AnswerLabel": "D",
+        "num_image": 1,
+        "image_ids": [
+            "60.jpg"
+        ]
+    },
+    {
+        "ID": 61,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Urogenital",
+        "Modality": "Hybrid",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2021.09.16.108898",
+        "Type": "multiple-choice",
+        "Question": "The most common electrolyte abnormality found in a patient with a renin secreting tumour—also known as a reninoma or juxtglomerular tumour—is?",
+        "OptionA": "hyponatremia",
+        "OptionB": "hypokalaemia",
+        "OptionC": "hypophosphatemia",
+        "OptionD": "hyperchlorhydria",
+        "Answer": "hypokalaemia",
+        "AnswerLabel": "B",
+        "num_image": 1,
+        "image_ids": [
+            "61.jpg"
+        ]
+    },
+    {
+        "ID": 62,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Head and neck",
+        "Modality": "Hybrid",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2021.09.14.108893",
+        "Type": "multiple-choice",
+        "Question": "A 17-year-old boy with paediatric inflammatory multisystem syndrome temporally associated with COVID-19 presented with bilateral mild blurring of vision, bilateral red eyes, photophobia, and aching bilateral eye pain that disturbed his sleep. After instillation of 10% phenylephrine drops to both eyes, the injection remained. Slit lamp examination showed a bilateral anterior chamber grading of 2+ (16–25 cells in a 1 mm × 1 mm field). Look at the images of his eyes and choose the most likely diagnosis.",
+        "OptionA": "Viral conjunctivitis",
+        "OptionB": "Acute glaucoma",
+        "OptionC": "Episcleritis",
+        "OptionD": "Anterior uveitis and scleritis",
+        "Answer": "Anterior uveitis and scleritis",
+        "AnswerLabel": "D",
+        "num_image": 1,
+        "image_ids": [
+            "62.jpg"
+        ]
+    },
+    {
+        "ID": 63,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Abdominal",
+        "Modality": "MR",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2021.09.09.108885",
+        "Type": "multiple-choice",
+        "Question": "A 42-year-old woman with known paroxysmal nocturnal haemoglobinuria (PNH) presented with sudden onset of abdominal pain. Imaging showed occlusion of hepatic veins and indirect signs of portal hypertension consistent with Budd-Chiari syndrome. Which one of the following statements is false?",
+        "OptionA": "In PNH the presence of JAK2 mutation is responsible for thrombophilia",
+        "OptionB": "PNH is a major risk factor for thrombosis—particularly in unusual anatomic locations",
+        "OptionC": "Intravascular haemolysis, thrombotic events, and bone marrow failure represent the classical clinical manifestations of PNH",
+        "OptionD": "Treatment with anti-complement inhibitors results in reduction of thrombotic events",
+        "Answer": "In PNH the presence of JAK2 mutation is responsible for thrombophilia",
+        "AnswerLabel": "A",
+        "num_image": 1,
+        "image_ids": [
+            "63.jpg"
+        ]
+    },
+    {
+        "ID": 64,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Pediatric",
+        "Modality": "Hybrid",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2021.09.02.108876",
+        "Type": "multiple-choice",
+        "Question": "Regarding pneumomediastinum causing respiratory distress after birth, one of the following statements is incorrect. Which is it?",
+        "OptionA": "It usually resolves within 1-2 days",
+        "OptionB": "Requires drainage in most cases",
+        "OptionC": "Can be diagnosed with lung ultrasound",
+        "OptionD": "May lead to pneumothorax or emphysema",
+        "Answer": "Requires drainage in most cases",
+        "AnswerLabel": "B",
+        "num_image": 2,
+        "image_ids": [
+            "64-1.jpg",
+            "64-2.jpg"
+        ]
+    },
+    {
+        "ID": 65,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "CT",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2021.08.26.108865",
+        "Type": "multiple-choice",
+        "Question": "A previously healthy 27-year-old man presented with violent behaviour, altered mental state, and seizures. Blood ammonia level was 591 μmol/L. He had a steroid injection a week before because of chronic back pain. CT head showed diffuse cerebral oedema with effacement of bilateral lateral ventricles and genetic testing showed X-linked ornithine transcarbamylase deficiency (OTCD). Which of the following statement is false?",
+        "OptionA": "OTCD is the most common urea cycle disorder",
+        "OptionB": "Patients with OTCD usually have elevated orotic acid in urine and low plasma citrulline",
+        "OptionC": "OTCD of the donor can be considered for a liver transplantation",
+        "OptionD": "Haemodialysis should be considered as a first line treatment for a significant elevation of ammonia",
+        "Answer": "OTCD of the donor can be considered for a liver transplantation",
+        "AnswerLabel": "C",
+        "num_image": 1,
+        "image_ids": [
+            "65.jpg"
+        ]
+    },
+    {
+        "ID": 66,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Musculoskeletal",
+        "Modality": "Hybrid",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2021.08.26.108866",
+        "Type": "multiple-choice",
+        "Question": "A 38-year-old woman presented with a spontaneous uterine rupture at 31 weeks of gestation. Tests confirmed a pathogenic mutation in the COL3A1 gene, consistent with vascular Ehlers-Danlos syndrome. The subtypes of Ehlers-Danlos syndrome shown below are autosomal dominant disorders, except for:",
+        "OptionA": "Vascular subtype",
+        "OptionB": "Classical subtype",
+        "OptionC": "Hypermobile subtype",
+        "OptionD": "Kyphoscoliotic subtype",
+        "Answer": "Kyphoscoliotic subtype",
+        "AnswerLabel": "D",
+        "num_image": 1,
+        "image_ids": [
+            "66.jpg"
+        ]
+    },
+    {
+        "ID": 67,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Cardiovascular",
+        "Modality": "CT",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2021.08.05.108843",
+        "Type": "multiple-choice",
+        "Question": "A 66-year-old man presented with an ST-elevation myocardial infarction and occluded circumflex artery. After successful coronary stenting, positron emission tomography with 18F-GP1 (a tracer targeting acute thrombus formation) was performed alongside coronary CT angiography. What is the diagnosis?",
+        "OptionA": "Type 1 MI due to atherosclerotic plaque rupture",
+        "OptionB": "Type 1 MI due to atherosclerotic plaque erosion",
+        "OptionC": "Type 2 MI due to ventricular fibrillation and rate related ischaemia",
+        "OptionD": "Type 2 MI due to coronary embolism from a left atrial appendage clot",
+        "Answer": "Type 2 MI due to coronary embolism from a left atrial appendage clot",
+        "AnswerLabel": "D",
+        "num_image": 1,
+        "image_ids": [
+            "67.jpg"
+        ]
+    },
+    {
+        "ID": 68,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Urogenital",
+        "Modality": "CT",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2021.07.22.108827",
+        "Type": "multiple-choice",
+        "Question": "An 87-year-old woman developed an acute kidney injury (AKI) 48 h after a chest CT with intravenous contrast. A non-contrast CT of the abdomen 53 h after the original is shown below. Which of the following statements about contrast-associated AKI is false?",
+        "OptionA": "It is characterised by oliguria and low fractional excretion of sodium",
+        "OptionB": "It occurs most commonly in patients with pre-existing kidney disease",
+        "OptionC": "It is supported by the presence of muddy brown casts in urine sediment",
+        "OptionD": "It occurs within 7 days of administration of the contrast",
+        "Answer": "It is supported by the presence of muddy brown casts in urine sediment",
+        "AnswerLabel": "C",
+        "num_image": 2,
+        "image_ids": [
+            "68-1.jpg",
+            "68-2.jpg"
+        ]
+    },
+    {
+        "ID": 69,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Chest",
+        "Modality": "CT",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2021.07.14.108821",
+        "Type": "multiple-choice",
+        "Question": "A 50-year-old male smoker presented with a 2-year history of mild exertional dyspnoea and a dry cough. Physical examination was unremarkable. Chest x-ray was normal, but lung function testing showed a moderate reduction in diffusion capacity for carbon monoxide. Look at the CT chest and choose the most likely diagnosis.",
+        "OptionA": "Chronic obstructive pulmonary disease",
+        "OptionB": "Pulmonary alveolar proteinosis",
+        "OptionC": "Idiopathic pulmonary fibrosis",
+        "OptionD": "Pulmonary Langerhans cell histiocytosis",
+        "Answer": "Pulmonary alveolar proteinosis",
+        "AnswerLabel": "B",
+        "num_image": 1,
+        "image_ids": [
+            "69.jpg"
+        ]
+    },
+    {
+        "ID": 70,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Abdominal",
+        "Modality": "CT",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2021.06.30.108808",
+        "Type": "multiple-choice",
+        "Question": "A 75-year-old woman was admitted with persistent hypokalaemia. She had a history of dyslipidaemia, type 2 diabetes, and hypertension. Abdominal CT showed a large mass in the omental bursa. What is the most likely diagnosis here?",
+        "OptionA": "Pancreatic adenocarcinoma with ectopic Cushing’s syndrome",
+        "OptionB": "Electrolyte disturbance due to vomiting: compression symptoms from the mass",
+        "OptionC": "Primary aldosteronism",
+        "OptionD": "Intestinal lymphoma with electrolyte disturbance",
+        "Answer": "Pancreatic adenocarcinoma with ectopic Cushing’s syndrome",
+        "AnswerLabel": "A",
+        "num_image": 2,
+        "image_ids": [
+            "70-1.jpg",
+            "70-2.jpg"
+        ]
+    },
+    {
+        "ID": 71,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Head and neck",
+        "Modality": "MR",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2021.06.24.108800",
+        "Type": "multiple-choice",
+        "Question": "A 50-year-old woman attended our emergency department with a 3-day history of severe back pain and a severe headache. Ten days earlier she had received the first dose of vaccine against SARS-CoV-2—ChADOx1 nCoV-19. What is the best first step management of this patient?",
+        "OptionA": "Investigate blood count—including platelet count, fibrinogen, and D-Dimer concentration",
+        "OptionB": "CT cerebral venography",
+        "OptionC": "SARS-CoV-2 RT-PCR of nasopharyngeal swab",
+        "OptionD": "Thrombelastography to evaluate clot stability and fibrinolysis",
+        "Answer": "Investigate blood count—including platelet count, fibrinogen, and D-Dimer concentration",
+        "AnswerLabel": "A",
+        "num_image": 1,
+        "image_ids": [
+            "71.jpg"
+        ]
+    },
+    {
+        "ID": 72,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Head and neck",
+        "Modality": "MR",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2021.06.17.108793",
+        "Type": "multiple-choice",
+        "Question": "A 51-year-old woman presented with a 5-year history of tinnitus and a loud clicking sound in her left ear. The clicking was persistent and distressing, but disappeared when she ate and spoke, and she could suppress it at will for a short time. Otorhinolaryngological studies and tympanometry showed no abnormalities, and examination showed a semi-rhythmic movement of the soft palate. What is your favoured diagnosis?",
+        "OptionA": "Cavernous arteriovenous fistula",
+        "OptionB": "Middle ear myoclonus",
+        "OptionC": "Oral dyskinesia",
+        "OptionD": "Palatal tremor",
+        "Answer": "Palatal tremor",
+        "AnswerLabel": "D",
+        "num_image": 1,
+        "image_ids": [
+            "72.jpg"
+        ]
+    },
+    {
+        "ID": 73,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Cardiovascular",
+        "Modality": "CT",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2021.06.09.108789",
+        "Type": "multiple-choice",
+        "Question": "A 24-year-old man presented with a 5-day history of rapidly progressive shortness of breath, chest pain, and dry cough. 2-months earlier he completed a course of anti-tuberculosis medication. On examination, he had a tachycardia, pulsus paradoxus, jugular venous distension, and muffled heart sounds. Which of the following diagnoses is most likely here?",
+        "OptionA": "Constrictive pericarditis",
+        "OptionB": "Pulmonary embolism",
+        "OptionC": "Cardiac tamponade",
+        "OptionD": "Tension pneumothorax",
+        "Answer": "Cardiac tamponade",
+        "AnswerLabel": "C",
+        "num_image": 1,
+        "image_ids": [
+            "73.jpg"
+        ]
+    },
+    {
+        "ID": 74,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "MR",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2021.06.02.108782",
+        "Type": "multiple-choice",
+        "Question": "A 35-year-old woman presented with a 3-day history of dizziness, nausea, and fatigue. Neurological examination was normal. Blood pressure was 83/39 mm Hg. Laboratory investigations indicated a syndrome of inappropriate antidiuretic hormone secretion. CSF showed 8x106 leucocytes per L and a slightly increased CSF:serum albumin ratio without oligoclonal bands or malignant cells. Look at the MRI and choose the most likely diagnosis.",
+        "OptionA": "High-grade Glioma",
+        "OptionB": "Neuromyelitis optica",
+        "OptionC": "Subacute stroke (with disruption of the blood brain barrier)",
+        "OptionD": "Ependymoma",
+        "Answer": "High-grade Glioma",
+        "AnswerLabel": "A",
+        "num_image": 1,
+        "image_ids": [
+            "74.jpg"
+        ]
+    },
+    {
+        "ID": 75,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Musculoskeletal",
+        "Modality": "X-ray",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2021.05.19.108762",
+        "Type": "multiple-choice",
+        "Question": "A 63-year-old man attended our hospital reporting a 3-month history of diffuse pain in both hands. He had been investigated for primary hyperparathyroidism with previous episodes of hypercalcaemia, the last episode necessitated hospitalisation. Which of the following options lists all the signs of osteitis fibrosa cystica clearly visible?",
+        "OptionA": "Subperiosteal resorption, cystic lesion, and lucent striations",
+        "OptionB": "Cystic lesion, cortical tunnelling, and salt-and-pepper degranulation",
+        "OptionC": "Brown tumour, subperiosteal resorption, and bone tape",
+        "OptionD": "Lytic lesions, lucent striations, and brown tumour",
+        "Answer": "Subperiosteal resorption, cystic lesion, and lucent striations",
+        "AnswerLabel": "A",
+        "num_image": 1,
+        "image_ids": [
+            "75.jpg"
+        ]
+    },
+    {
+        "ID": 76,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Cardiovascular",
+        "Modality": "Hybrid",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2021.05.14.108754",
+        "Type": "multiple-choice",
+        "Question": "A 51-year-old woman attended our emergency department with a 3-day history of dyspnoea, fatigue, and cough; 11 days earlier she had the ChAdOx1 nCoV-19 vaccination. What is the best first step in the management of this patient?",
+        "OptionA": "Blood count, including platelet count and D-Dimer",
+        "OptionB": "Compression ultrasound of both legs",
+        "OptionC": "SARS-CoV-2 RT-PCR on nasopharyngeal swab",
+        "OptionD": "CT pulmonary angiography",
+        "Answer": "Blood count, including platelet count and D-Dimer",
+        "AnswerLabel": "A",
+        "num_image": 1,
+        "image_ids": [
+            "76.jpg"
+        ]
+    },
+    {
+        "ID": 77,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Abdominal",
+        "Modality": "CT",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2021.05.07.108745",
+        "Type": "multiple-choice",
+        "Question": "A 46 year old Asian male presented with abdominal pain and was found to have adrenalitis on CT. He subsequently developed pleural effusions, ascites and subcutaneous edema, severe thrombocytopenia 29 giga/L, fever with C-reactive protein 266 mg/L, ferritin 8626 µg/L and mild diffuse lymphadenopathy with mild hepatosplenogaly. Excisional biopsy of a cervical lymph node demonstrated many regressed germinal centers, prominent vascularity, very prominent follicular dendritic cells, and marked polyclonal plasmacytosis. Which is the correct diagnosis?",
+        "OptionA": "Mononucleosis",
+        "OptionB": "Intravascular B cell lymphoma, hemophagocytic variant",
+        "OptionC": "Idiopathic multicentric Castleman disease, TAFRO variant",
+        "OptionD": "COVID-19 cytokine storm syndrome",
+        "Answer": "Idiopathic multicentric Castleman disease, TAFRO variant",
+        "AnswerLabel": "C",
+        "num_image": 1,
+        "image_ids": [
+            "77.jpg"
+        ]
+    },
+    {
+        "ID": 78,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Musculoskeletal",
+        "Modality": "Hybrid",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2021.04.29.108734",
+        "Type": "multiple-choice",
+        "Question": "A 54-year-old woman with no notable medical history presents with widespread skin lesions suggestive of calcinosis cutis. Calcium and phosphate levels are within normal range. What is the most likely diagnosis?",
+        "OptionA": "Systemic sclerosis",
+        "OptionB": "Sarcoidosis",
+        "OptionC": "Chronic renal failure",
+        "OptionD": "Milk-alkali syndrome",
+        "Answer": "Systemic sclerosis",
+        "AnswerLabel": "A",
+        "num_image": 1,
+        "image_ids": [
+            "78.jpg"
+        ]
+    },
+    {
+        "ID": 79,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Head and neck",
+        "Modality": "MR",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2021.04.29.108736",
+        "Type": "multiple-choice",
+        "Question": "A 55-year-old woman presented with conjunctival congestion, retroorbital pain, and diplopia. She had received her first vaccine against SARS-CoV-2 10 days earlier. Look at the MRIs and select the most likely cause.",
+        "OptionA": "Tolosa-Hunt syndrome",
+        "OptionB": "Superior ophthalmic vein thrombosis",
+        "OptionC": "Carotid cavernous fistula",
+        "OptionD": "Peri-phlebitis of the superior ophthalmic vein",
+        "Answer": "Superior ophthalmic vein thrombosis",
+        "AnswerLabel": "B",
+        "num_image": 1,
+        "image_ids": [
+            "79.jpg"
+        ]
+    },
+    {
+        "ID": 80,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Pediatric",
+        "Modality": "X-ray",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2021.04.22.108724",
+        "Type": "multiple-choice",
+        "Question": "A 4-year old girl was admitted to our hospital after she collapsed at home while having dinner. She had cardiomegaly, hepatomegaly, and bilateral pleural effusions. She was found to have coeliac disease. Which of the following statements is false?",
+        "OptionA": "Most patients are symptom free on an appropriate diet",
+        "OptionB": "The pathophysiology is an IgE mediated type 1 allergy",
+        "OptionC": "Laboratory tests should include anti-tissue transglutaminase antibodies, endomysial antibodies, and anti-deamidated gliadin peptides",
+        "OptionD": "Symptoms frequently occurring after the introduction of solid foods, include diarrhoea, abdominal distension, and failure to thrive",
+        "Answer": "The pathophysiology is an IgE mediated type 1 allergy",
+        "AnswerLabel": "B",
+        "num_image": 1,
+        "image_ids": [
+            "80.jpg"
+        ]
+    },
+    {
+        "ID": 81,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Head and neck",
+        "Modality": "CT",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2021.04.19.108721",
+        "Type": "multiple-choice",
+        "Question": "A 75-year-old man presented with severe impairment of his general condition and progressive cachexia requiring enteral nutrition via tube. Serum calcium was normal, whereas sodium was low. On physical examination, stiffened ear cartilage compatible with petrified ears was noticed. A 3D reconstruction from a CT scan confirmed calcification of the elastic cartilage of both external ears. What is the most likely diagnosis?",
+        "OptionA": "Systemic scleroderma",
+        "OptionB": "Adrenal insufficiency",
+        "OptionC": "Calciphylaxis",
+        "OptionD": "Hyperparathyroidism",
+        "Answer": "Adrenal insufficiency",
+        "AnswerLabel": "B",
+        "num_image": 1,
+        "image_ids": [
+            "81.jpg"
+        ]
+    },
+    {
+        "ID": 82,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Head and neck",
+        "Modality": "CT",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2021.04.08.108708",
+        "Type": "multiple-choice",
+        "Question": "A 40 year-old-woman presented to our outpatient clinic with a 6-month history of pain in her throat and a feeling that she had a foreign body in the submandibular region. She was diagnosed with Eagle syndrome. Which one of the following differential diagnoses is highly unlikely here?",
+        "OptionA": "Peritonsillar abscess",
+        "OptionB": "Nervus intermedius neuralgia",
+        "OptionC": "Carotid aneurysm",
+        "OptionD": "Cerebellopontine angle tumour",
+        "Answer": "Peritonsillar abscess",
+        "AnswerLabel": "A",
+        "num_image": 1,
+        "image_ids": [
+            "82.jpg"
+        ]
+    },
+    {
+        "ID": 83,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Chest",
+        "Modality": "CT",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2021.03.11.108684",
+        "Type": "multiple-choice",
+        "Question": "A 63-year-old man presented with a 1-month history of an insidious fever with chills, a non-productive cough and 5 kgs loss of weight. CT thorax showed an enhancing mass at the aorto-pulmonary window. He was found to have melioidosis. Which one of the following statements is false?",
+        "OptionA": "Melioidosis is caused by gram-negative bacillus Burkholderia pseudomallei",
+        "OptionB": "Melioidosis treatment usually requires an initial intensive phase followed by eradication therapy to prevent recrudescence or relapse",
+        "OptionC": "Diagnosis of melioidosis is straight forward and misdiagnosis is uncommon",
+        "OptionD": "Melioidosis is endemic to the northern territory of Australia and southeast Asia",
+        "Answer": "Diagnosis of melioidosis is straight forward and misdiagnosis is uncommon",
+        "AnswerLabel": "C",
+        "num_image": 1,
+        "image_ids": [
+            "83.jpg"
+        ]
+    },
+    {
+        "ID": 84,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Abdominal",
+        "Modality": "Hybrid",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2021.03.02.108673",
+        "Type": "multiple-choice",
+        "Question": "Which of the following is NOT a typical characteristic of stercoral perforation of the colon?",
+        "OptionA": "Perforation at the antimesenteric surface of the colon",
+        "OptionB": "Absence of necrosis on histopathological analysis",
+        "OptionC": "Round or ovoid shaped perforation",
+        "OptionD": "Mostly occur in the distal third of the colon",
+        "Answer": "Absence of necrosis on histopathological analysis",
+        "AnswerLabel": "B",
+        "num_image": 1,
+        "image_ids": [
+            "84.jpg"
+        ]
+    },
+    {
+        "ID": 85,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Urogenital",
+        "Modality": "CT",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2021.03.01.108665",
+        "Type": "multiple-choice",
+        "Question": "A 25-year-old man with a recently discovered scrotal mass and elevated tumour markers presented to the emergency room with acute onset, pulsatile headache, and blurred vision. What is the most likely diagnosis?",
+        "OptionA": "Cerebrovascular accident",
+        "OptionB": "Metastatic disease from a testis malignancy",
+        "OptionC": "Metastatic disease from a lymphoma",
+        "OptionD": "Primary CNS malignancy",
+        "Answer": "Metastatic disease from a testis malignancy",
+        "AnswerLabel": "B",
+        "num_image": 1,
+        "image_ids": [
+            "85.jpg"
+        ]
+    },
+    {
+        "ID": 86,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Musculoskeletal",
+        "Modality": "X-ray",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2020.12.11.108599",
+        "Type": "multiple-choice",
+        "Question": "A 13-year-old girl presented with a 2-week history of mild pain in the right knee. On examination, we found tenderness in the proximal right tibia with no swelling, ecchymosis, or any deformity. The range of motion of the knee was normal. What is the most likely diagnosis?",
+        "OptionA": "Ewing’s sarcoma",
+        "OptionB": "Occult fracture",
+        "OptionC": "Osteosarcoma",
+        "OptionD": "Osteomyelitis",
+        "Answer": "Occult fracture",
+        "AnswerLabel": "B",
+        "num_image": 1,
+        "image_ids": [
+            "86.jpg"
+        ]
+    },
+    {
+        "ID": 88,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Urogenital",
+        "Modality": "CT",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2020.11.27.108583",
+        "Type": "multiple-choice",
+        "Question": "A 24-year-old woman presented with a three-month history of severe abdominal pain, 15.8 kg weight loss, night sweats and general deterioration. The uterus, with an IUD lodged in the myometrium, was enlarged by a mass invading the anterior abdominal wall, bladder, caecum, and small bowel. What is the most likely diagnosis?",
+        "OptionA": "Uterine sarcoma",
+        "OptionB": "Lymphoma",
+        "OptionC": "Abdominal tuberculosis",
+        "OptionD": "Actinomycosis",
+        "Answer": "Actinomycosis",
+        "AnswerLabel": "D",
+        "num_image": 1,
+        "image_ids": [
+            "88.jpg"
+        ]
+    },
+    {
+        "ID": 89,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Musculoskeletal",
+        "Modality": "Hybrid",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2020.11.18.108573",
+        "Type": "multiple-choice",
+        "Question": "Enchondromas are benign cartilage-forming tumours. What is the most common clinical feature of long bone enchondromas?",
+        "OptionA": "Asymptomatic lesion",
+        "OptionB": "Local pain",
+        "OptionC": "Pathologic fracture",
+        "OptionD": "Malignant transformation",
+        "Answer": "Asymptomatic lesion",
+        "AnswerLabel": "A",
+        "num_image": 1,
+        "image_ids": [
+            "89.jpg"
+        ]
+    },
+    {
+        "ID": 90,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Chest",
+        "Modality": "Hybrid",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2020.10.15.108537",
+        "Type": "multiple-choice",
+        "Question": "Hemi-diaphragmatic paralysis can occur with compression of which of the following cervical nerve root or roots?",
+        "OptionA": "C1",
+        "OptionB": "C4",
+        "OptionC": "C7",
+        "OptionD": "C8",
+        "Answer": "C4",
+        "AnswerLabel": "B",
+        "num_image": 1,
+        "image_ids": [
+            "90.jpg"
+        ]
+    },
+    {
+        "ID": 93,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Chest",
+        "Modality": "CT",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2020.08.20.108480",
+        "Type": "multiple-choice",
+        "Question": "The following pathologies have been described in cases of e-cigarette, or vaping, product use-associated lung injury except one, which is it?",
+        "OptionA": "Diffuse alveolar damage",
+        "OptionB": "Acute eosinophilic pneumonia",
+        "OptionC": "Usual interstitial pneumonia",
+        "OptionD": "Organising pneumonia",
+        "Answer": "Usual interstitial pneumonia",
+        "AnswerLabel": "C",
+        "num_image": 1,
+        "image_ids": [
+            "93.jpg"
+        ]
+    },
+    {
+        "ID": 94,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Abdominal",
+        "Modality": "CT",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2020.08.05.108457",
+        "Type": "multiple-choice",
+        "Question": "Regarding a wandering spleen one of the following statements is false. Which is it?",
+        "OptionA": "It is more common in women",
+        "OptionB": "Can cause episodic abdominal pain",
+        "OptionC": "Is likely to cause a microcytic anaemia",
+        "OptionD": "May be treated with a prophylactic splenectomy",
+        "Answer": "Can cause episodic abdominal pain",
+        "AnswerLabel": "B",
+        "num_image": 1,
+        "image_ids": [
+            "94.jpg"
+        ]
+    },
+    {
+        "ID": 95,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "Hybrid",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2020.07.24.108440",
+        "Type": "multiple-choice",
+        "Question": "A 26-year-old man patient presented with global aphasia and headache. Symptoms began 1 h before with visual problems on his right side. MRI—including diffusion-weighted imaging—showed no structural abnormalities but hypoperfusion in large areas of the left hemisphere. What is the most likely diagnosis?",
+        "OptionA": "Complex-partial seizure",
+        "OptionB": "Migraine with prolonged aura",
+        "OptionC": "Ischaemic stroke",
+        "OptionD": "Cerebral sinus venous thrombosis",
+        "Answer": "Migraine with prolonged aura",
+        "AnswerLabel": "B",
+        "num_image": 1,
+        "image_ids": [
+            "95.jpg"
+        ]
+    },
+    {
+        "ID": 96,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Abdominal",
+        "Modality": "CT",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2020.07.16.108428",
+        "Type": "multiple-choice",
+        "Question": "Which of the following has not been found to be associated with a higher risk of developing hepatocellular carcinoma?",
+        "OptionA": "Male sex",
+        "OptionB": "Liver cirrhosis",
+        "OptionC": "Acute hepatitis A infection",
+        "OptionD": "Haemochromatosis",
+        "Answer": "Acute hepatitis A infection",
+        "AnswerLabel": "C",
+        "num_image": 1,
+        "image_ids": [
+            "96.jpg"
+        ]
+    },
+    {
+        "ID": 97,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "Hybrid",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2020.07.09.108418",
+        "Type": "multiple-choice",
+        "Question": "An 85-year old woman had sudden onset of left-sided weakness and slurred speech. In the preceding 6 months she had worsening intractable headaches. MRI head showed ring-enhancing lesions with oedema later found to be Balamuthia mandrillaris (figure). Which of following statements is false?",
+        "OptionA": "B mandrillaris was originally called leptomyxid amoeba",
+        "OptionB": "B mandrillaris is in the acanthamoebidae family",
+        "OptionC": "B mandrillaris is fatal in more than 98% of cases",
+        "OptionD": "B mandrillaris was first isolated from an olive baboon",
+        "Answer": "B mandrillaris was first isolated from an olive baboon",
+        "AnswerLabel": "D",
+        "num_image": 1,
+        "image_ids": [
+            "97.jpg"
+        ]
+    },
+    {
+        "ID": 98,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Cardiovascular",
+        "Modality": "CT",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2020.07.07.108413",
+        "Type": "multiple-choice",
+        "Question": "A 24-week pregnant 18-year-old presented with acute respiratory distress and collapse. Her blood pressure was 222/78 mm Hg, pulse was 39 beats per minute, and she had weak radial pulses and absent pulses in her lower limbs. The following is or are treatment options for severe cases of coarctation of the aorta, select the best answer.",
+        "OptionA": "Balloon angioplasty alone",
+        "OptionB": "Trans-catheter stent implantation",
+        "OptionC": "Surgical coartectomy",
+        "OptionD": "All the above",
+        "Answer": "All the above",
+        "AnswerLabel": "D",
+        "num_image": 1,
+        "image_ids": [
+            "98.jpg"
+        ]
+    },
+    {
+        "ID": 100,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Cardiovascular",
+        "Modality": "Hybrid",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2020.06.15.108391",
+        "Type": "multiple-choice",
+        "Question": "A 26-year-old woman presented with history of recurrent superficial thrombophlebitis on all limbs, deep vein thrombosis involving the lower limbs, a fever, and a large non-healing ulcer on the left cubital fossa. There was no history of an oral or genital ulcer, eye involvement, or altered bowel habits. A whole body ¹⁸F-fluorodeoxyglucose (¹⁸F-FDG) PET showed ¹⁸F-FDG avid circumferential wall thickening of the aorta and its major branches. The most likely diagnosis is:",
+        "OptionA": "Behcet’s syndrome",
+        "OptionB": "Cutaneous tuberculosis with aortitis",
+        "OptionC": "Pyoderma gangrenosum with Takayasu arteritis",
+        "OptionD": "Inflammatory bowel disease with Sweet syndrome",
+        "Answer": "Pyoderma gangrenosum with Takayasu arteritis",
+        "AnswerLabel": "C",
+        "num_image": 1,
+        "image_ids": [
+            "100.jpg"
+        ]
+    },
+    {
+        "ID": 101,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "MR",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2020.06.04.108384",
+        "Type": "multiple-choice",
+        "Question": "A 23-year-old Egyptian man with a 10-year history of hypertension and tachycardia, intractable epilepsy, psychiatric problems, and chronic abdominal pain, presented with status epilepticus and malignant hypertension. His MRI scan shows features of:",
+        "OptionA": "Bilateral asymmetric vasogenic oedema in both occipital and parietal region—pathognomonic for posterior reversible encephalopathy syndrome",
+        "OptionB": "An empty delta sign—pathognomonic for sagittal sinus thrombosis",
+        "OptionC": "A dense middle cerebral sign—pathognomonic for anterior circulation infarct",
+        "OptionD": "Cystic lesion in the posterior region—pathognomonic of hydatid cyst",
+        "Answer": "Bilateral asymmetric vasogenic oedema in both occipital and parietal region—pathognomonic for posterior reversible encephalopathy syndrome",
+        "AnswerLabel": "A",
+        "num_image": 2,
+        "image_ids": [
+            "101-1.jpg",
+            "101-2.jpg"
+        ]
+    },
+    {
+        "ID": 102,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Musculoskeletal",
+        "Modality": "X-ray",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2020.05.21.108371",
+        "Type": "multiple-choice",
+        "Question": "The x-rays and CT of a 43-year-old man with multiple joint arthralgia show calcaneal, talar, navicular, acetabular, iliac, and femoral enthesopathies with preserved hip joint spaces, and no ankylosis. Which of the following is not associated with this pathology?",
+        "OptionA": "Hyperfluorosis",
+        "OptionB": "X-linked hypophosphataemia",
+        "OptionC": "Gout",
+        "OptionD": "Psoriatic arthritis",
+        "Answer": "Gout",
+        "AnswerLabel": "C",
+        "num_image": 3,
+        "image_ids": [
+            "102-1.jpg",
+            "102-2.jpg",
+            "102-3.jpg"
+        ]
+    },
+    {
+        "ID": 103,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Chest",
+        "Modality": "Hybrid",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2020.05.14.108357",
+        "Type": "multiple-choice",
+        "Question": "In cases of cardiac arrest due to accidental hypothermia, the following modifications to the standard cardiopulmonary resuscitation algorithm are recommended, except for one. Which is it?",
+        "OptionA": "Extend cardiopulmonary resuscitation until the patient is warm",
+        "OptionB": "Avoid adrenaline if body temperature is less than 30°C",
+        "OptionC": "Always continue to try to defibrillate in the case of a shockable rhythm",
+        "OptionD": "Do not initiate compressions if the thorax is very stiff",
+        "Answer": "Always continue to try to defibrillate in the case of a shockable rhythm",
+        "AnswerLabel": "C",
+        "num_image": 2,
+        "image_ids": [
+            "103-1.jpg",
+            "103-2.jpg"
+        ]
+    },
+    {
+        "ID": 104,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Cardiovascular",
+        "Modality": "Hybrid",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2020.05.11.108351",
+        "Type": "multiple-choice",
+        "Question": "A 69-year old man with a history of high blood pressure was admitted to ICU with COVID-19 respiratory distress syndrome, and an ECG showed diffuse inverted T-waves, an elevated troponin. One of the following outlines the recommended course of action. Which is it?",
+        "OptionA": "An immediate coronary angiogram followed by anticoagulation and antiplatelet therapy",
+        "OptionB": "Screen for alternative virus infections—including parvovirus B19, Human Herpes Virus, Epstein-Barr virus, enterovirus, Cytomegalovirus—and if negative, start antiplatelet therapy",
+        "OptionC": "Cardiovascular magnetic resonance scan followed by coronary angiogram",
+        "OptionD": "Immediate treatment with antiplatelet and anticoagulation therapy followed by an angiogram within 24 h, and if negative, proceed to cardiovascular magnetic resonance scan",
+        "Answer": "Immediate treatment with antiplatelet and anticoagulation therapy followed by an angiogram within 24 h, and if negative, proceed to cardiovascular magnetic resonance scan",
+        "AnswerLabel": "D",
+        "num_image": 1,
+        "image_ids": [
+            "104.jpg"
+        ]
+    },
+    {
+        "ID": 105,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Chest",
+        "Modality": "Hybrid",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2020.05.01.108348",
+        "Type": "multiple-choice",
+        "Question": "The resurgence of coal workers’ pneumoconiosis and progressive massive fibrosis over the last two decades is, in part, due to:",
+        "OptionA": "Increased exposure to silica dust in coal mines",
+        "OptionB": "The advanced age and long mining tenures of current coal miners",
+        "OptionC": "Increasing rates of tobacco use among coal miners",
+        "OptionD": "All of the above",
+        "Answer": "Increased exposure to silica dust in coal mines",
+        "AnswerLabel": "A",
+        "num_image": 2,
+        "image_ids": [
+            "105-1.jpg",
+            "105-2.jpg"
+        ]
+    },
+    {
+        "ID": 106,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Chest",
+        "Modality": "X-ray",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2020.04.14.108329",
+        "Type": "multiple-choice",
+        "Question": "A 69-year-old obese woman with a history of hyperlipidaemia presented with dyspnoea after hours of vomiting and diarrhoea. What is the most likely explanation for the dyspnoea in this patient?",
+        "OptionA": "Variceal bleeding",
+        "OptionB": "Oesophageal perforation",
+        "OptionC": "Oesophageal stricture",
+        "OptionD": "Caustic ingestion",
+        "Answer": "Oesophageal perforation",
+        "AnswerLabel": "B",
+        "num_image": 1,
+        "image_ids": [
+            "106.jpg"
+        ]
+    },
+    {
+        "ID": 107,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Musculoskeletal",
+        "Modality": "Hybrid",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2020.03.20.108304",
+        "Type": "multiple-choice",
+        "Question": "A 64-year-old woman presented with a 3-week history of weakness. A microcytic, iron deficiency anaemia was confirmed. Based on her short stature, short 4th metacarpal, short 4th toes, and primary amenorrhoea, a diagnosis of Turner syndrome was made. She had osteoporosis and back pain. Which of the following tests are indicated?",
+        "OptionA": "Coeliac disease serology",
+        "OptionB": "Faecal occult bloods",
+        "OptionC": "Oral iron absorption test",
+        "OptionD": "All the above",
+        "Answer": "All the above",
+        "AnswerLabel": "D",
+        "num_image": 1,
+        "image_ids": [
+            "107.jpg"
+        ]
+    },
+    {
+        "ID": 108,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Abdominal",
+        "Modality": "MR",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2020.03.09.108284",
+        "Type": "multiple-choice",
+        "Question": "Which of the following statements about IgG4- related disease is false?",
+        "OptionA": "Typical age of diagnosis is 6th and 7th decade",
+        "OptionB": "Concomitant autoimmune diseases are rare",
+        "OptionC": "Immunosuppressants are the first choice of treatment",
+        "OptionD": "The most common clinical complaint is painless jaundice",
+        "Answer": "Concomitant autoimmune diseases are rare",
+        "AnswerLabel": "B",
+        "num_image": 1,
+        "image_ids": [
+            "108.jpg"
+        ]
+    },
+    {
+        "ID": 109,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Musculoskeletal",
+        "Modality": "Hybrid",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2020.01.30.108225",
+        "Type": "multiple-choice",
+        "Question": "A rheumatology consult was taken for a 22-year-old man admitted with acute pancreatitis who developed nodular skin lesions over both shins and joint pains in the ankles, knees, and wrists. In the hospital, blood tests showed raised amylase (1997 units per L) and lipase (889 units per L). MRI of the abdomen showed diffuse enlargement of pancreas with mild peripancreatic fat stranding and dilated main and peripheral ducts. In hospital, the patient underwent percutaneous drainage from the walled-off pancreatic necrosis. 2 days later he developed non-pruritic nodular erythematosus lesions over both shins and synovitis of the knees, ankles, and wrists. Skin biopsy from the nodular swellings revealed panniculitis. Radiography of both ankles and feet showed multiple lytic lesions and contrast-enhanced MRI of the ankles showed multiple areas of altered signal intensity in multiple bones of both ankles and feet with mild joint effusion and synovitis of multiple joints of the feet.",
+        "OptionA": "Polyarticular septic arthritis (post intervention)",
+        "OptionB": "Pancreatitis panniculitis and polyarthritis syndrome",
+        "OptionC": "IgG4-related disease",
+        "OptionD": "Polyarticular crystal arthritis",
+        "Answer": "Pancreatitis panniculitis and polyarthritis syndrome",
+        "AnswerLabel": "B",
+        "num_image": 1,
+        "image_ids": [
+            "109.jpg"
+        ]
+    },
+    {
+        "ID": 110,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Chest",
+        "Modality": "X-ray",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2020.02.13.108243",
+        "Type": "multiple-choice",
+        "Question": "A 56-year old man presented to our Emergency Department in Toronto, Canada with a fever and non-productive cough. One-day before he had returned from 3-month visit to Wuhan, China. His oxygen saturation was 97% on room air and he was generally well. Which of the following would be the most inappropriate course of action?",
+        "OptionA": "Initiate supportive treatment if required",
+        "OptionB": "Discharge patient to home self-isolation and notify public health authority",
+        "OptionC": "PCR for 2019-nCoV and other viruses",
+        "OptionD": "Admit to isolate the patient for 14 days",
+        "Answer": "Admit to isolate the patient for 14 days",
+        "AnswerLabel": "D",
+        "num_image": 1,
+        "image_ids": [
+            "110.jpg"
+        ]
+    },
+    {
+        "ID": 111,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "MR",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2020.02.13.108242",
+        "Type": "multiple-choice",
+        "Question": "A 35-year-old woman was admitted to our hospital complaining of weakness of her left arm and leg. She said the problem started 25 h earlier, soon after she had liposuction on her left thigh and a filler injection of the fat in her face, in a beauty salon. The woman was previously healthy with no medical history. All the following—except one—are recognised features of fat embolism syndrome, which is it?",
+        "OptionA": "Respiratory distress",
+        "OptionB": "Rash",
+        "OptionC": "Long-bone fracture in the legs",
+        "OptionD": "Altered mental state",
+        "Answer": "Long-bone fracture in the legs",
+        "AnswerLabel": "C",
+        "num_image": 1,
+        "image_ids": [
+            "111.jpg"
+        ]
+    },
+    {
+        "ID": 112,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "MR",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2020.02.12.108241",
+        "Type": "multiple-choice",
+        "Question": "A 41-year-old man presented with a large and locally advanced sellar tumour refractory to multiple surgeries. Taking into consideration the marked reduction in tumour mass achieved by denosumab treatment, what is the most likely diagnosis?",
+        "OptionA": "Meningioma",
+        "OptionB": "Pituitary tumour",
+        "OptionC": "Giant cell tumour of bone",
+        "OptionD": "Germinoma",
+        "Answer": "Giant cell tumour of bone",
+        "AnswerLabel": "C",
+        "num_image": 1,
+        "image_ids": [
+            "112.jpg"
+        ]
+    },
+    {
+        "ID": 113,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "CT",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2020.01.17.108213",
+        "Type": "multiple-choice",
+        "Question": "A 60-year-old man was brought to our emergency room after he collapsed while working out at a gym. He was unable to speak to his personal trainer or move his right side after he fell. A non-contrast CT scan of the man’s head showed a 44 mL intracerebral haemorrhage in the left basal ganglia. According to the MISTIE III clinical trial, the following haematoma volume is a reasonable surgical goal in minimally invasive intracerebral hemorrhage evacuation:",
+        "OptionA": "15 mL",
+        "OptionB": "20 mL",
+        "OptionC": "30 mL",
+        "OptionD": "40 mL",
+        "Answer": "15 mL",
+        "AnswerLabel": "A",
+        "num_image": 1,
+        "image_ids": [
+            "113.jpg"
+        ]
+    },
+    {
+        "ID": 548,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Musculoskeletal",
+        "Modality": "Hybrid",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2019.12.06.108174",
+        "Type": "multiple-choice",
+        "Question": "A 68-year-old woman presented to our hospital with pain in her left hip. She said it had started 2 weeks ago and gradually got worse. She gave no history of trauma. However, she did have a history of rheumatoid arthritis, which was well controlled with methotrexate, and carcinoma of the anus which had been treated with chemoradiotherapy. Which of the following is the least likely to be a cause of her pain?",
+        "OptionA": "Radiotherapy induced avascular necrosis of the hip",
+        "OptionB": "Femoroacetabular impingement syndrome",
+        "OptionC": "Gaucher’s disease",
+        "OptionD": "Systemic Lupus Erythematosus",
+        "Answer": "Femoroacetabular impingement syndrome",
+        "AnswerLabel": "B",
+        "num_image": 3,
+        "image_ids": [
+            "548-1.jpg",
+            "548-2.jpg",
+            "548-3.jpg"
+        ]
+    },
+    {
+        "ID": 549,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "MR",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2019.11.22.108157",
+        "Type": "multiple-choice",
+        "Question": "A 61-year-old woman came to our neurosurgery clinic with a 20-year history of left-sided facial spasms and a 5-year history of severe episodic left facial pain. She had normal corneal reflexes bilaterally. Looking at the two MRIs what is the most likely diagnosis?",
+        "OptionA": "Tourette’s syndrome",
+        "OptionB": "Multiple sclerosis",
+        "OptionC": "Painful tic convulsif",
+        "OptionD": "Trigeminal neuralgia",
+        "Answer": "Painful tic convulsif",
+        "AnswerLabel": "C",
+        "num_image": 2,
+        "image_ids": [
+            "549-1.jpg",
+            "549-2.jpg"
+        ]
+    },
+    {
+        "ID": 550,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Cardiovascular",
+        "Modality": "Hybrid",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2019.10.28.108120",
+        "Type": "multiple-choice",
+        "Question": "A 37-year-old hairdresser had a painful, swollen left leg and back pain both of which developed insidiously over several days, but acutely had become more severe over the past 3 hr. She spent most of her working day standing. She was a non-smoker. She took a combined oral contraceptive. Her haemoglobin concentration was 12·9 g/dL, white blood cell count 10·8 x 109/L, thrombocyte count of 235 x 109/L. ESR was 32 mm/hr, CRP serum concentration was 29 mg/L and D-dimer serum concentration was 4·13 μg/mL. What is the most likely cause of the pain and swelling?",
+        "OptionA": "Congenital absence of inferior vena cava with deep vein thrombosis",
+        "OptionB": "May-Thurner syndrome with acute left deep vein thrombosis",
+        "OptionC": "Pelvic obstruction from neoplasia with acute deep vein thrombosis",
+        "OptionD": "Thrombophilia with acute deep vein thrombosis",
+        "Answer": "May-Thurner syndrome with acute left deep vein thrombosis",
+        "AnswerLabel": "B",
+        "num_image": 2,
+        "image_ids": [
+            "550-1.jpg",
+            "550-2.jpg"
+        ]
+    },
+    {
+        "ID": 551,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Chest",
+        "Modality": "X-ray",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2019.09.25.108068",
+        "Type": "multiple-choice",
+        "Question": "A 26-year-old pregnant woman (at 20 weeks’ gestation) presented with a 3-month history of fever, cough, dyspnoea, epistaxis, nasal crusting, haemoptysis, and hearing loss. She had palpable purpura over her legs, and serum inflammatory markers were elevated. Chest x-ray showed cannonball opacities. What is the most likely diagnosis?",
+        "OptionA": "Choriocarcinoma",
+        "OptionB": "Lung carcinoma",
+        "OptionC": "Granulomatosis with polyangiitis",
+        "OptionD": "Pulmonary tuberculosis",
+        "Answer": "Granulomatosis with polyangiitis",
+        "AnswerLabel": "C",
+        "num_image": 1,
+        "image_ids": [
+            "551.jpg"
+        ]
+    },
+    {
+        "ID": 552,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Pediatric",
+        "Modality": "Hybrid",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2019.09.25.108069",
+        "Type": "multiple-choice",
+        "Question": "The long-term sequelae of brain abscess in children include the following. Which is the commonest?",
+        "OptionA": "Hydrocephalus",
+        "OptionB": "Focal motor deficient",
+        "OptionC": "Visual impairment",
+        "OptionD": "Epilepsy",
+        "Answer": "Epilepsy",
+        "AnswerLabel": "D",
+        "num_image": 2,
+        "image_ids": [
+            "552-1.jpg",
+            "552-2.jpg"
+        ]
+    },
+    {
+        "ID": 553,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "MR",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2019.09.16.108059",
+        "Type": "multiple-choice",
+        "Question": "A 66-year-old man presents with a 6-year history of progressive visual symptoms and difficulties getting dressed. An MRI of his brain showed posterior cortical atrophy. What is the most likely cause?",
+        "OptionA": "Dementia with Lewy bodies",
+        "OptionB": "Prion disease",
+        "OptionC": "Alzheimer’s disease",
+        "OptionD": "Corticobasal degeneration",
+        "Answer": "Alzheimer’s disease",
+        "AnswerLabel": "C",
+        "num_image": 1,
+        "image_ids": [
+            "553.jpg"
+        ]
+    },
+    {
+        "ID": 554,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Cardiovascular",
+        "Modality": "Hybrid",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2019.08.29.108029",
+        "Type": "multiple-choice",
+        "Question": "The following conditions are indications for use of an implantable cardioverter defibrillator except for one, which is it?",
+        "OptionA": "Sudden cardiac death survivor with cardiomyopathy",
+        "OptionB": "A patient post myocardial infarction with an ejection fraction of less than 35% (determined >3 months after myocardial infarction)",
+        "OptionC": "A patient with a spontaneous type I Brugada electrocardiogram with syncopal attacks",
+        "OptionD": "A patient with recent onset tachycardic myopathy with an ejection fraction of 25%",
+        "Answer": "A patient with recent onset tachycardic myopathy with an ejection fraction of 25%",
+        "AnswerLabel": "D",
+        "num_image": 2,
+        "image_ids": [
+            "554-1.jpg",
+            "554-2.jpg"
+        ]
+    },
+    {
+        "ID": 555,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "MR",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2019.08.21.108013",
+        "Type": "multiple-choice",
+        "Question": "A 25-year-old man had an insidious, progressive, weakness and atrophy of the intrinsic muscles of his right hand. He also complained of bilateral electric shock-like sensations through his body when he flexed his neck. Which of the following diagnoses is most supported by the results of a dynamic MRI of his neck?",
+        "OptionA": "Cervical spondylotic myelopathy",
+        "OptionB": "Amyotrophic lateral sclerosis",
+        "OptionC": "Hirayama disease",
+        "OptionD": "Multiple sclerosis",
+        "Answer": "Hirayama disease",
+        "AnswerLabel": "C",
+        "num_image": 1,
+        "image_ids": [
+            "555.jpg"
+        ]
+    },
+    {
+        "ID": 556,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Cardiovascular",
+        "Modality": "Hybrid",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2019.08.14.107998",
+        "Type": "multiple-choice",
+        "Question": "A 59-year-old woman was admitted to the emergency hospital department with cardiac failure and tamponade. All except one of the following are eponyms associated with the possible clinical findings, which is it?",
+        "OptionA": "Beck",
+        "OptionB": "Kussmaul",
+        "OptionC": "Broadbent",
+        "OptionD": "Erdheim–Chester",
+        "Answer": "Erdheim–Chester",
+        "AnswerLabel": "D",
+        "num_image": 4,
+        "image_ids": [
+            "556-1.jpg",
+            "556-2.jpg",
+            "556-3.jpg",
+            "556-4.jpg"
+        ]
+    },
+    {
+        "ID": 557,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "X-ray",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2019.08.02.107983",
+        "Type": "multiple-choice",
+        "Question": "A 9-year-old girl, with a congenital heart defect that was surgically corrected soon after birth, presented with intraparenchymal haematoma and intraventricular haemorrhage associated with an mycotic cerebral aneurysm. She was afebrile. Her successive blood cultures and broad-range 16S recombinant DNA PCR were negative, but inflammatory markers were increased (C-reactive protein was 45 mg/L and erythrocyte sedimentation rate was 50 mm/h). 3 months later, her liver enzyme limits were raised, and a further cerebral aneurysm was detected. What is the most likely diagnosis?",
+        "OptionA": "Staphylococcal infection",
+        "OptionB": "Q fever",
+        "OptionC": "Systemic polyarteritis nodosa",
+        "OptionD": "Kawasaki disease",
+        "Answer": "Q fever",
+        "AnswerLabel": "B",
+        "num_image": 2,
+        "image_ids": [
+            "557-1.jpg",
+            "557-2.jpg"
+        ]
+    },
+    {
+        "ID": 558,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Abdominal",
+        "Modality": "MR",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2019.07.24.107969",
+        "Type": "multiple-choice",
+        "Question": "A 51-year-old man presented with a symptomatic recurrent left groin lump, as shown in the MRI scan done while the patient was straining. What is your likely diagnosis based on this appearance?",
+        "OptionA": "Indurated lymph nodes",
+        "OptionB": "Lobulated lipoma",
+        "OptionC": "Femoral hernia",
+        "OptionD": "Saphenavarix",
+        "Answer": "Femoral hernia",
+        "AnswerLabel": "C",
+        "num_image": 1,
+        "image_ids": [
+            "558.jpg"
+        ]
+    },
+    {
+        "ID": 559,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Abdominal",
+        "Modality": "CT",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2019.07.03.107924",
+        "Type": "multiple-choice",
+        "Question": "A 90-year-old woman presented with a 7-day history of pain in the right upper quadrant, decreased appetite, and post-prandial vomiting. A CT scan of her abdomen showed severe gastric distention due to an obstruction of the gastric outlet. Based on the image, what is the most likely diagnosis?",
+        "OptionA": "Duodenal malignancy",
+        "OptionB": "Bouveret’s syndrome",
+        "OptionC": "Gastric polyp",
+        "OptionD": "Peptic stricture",
+        "Answer": "Bouveret’s syndrome",
+        "AnswerLabel": "B",
+        "num_image": 1,
+        "image_ids": [
+            "559.jpg"
+        ]
+    },
+    {
+        "ID": 560,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Chest",
+        "Modality": "CT",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2019.06.27.107914",
+        "Type": "multiple-choice",
+        "Question": "A 43-year-old man, non-smoker, with a history of recurrent pneumothoraces was referred because a CT scan of his chest found pulmonary cysts bilaterally at the bases on his lungs. Both his 31-year-old sister and his 14-year-old daughter had a history of pneumothorax. What is the most likely diagnosis?",
+        "OptionA": "Emphysematous bullae",
+        "OptionB": "Pulmonary Langerhan’s cell histiocytosis",
+        "OptionC": "Birt-Hogg-Dubé syndrome",
+        "OptionD": "Lymphangioleiomyomatosis",
+        "Answer": "Birt-Hogg-Dubé syndrome",
+        "AnswerLabel": "C",
+        "num_image": 1,
+        "image_ids": [
+            "560.jpg"
+        ]
+    },
+    {
+        "ID": 561,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "MR",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2019.05.31.107879",
+        "Type": "multiple-choice",
+        "Question": "A 22-year-old woman presented with intracranial hypertension syndrome. Her initial neurological examination and cerebrospinal fluid (CSF) studies were unremarkable. MRI of the neural axis showed mild hydrocephalus and discrete disperse leptomeningeal enhancement, including in the spinal nerves. What could be the diagnosis?",
+        "OptionA": "Diffuse leptomeningeal glioneuronal tumour",
+        "OptionB": "Leptomeningeal carcinomatosis",
+        "OptionC": "Meningeal melanocytosis",
+        "OptionD": "Neuro-sarcoidosis",
+        "Answer": "Meningeal melanocytosis",
+        "AnswerLabel": "C",
+        "num_image": 2,
+        "image_ids": [
+            "561-1.jpg",
+            "561-2.jpg"
+        ]
+    },
+    {
+        "ID": 562,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Head and neck",
+        "Modality": "Hybrid",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2019.05.29.107867",
+        "Type": "multiple-choice",
+        "Question": "A 41-year-old man had sudden-onset neck pain, stiffness, and odynophagia with elevated inflammatory markers which developed over 20 hours. What is the most likely cause?",
+        "OptionA": "Retropharyngeal abscess",
+        "OptionB": "Meningitis",
+        "OptionC": "Crowned dens syndrome",
+        "OptionD": "Acute calcific tendinitis of the longus colli muscle",
+        "Answer": "Acute calcific tendinitis of the longus colli muscle",
+        "AnswerLabel": "D",
+        "num_image": 1,
+        "image_ids": [
+            "562.jpg"
+        ]
+    },
+    {
+        "ID": 563,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Urogenital",
+        "Modality": "CT",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2019.05.07.107833",
+        "Type": "multiple-choice",
+        "Question": "A 73-year-old man with controlled hypertension presented with a 1-day history of severe, lower abdominal pain, on his left side, and nausea. He did not report any other symptoms: fever, palpitations, shortness of breath, diarrhoea, dysuria, or haematuria. What is the most likely aetiology for the findings on the contrast-enhanced CT?",
+        "OptionA": "A sexually transmitted disease",
+        "OptionB": "Nephrolithiasis",
+        "OptionC": "Atrial fibrillation",
+        "OptionD": "Haematological disease",
+        "Answer": "Atrial fibrillation",
+        "AnswerLabel": "C",
+        "num_image": 2,
+        "image_ids": [
+            "563-1.jpg",
+            "563-2.jpg"
+        ]
+    },
+    {
+        "ID": 564,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Urogenital",
+        "Modality": "CT",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2019.04.24.107804",
+        "Type": "multiple-choice",
+        "Question": "A 39-year-old man was admitted to hospital with a 1-day history of pain in his left flank and dizziness. 10 hours later, a CT scan showed his left kidney had expanded because of gas collected in the parenchyma and para-renal space. What is the most likely diagnosis?",
+        "OptionA": "Renal Carcinoma",
+        "OptionB": "Emphysematous pyelonephritis",
+        "OptionC": "Renal contusion",
+        "OptionD": "Hydronephrosis",
+        "Answer": "Emphysematous pyelonephritis",
+        "AnswerLabel": "B",
+        "num_image": 2,
+        "image_ids": [
+            "564-1.jpg",
+            "564-2.jpg"
+        ]
+    },
+    {
+        "ID": 565,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Musculoskeletal",
+        "Modality": "X-ray",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2019.04.08.107780",
+        "Type": "multiple-choice",
+        "Question": "Based on the x-ray, what is the most likely cause of unilateral chronic pain in a 10-year-old boy’s left hip?",
+        "OptionA": "Perthe’s disease",
+        "OptionB": "Septic arthritis",
+        "OptionC": "Chondrosarcoma",
+        "OptionD": "Dysplasia Epiphysealis Hemimelica",
+        "Answer": "Dysplasia Epiphysealis Hemimelica",
+        "AnswerLabel": "D",
+        "num_image": 1,
+        "image_ids": [
+            "565.jpg"
+        ]
+    },
+    {
+        "ID": 566,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Abdominal",
+        "Modality": "Hybrid",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2019.03.25.107741",
+        "Type": "multiple-choice",
+        "Question": "A 28-year-old man with a history of opioid dependence presented with sudden loss of consciousness and recurrent episodes of apnoea, despite repeated doses of naloxone. What is the most likely diagnosis considering the plain abdominal x-ray?",
+        "OptionA": "Lead-contaminated opium overdose",
+        "OptionB": "Toxic megacolon due to methadone overdose",
+        "OptionC": "Complications of heroin body-packing",
+        "OptionD": "Ileus following lithobezoars",
+        "Answer": "Complications of heroin body-packing",
+        "AnswerLabel": "C",
+        "num_image": 2,
+        "image_ids": [
+            "566-1.jpg",
+            "566-2.jpg"
+        ]
+    },
+    {
+        "ID": 567,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "MR",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2019.03.13.107710",
+        "Type": "multiple-choice",
+        "Question": "A 62-year-old woman had a 4-week history of sudden onset of involuntary hemichoreiform. She had been diagnosed with type 2 diabetes 10 years earlier and her blood glucose had been poorly controlled. Based on the MRIs, what is the most likely diagnosis?",
+        "OptionA": "Intracranial tumour",
+        "OptionB": "Ischaemic cerebral infarction",
+        "OptionC": "Demyelinating disease",
+        "OptionD": "Diabetic hemichorea",
+        "Answer": "Diabetic hemichorea",
+        "AnswerLabel": "D",
+        "num_image": 2,
+        "image_ids": [
+            "567-1.jpg",
+            "567-2.jpg"
+        ]
+    },
+    {
+        "ID": 568,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Chest",
+        "Modality": "CT",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2019.02.05.107639",
+        "Type": "multiple-choice",
+        "Question": "A 71-year-old man with known lung metastases from renal cell carcinoma under cabozantinib therapy presented with worsening of dyspnoea. The CT scan revealed a left apical pneumothorax. What was the cause of the pneumothorax?",
+        "OptionA": "Progression of the lung metastases",
+        "OptionB": "A rapid and significant shrinkage of the lung lesions",
+        "OptionC": "Spontaneous rupture of air blisters",
+        "OptionD": "Severe interstitial lung disease due to cabozantinib",
+        "Answer": "A rapid and significant shrinkage of the lung lesions",
+        "AnswerLabel": "B",
+        "num_image": 2,
+        "image_ids": [
+            "568-1.jpg",
+            "568-2.jpg"
+        ]
+    },
+    {
+        "ID": 569,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Musculoskeletal",
+        "Modality": "Hybrid",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2019.01.14.107604",
+        "Type": "multiple-choice",
+        "Question": "A mutation in one of the following genes might result in a rare metabolic disorder characterised by hyperphosphataemia and ectopic calcifications in periarticular soft tissues in the hip region. Which one is it?",
+        "OptionA": "PHEX",
+        "OptionB": "FGF23",
+        "OptionC": "CASR",
+        "OptionD": "SOST",
+        "Answer": "FGF23",
+        "AnswerLabel": "B",
+        "num_image": 1,
+        "image_ids": [
+            "569.jpg"
+        ]
+    },
+    {
+        "ID": 570,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Chest",
+        "Modality": "Hybrid",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2019.01.11.107603",
+        "Type": "multiple-choice",
+        "Question": "A 5-year-old migrant boy from Syria presented with a worsening cough that had started about 6 months earlier. He was hyperpyrexic and tachypnoeic with sternal recessions and decreased air entry on his right side. Laboratory investigations showed a raised C-reactive protein and leucocytosis. A high-resolution CT scan shows marked consolidations of the adjacent lung parenchyma, with curvilinear septa, and air within the lesion—a so-called lung window with the water-lily sign. What is the most likely diagnosis?",
+        "OptionA": "Bacterial infection with subsequent abscess",
+        "OptionB": "Mycobacterium tuberculosis infection",
+        "OptionC": "Cystic echinococcosis",
+        "OptionD": "Malignant tumour",
+        "Answer": "Cystic echinococcosis",
+        "AnswerLabel": "C",
+        "num_image": 3,
+        "image_ids": [
+            "570-1.jpg",
+            "570-2.jpg",
+            "570-3.jpg"
+        ]
+    },
+    {
+        "ID": 571,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Abdominal",
+        "Modality": "Hybrid",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2018.12.17.107566",
+        "Type": "multiple-choice",
+        "Question": "Which one of the following is a common cause of hepatic sequestration in patients with sickle cell disease?",
+        "OptionA": "Hepatitis A infection",
+        "OptionB": "Trauma",
+        "OptionC": "Hypothermia",
+        "OptionD": "Excessive cocaine use",
+        "Answer": "Hepatitis A infection",
+        "AnswerLabel": "A",
+        "num_image": 2,
+        "image_ids": [
+            "571-1.jpg",
+            "571-2.jpg"
+        ]
+    },
+    {
+        "ID": 572,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "MR",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2018.12.10.107525",
+        "Type": "multiple-choice",
+        "Question": "An 80-year-old man presented to hospital with a 4-day history of a gradual onset throbbing pain in the front part of his head. He did not have any weakness in his arms or legs, numbness or visual symptoms. A full clinical neurological examination showed no abnormalities. 4-months earlier he was given a diagnosis of a congenital intracranial lesion and imaging had shown an absence of a fat density. What is your favoured diagnosis?",
+        "OptionA": "Craniopharyngioma",
+        "OptionB": "Arachnoid cyst",
+        "OptionC": "Dermoid cyst",
+        "OptionD": "Epidermoid cyst",
+        "Answer": "Epidermoid cyst",
+        "AnswerLabel": "D",
+        "num_image": 1,
+        "image_ids": [
+            "572.jpg"
+        ]
+    },
+    {
+        "ID": 573,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Cardiovascular",
+        "Modality": "CT",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2018.11.26.107482",
+        "Type": "multiple-choice",
+        "Question": "A 29-year old woman presented with severe hypertension and a pain in her right flank. Testing for antineutrophil cytoplasmic antibodies was negative, the patient did not have a fever, or malaise. She did not report losing any weight. Based on the three-dimensional CT angiogram image what is the most likely diagnosis?",
+        "OptionA": "Atherosclerotic renal artery stenosis",
+        "OptionB": "Fibromuscular dysplasia",
+        "OptionC": "Vasculitis",
+        "OptionD": "Congenital vascular malformation",
+        "Answer": "Fibromuscular dysplasia",
+        "AnswerLabel": "B",
+        "num_image": 2,
+        "image_ids": [
+            "573-1.jpg",
+            "573-2.jpg"
+        ]
+    },
+    {
+        "ID": 574,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "MR",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2018.11.20.107468",
+        "Type": "multiple-choice",
+        "Question": "Fluid-attenuated inversion recovery (FLAIR) is an MRI sequence used in brain imaging to suppress cerebrospinal fluid effects on the image. It enhances the visualisation of periventricular, hyperintense lesions seen in all but one of the following diseases: which is it?",
+        "OptionA": "Multiple sclerosis",
+        "OptionB": "Schizophrenia",
+        "OptionC": "Leptomeningeal disease",
+        "OptionD": "Acute disseminated encephalomyelitis",
+        "Answer": "Schizophrenia",
+        "AnswerLabel": "B",
+        "num_image": 1,
+        "image_ids": [
+            "574.jpg"
+        ]
+    },
+    {
+        "ID": 575,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Musculoskeletal",
+        "Modality": "Hybrid",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2018.10.31.107407",
+        "Type": "multiple-choice",
+        "Question": "A 54-year-old woman presented with a 1-year history of coccydynia. Digital rectal examination revealed a hard mass in the retrorectal area. Pelvic radiograph showed disseminated calcification in front of the coccyx. CT and MRI showed a large multilocular retrorectal solid tumour containing calcific particles. Colonoscopy was normal. What is the most likely diagnosis?",
+        "OptionA": "Chondrosarcoma",
+        "OptionB": "Chordoma",
+        "OptionC": "Neurilemmoma",
+        "OptionD": "Isolated retrorectal metastasis",
+        "Answer": "Isolated retrorectal metastasis",
+        "AnswerLabel": "D",
+        "num_image": 2,
+        "image_ids": [
+            "575-1.jpg",
+            "575-2.jpg"
+        ]
+    },
+    {
+        "ID": 576,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Chest",
+        "Modality": "Hybrid",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2018.09.19.107336",
+        "Type": "multiple-choice",
+        "Question": "A 59-year-old woman had been unwell for 7 days with recurrent epigastric pain of acute onset that radiated into her right hemithorax, intensified during respiratory movements, and was accompanied by mild dyspnoea. Vomiting and dysphagia were absent. Based on these symptoms and radiological images, what is the most likely diagnosis?",
+        "OptionA": "Zenker’s diverticulitis",
+        "OptionB": "Complicated oesophageal cancer",
+        "OptionC": "Perforation of the oesophagus and mediastinal abscess",
+        "OptionD": "Paraoesophageal necrotising pneumonia",
+        "Answer": "Perforation of the oesophagus and mediastinal abscess",
+        "AnswerLabel": "C",
+        "num_image": 2,
+        "image_ids": [
+            "576-1.jpg",
+            "576-2.jpg"
+        ]
+    },
+    {
+        "ID": 577,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Cardiovascular",
+        "Modality": "Hybrid",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2018.09.13.107325",
+        "Type": "multiple-choice",
+        "Question": "A 40-year-old woman presented with complaints of a 4-year history of recurrent central chest pain. She gave a history of having a prolonged fever for about 3 months accompanied by arthralgia at the age of 13 years, but the fever resolved gradually. What is the diagnosis?",
+        "OptionA": "Hyperparathyroidism",
+        "OptionB": "Idiopathic hypercalcaemia",
+        "OptionC": "Aortic aortitis",
+        "OptionD": "Hyperlipidaemia",
+        "Answer": "Aortic aortitis",
+        "AnswerLabel": "C",
+        "num_image": 2,
+        "image_ids": [
+            "577-1.jpg",
+            "577-2.jpg"
+        ]
+    },
+    {
+        "ID": 578,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Abdominal",
+        "Modality": "Hybrid",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2018.09.07.107315",
+        "Type": "multiple-choice",
+        "Question": "A 15-year-old male presented with constipation, abdominal pain, and passage of foul-smelling stool mixed with multiple gravel stones. He did not have oliguria, fever, rectal bleeding, or any feature suggestive of peritonitis. The patient was not on any regular medication, and had a history of pica. On examination, he had diffuse abdominal tenderness. A digital rectal exam revealed a so-called colonic crunch sign. Complete haemogram and blood biochemistry were within normal limits. Straight abdominal radiograph revealed multiple opaque shadows of different sizes scattered throughout the colon. What is the most likely diagnosis?",
+        "OptionA": "Lanthanum",
+        "OptionB": "Lithobezoars",
+        "OptionC": "Phlebosclerotic colitis",
+        "OptionD": "Schistosomiasis",
+        "Answer": "Lithobezoars",
+        "AnswerLabel": "B",
+        "num_image": 2,
+        "image_ids": [
+            "578-1.jpg",
+            "578-2.jpg"
+        ]
+    },
+    {
+        "ID": 579,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Head and neck",
+        "Modality": "Hybrid",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2018.08.22.107255",
+        "Type": "multiple-choice",
+        "Question": "A 30-year old, healthy male has a recurrent facial swelling that lasts for 5–7 days and then resolves spontaneously. What could be the cause?",
+        "OptionA": "Angio-oedema",
+        "OptionB": "Granulomatous cheilitis",
+        "OptionC": "Gnathostomiasis",
+        "OptionD": "Kimura's disease",
+        "Answer": "Gnathostomiasis",
+        "AnswerLabel": "C",
+        "num_image": 2,
+        "image_ids": [
+            "579-1.jpg",
+            "579-2.jpg"
+        ]
+    },
+    {
+        "ID": 580,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Abdominal",
+        "Modality": "CT",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2018.08.02.107216",
+        "Type": "multiple-choice",
+        "Question": "What is the most significant clinical presentation for differential diagnosis of a patient with a huge right upper quadrant tumour?",
+        "OptionA": "An abdominal ultrasound reveals a mixed echoic hepatic tumour",
+        "OptionB": "The tumour demonstrates arterial enhancement and washout in the portal and delayed phases in triple-phase abdominal CT scan",
+        "OptionC": "Clinical laboratory data shows elevated liver enzymes and hyperbilirubinaemia, with normal adrenal hormonal workup",
+        "OptionD": "A fat plane is found between the normal liver and the tumour in abdominal CT scan",
+        "Answer": "A fat plane is found between the normal liver and the tumour in abdominal CT scan",
+        "AnswerLabel": "D",
+        "num_image": 2,
+        "image_ids": [
+            "580-1.jpg",
+            "580-2.jpg"
+        ]
+    },
+    {
+        "ID": 581,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Head and neck",
+        "Modality": "Hybrid",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2018.07.30.107209",
+        "Type": "multiple-choice",
+        "Question": "A 49-year-old man presented with gradual onset of dysphagia with aspiration symptoms. The neck CT showed a giant cyst on the lingual surface of the epiglottis. Which of the following tests would be considered the gold-standard method of investigating this patient’s problem?",
+        "OptionA": "Ultrasound",
+        "OptionB": "MRI of the neck",
+        "OptionC": "Videofluoroscopic swallowing study",
+        "OptionD": "Gastrofiberscopy",
+        "Answer": "Videofluoroscopic swallowing study",
+        "AnswerLabel": "C",
+        "num_image": 2,
+        "image_ids": [
+            "581-1.jpg",
+            "581-2.jpg"
+        ]
+    },
+    {
+        "ID": 582,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Urogenital",
+        "Modality": "CT",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2018.05.17.107055",
+        "Type": "multiple-choice",
+        "Question": "The type of kidney seen in this image:",
+        "OptionA": "Results from close approximation at the arterial fork during embryological descent",
+        "OptionB": "s not associated with vertebral anomalies",
+        "OptionC": "Has an isthmus probably resulting from endothelial adipose tissue",
+        "OptionD": "Has highly variable arterial and venous anatomy",
+        "Answer": "Has highly variable arterial and venous anatomy",
+        "AnswerLabel": "D",
+        "num_image": 2,
+        "image_ids": [
+            "582-1.jpg",
+            "582-2.jpg"
+        ]
+    },
+    {
+        "ID": 583,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Musculoskeletal",
+        "Modality": "Hybrid",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2018.04.16.106869",
+        "Type": "multiple-choice",
+        "Question": "A 29-year-old female patient with known type 2 diabetes presented with complaints of pain and swelling of the left leg for a few months. Clinical examination revealed a tender palpable mass on the antero-medial aspect of her tibia with no restriction in range of motion or neurovascular compromise. What is the most likely diagnosis?",
+        "OptionA": "Periosteal chondroma",
+        "OptionB": "Periosteal Ewing’s sarcoma",
+        "OptionC": "Periosteal aneurysmal bone cyst",
+        "OptionD": "Periosteal metastatic lesion (primary lung)",
+        "Answer": "Periosteal aneurysmal bone cyst",
+        "AnswerLabel": "C",
+        "num_image": 3,
+        "image_ids": [
+            "583-1.jpg",
+            "583-2.jpg",
+            "583-3.jpg"
+        ]
+    },
+    {
+        "ID": 584,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "MR",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2018.03.29.106847",
+        "Type": "multiple-choice",
+        "Question": "A 47 year old woman with well controlled HIV on treatment for fully sensitive TB meningitis for 1 month presented with reduced conscious level. What is the cause of the new lesions on MRI?",
+        "OptionA": "Tuberculosis",
+        "OptionB": "Toxoplasmosis",
+        "OptionC": "Progressive multifocal leukoencephalopathy",
+        "OptionD": "Disseminated aspergillosis",
+        "Answer": "Disseminated aspergillosis",
+        "AnswerLabel": "D",
+        "num_image": 1,
+        "image_ids": [
+            "584.jpg"
+        ]
+    },
+    {
+        "ID": 585,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "MR",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2018.02.16.6638",
+        "Type": "multiple-choice",
+        "Question": "A 50 year-old man presents with a slowly enlarging skull mass, renal failure, hyperkalaemia, anaemia and immunoparesis. What is the most likely diagnosis?",
+        "OptionA": "Haemangioma of the skull",
+        "OptionB": "Primary Ewing’s sarcoma of the skull",
+        "OptionC": "Soft tissue plasmacytoma",
+        "OptionD": "Skull metastasis with extracranial soft tissue component",
+        "Answer": "Soft tissue plasmacytoma",
+        "AnswerLabel": "C",
+        "num_image": 2,
+        "image_ids": [
+            "585-1.jpg",
+            "585-2.jpg"
+        ]
+    },
+    {
+        "ID": 586,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Musculoskeletal",
+        "Modality": "X-ray",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2017.08.01.5695",
+        "Type": "multiple-choice",
+        "Question": "What are the appropriate procedures to treat this formation?",
+        "OptionA": "Radiotherapy of the femur, including the hip and knee",
+        "OptionB": "Subtotal surgical excision of bone mass to reduce local pressure",
+        "OptionC": "Daily intensive massage with low pressure to increase blood circulation",
+        "OptionD": "Physiotherapy to increase mobility and to reduce the risk of pathological fractures",
+        "Answer": "Physiotherapy to increase mobility and to reduce the risk of pathological fractures",
+        "AnswerLabel": "D",
+        "num_image": 1,
+        "image_ids": [
+            "586.jpg"
+        ]
+    },
+    {
+        "ID": 587,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Pediatric",
+        "Modality": "X-ray",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2017.07.11.5535",
+        "Type": "multiple-choice",
+        "Question": "An 18-month-old child with an unremarkable medical history presented with left leg trauma following a fall. Based on these X-rays, what is the most likely diagnosis?",
+        "OptionA": "Osteogenesis imperfecta",
+        "OptionB": "Hypophosphatasia",
+        "OptionC": "Congenital pseudarthrosis of the tibia",
+        "OptionD": "Fibrous dysplasia",
+        "Answer": "Congenital pseudarthrosis of the tibia",
+        "AnswerLabel": "C",
+        "num_image": 1,
+        "image_ids": [
+            "587.jpg"
+        ]
+    },
+    {
+        "ID": 588,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Abdominal",
+        "Modality": "Hybrid",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2017.07.04.5525",
+        "Type": "multiple-choice",
+        "Question": "68Ga-HA-DOTATATE is a radioactive tracer used for PET imaging, that binds to somatostatin receptors (SSTR), especially SSTR subtype 2. Which tumours often have a high expression of SSTR?",
+        "OptionA": "Neuroendocrine tumour, papillary thyroid carcinoma, renal cell carcinoma",
+        "OptionB": "Gastrointestinal stromal tumour, colorectal carcinoma, neuroblastoma",
+        "OptionC": "Glioblastoma, meningioma, mucosa associated lympoid tissue lymphoma",
+        "OptionD": "Neuroendocrine tumour, gastrointestinal stromal tumour, neuroblastoma",
+        "Answer": "Neuroendocrine tumour, gastrointestinal stromal tumour, neuroblastoma",
+        "AnswerLabel": "D",
+        "num_image": 4,
+        "image_ids": [
+            "588-1.jpg",
+            "588-2.jpg",
+            "588-3.jpg",
+            "588-4.jpg"
+        ]
+    },
+    {
+        "ID": 589,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Musculoskeletal",
+        "Modality": "Hybrid",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2017.06.12.5472",
+        "Type": "multiple-choice",
+        "Question": "A 38-year-old man presented with a palpable mass at the posterior aspect of his left shoulder, which had been gradually enlarging during the past 4 years. He reported minor recurrent injury to his shoulder during athletic activity. Clinical examination showed a firm, painless mass. His medical history and family history were unremarkable, and all laboratory tests were within normal values. What is the most likely diagnosis?",
+        "OptionA": "Tumoral calcinosis",
+        "OptionB": "Myositis ossificans",
+        "OptionC": "Synovial chondromatosis",
+        "OptionD": "Synovial sarcoma",
+        "Answer": "Tumoral calcinosis",
+        "AnswerLabel": "A",
+        "num_image": 3,
+        "image_ids": [
+            "589-1.jpg",
+            "589-2.jpg",
+            "589-3.jpg"
+        ]
+    },
+    {
+        "ID": 590,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Chest",
+        "Modality": "Hybrid",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2017.05.15.5343",
+        "Type": "multiple-choice",
+        "Question": "A 37-year-old man on regular haemodialysis for end-stage renal disease presented with progressive dyspnoea and orthopnoea 4 days after nephrectomy to control hypertension. What is the cause of this abnormal chest radiograph?",
+        "OptionA": "Gastric torsion",
+        "OptionB": "Achalasia",
+        "OptionC": "Pneumopericardium",
+        "OptionD": "Hiatal hernia",
+        "Answer": "Pneumopericardium",
+        "AnswerLabel": "C",
+        "num_image": 3,
+        "image_ids": [
+            "590-1.jpg",
+            "590-2.jpg",
+            "590-3.jpg"
+        ]
+    },
+    {
+        "ID": 591,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Cardiovascular",
+        "Modality": "CT",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2017.03.14.4938",
+        "Type": "multiple-choice",
+        "Question": "This image shows a complication that occurred during a procedure carried out on a 43-year-old woman. Which procedure is most likely to be the cause?",
+        "OptionA": "Pleural drainage",
+        "OptionB": "Pericardial drainage",
+        "OptionC": "Cardiac catheterisation",
+        "OptionD": "Insertion of a pacemaker electrode",
+        "Answer": "Pericardial drainage",
+        "AnswerLabel": "B",
+        "num_image": 4,
+        "image_ids": [
+            "591-1.jpg",
+            "591-2.jpg",
+            "591-3.jpg",
+            "591-4.jpg"
+        ]
+    },
+    {
+        "ID": 592,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Musculoskeletal",
+        "Modality": "Hybrid",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2017.01.19.4672",
+        "Type": "multiple-choice",
+        "Question": "An 84-year-old Chinese man undergoes incision and drainage for an infected total knee arthroplasty. On the basis of these images what is the most likely causative bacterium?",
+        "OptionA": "Staphylococcus aureus",
+        "OptionB": "Neisseria gonorrhoeae",
+        "OptionC": "Streptococcal species",
+        "OptionD": "Mycobacterium species",
+        "Answer": "Mycobacterium species",
+        "AnswerLabel": "D",
+        "num_image": 4,
+        "image_ids": [
+            "592-1.jpg",
+            "592-2.jpg",
+            "592-3.jpg",
+            "592-4.jpg"
+        ]
+    },
+    {
+        "ID": 593,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "MR",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2017.01.13.4645",
+        "Type": "multiple-choice",
+        "Question": "A 62-year-old woman was found unresponsive and the following MRI scan was obtained. No previous images are available for comparison. Which cause for the image abnormality is unlikely?",
+        "OptionA": "Cerebral aqueduct stenosis",
+        "OptionB": "Meningitis",
+        "OptionC": "Alzheimer's disease",
+        "OptionD": "Traumatic brain injury",
+        "Answer": "Cerebral aqueduct stenosis",
+        "AnswerLabel": "A",
+        "num_image": 2,
+        "image_ids": [
+            "593-1.jpg",
+            "593-2.jpg"
+        ]
+    },
+    {
+        "ID": 594,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Musculoskeletal",
+        "Modality": "X-ray",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2016.11.08.4361",
+        "Type": "multiple-choice",
+        "Question": "A 33-year-old woman with short stature presented with a patella fracture with increased bone density and acro-osteolysis of the distal phalanges. What is the diagnosis?",
+        "OptionA": "Scleroderma",
+        "OptionB": "Osteopetrosis",
+        "OptionC": "Hyperparathyroidism",
+        "OptionD": "Pycnodysostosis",
+        "Answer": "Pycnodysostosis",
+        "AnswerLabel": "D",
+        "num_image": 2,
+        "image_ids": [
+            "594-1.jpg",
+            "594-2.jpg"
+        ]
+    },
+    {
+        "ID": 595,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Cardiovascular",
+        "Modality": "CT",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2016.10.20.4223",
+        "Type": "multiple-choice",
+        "Question": "This CT scan is from a 77-year-old woman with abdominal aortitis and impending aneurysm rupture. What is the most likely clinical presentation of the patient?",
+        "OptionA": "AIDS with pulmonary tuberculosis",
+        "OptionB": "Bacterial meningitis",
+        "OptionC": "Intermittent claudication",
+        "OptionD": "Neurosyphilis",
+        "Answer": "Bacterial meningitis",
+        "AnswerLabel": "B",
+        "num_image": 2,
+        "image_ids": [
+            "595-1.jpg",
+            "595-2.jpg"
+        ]
+    },
+    {
+        "ID": 596,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Musculoskeletal",
+        "Modality": "Hybrid",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2016.09.05.3970?__cf_chl_rt_tk=Tov1jooqIGo_cSy4iSkhaE.mnTxLhlXXMIidSiBNPKU-1711027972-0.0.1.1-1386",
+        "Type": "multiple-choice",
+        "Question": "An 80-year-old dialysis patient presented with a firm subcutaneous mass. What is the most likely diagnosis?",
+        "OptionA": "Tumoral calcinosis",
+        "OptionB": "Calcifying epithelioma",
+        "OptionC": "Osteosarcoma",
+        "OptionD": "Sarcoidosis",
+        "Answer": "Tumoral calcinosis",
+        "AnswerLabel": "A",
+        "num_image": 4,
+        "image_ids": [
+            "596-1.jpg",
+            "596-2.jpg",
+            "596-3.jpg",
+            "596-4.jpg"
+        ]
+    },
+    {
+        "ID": 597,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Musculoskeletal",
+        "Modality": "Hybrid",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2016.08.31.3968",
+        "Type": "multiple-choice",
+        "Question": "This patient has normal serum calcium, phosphate, and parathyroid hormone concentrations. From who must the abnormal gene responsible for his hand abnormalities must have been inherited?",
+        "OptionA": "From his mother",
+        "OptionB": "From his father",
+        "OptionC": "One copy from his father, and one from his mother",
+        "OptionD": "From his mother and expressed in mosaic fashion",
+        "Answer": "From his father",
+        "AnswerLabel": "B",
+        "num_image": 3,
+        "image_ids": [
+            "597-1.jpg",
+            "597-2.jpg",
+            "597-3.jpg"
+        ]
+    },
+    {
+        "ID": 598,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Musculoskeletal",
+        "Modality": "X-ray",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2016.04.18.2802",
+        "Type": "multiple-choice",
+        "Question": "What is the cause of these isolated osteolytic lesions in this 72-year-old man with no suspicion of prostate carcinoma?",
+        "OptionA": "Skeletal angiomas",
+        "OptionB": "Sudeck’s atrophy",
+        "OptionC": "Diffuse large B-cell lymphoma",
+        "OptionD": "Gorham’s disease",
+        "Answer": "Diffuse large B-cell lymphoma",
+        "AnswerLabel": "C",
+        "num_image": 2,
+        "image_ids": [
+            "598-1.jpg",
+            "598-2.jpg"
+        ]
+    },
+    {
+        "ID": 599,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Chest",
+        "Modality": "Hybrid",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2015.06.09.2097",
+        "Type": "multiple-choice",
+        "Question": "Which treatment is contraindicated in the condition shown here?",
+        "OptionA": "Intravenous esmolol",
+        "OptionB": "Intravenous sodium nitroprusside",
+        "OptionC": "Systemic thrombolytic therapy",
+        "OptionD": "Surgical therapy",
+        "Answer": "Systemic thrombolytic therapy",
+        "AnswerLabel": "C",
+        "num_image": 2,
+        "image_ids": [
+            "599-1.jpg",
+            "599-2.jpg"
+        ]
+    },
+    {
+        "ID": 600,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Musculoskeletal",
+        "Modality": "CT",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2015.05.27.2057",
+        "Type": "multiple-choice",
+        "Question": "A 17-year-old boy is found to have these asymptomatic bone lesions on CT scan. What is the diagnosis?",
+        "OptionA": "Bone metastases",
+        "OptionB": "Paget’s disease",
+        "OptionC": "Osteogenesis imperfecta",
+        "OptionD": "Osteopoikilosis",
+        "Answer": "Osteopoikilosis",
+        "AnswerLabel": "D",
+        "num_image": 1,
+        "image_ids": [
+            "600.jpg"
+        ]
+    },
+    {
+        "ID": 601,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Musculoskeletal",
+        "Modality": "X-ray",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2015.03.30.1856?__cf_chl_rt_tk=Ald5HM4chl.yVqol5DaQmoFew0_DcR2ds4tu50fGHMA-1711031928-0.0.1.1-1386",
+        "Type": "multiple-choice",
+        "Question": "This condition is due to:",
+        "OptionA": "Juvenile Paget's disease",
+        "OptionB": "Hyperparathyroidism",
+        "OptionC": "Bone infarction",
+        "OptionD": "Bone-modifying agents",
+        "Answer": "Bone-modifying agents",
+        "AnswerLabel": "D",
+        "num_image": 1,
+        "image_ids": [
+            "601.jpg"
+        ]
+    },
+    {
+        "ID": 602,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Head and neck",
+        "Modality": "X-ray",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2015.02.19.1745",
+        "Type": "multiple-choice",
+        "Question": "This cervical radiograph suggests the condition of:",
+        "OptionA": "Retropharyngeal abscess",
+        "OptionB": "Pharyngeal cancer",
+        "OptionC": "Tuberculous spondylitis",
+        "OptionD": "Gastric tube reconstruction",
+        "Answer": "Retropharyngeal abscess",
+        "AnswerLabel": "A",
+        "num_image": 1,
+        "image_ids": [
+            "602.jpg"
+        ]
+    },
+    {
+        "ID": 603,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Cardiovascular",
+        "Modality": "MR",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2015.01.28.1730",
+        "Type": "multiple-choice",
+        "Question": "Consider this cardiac MRI. Which of the following can be seen?",
+        "OptionA": "Tricuspid aortic valve with a severe stenosis",
+        "OptionB": "Bicuspid aortic valve with a severe stenosis",
+        "OptionC": "Severe pulmonary valve stenosis",
+        "OptionD": "Aortic dissection",
+        "Answer": "Bicuspid aortic valve with a severe stenosis",
+        "AnswerLabel": "B",
+        "num_image": 3,
+        "image_ids": [
+            "603-1.jpg",
+            "603-2.jpg",
+            "603-3.jpg"
+        ]
+    },
+    {
+        "ID": 604,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "Hybrid",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2014.12.31.1717",
+        "Type": "multiple-choice",
+        "Question": "This cerebellar infarction is most likely to be caused by:",
+        "OptionA": "Cervical left vertebral artery dissection",
+        "OptionB": "Thrombus in the basilar artery",
+        "OptionC": "Extrinsic compression of the left vertebral artery",
+        "OptionD": "Calcified atherosclerotic occlusion of the left vertebral artery",
+        "Answer": "Extrinsic compression of the left vertebral artery",
+        "AnswerLabel": "C",
+        "num_image": 3,
+        "image_ids": [
+            "604-1.jpg",
+            "604-2.jpg",
+            "604-3.jpg"
+        ]
+    },
+    {
+        "ID": 605,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Chest",
+        "Modality": "X-ray",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2014.12.08.1649",
+        "Type": "multiple-choice",
+        "Question": "This image depicts a chest radiograph in a patient with gastric banding. You would expect this patient to present with:",
+        "OptionA": "Infection at the site of the port",
+        "OptionB": "Vomiting striated with blood",
+        "OptionC": "Typical reflux symptoms",
+        "OptionD": "Weight regain",
+        "Answer": "Vomiting striated with blood",
+        "AnswerLabel": "B",
+        "num_image": 1,
+        "image_ids": [
+            "605.jpg"
+        ]
+    },
+    {
+        "ID": 606,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "Hybrid",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2014.12.08.1662",
+        "Type": "multiple-choice",
+        "Question": "This patient has:",
+        "OptionA": "Cerebral infection with Schistosoma mansoni",
+        "OptionB": "Cerebral infection with Taenia solium",
+        "OptionC": "Sturge-Weber syndrome",
+        "OptionD": "Meningioma",
+        "Answer": "Sturge-Weber syndrome",
+        "AnswerLabel": "C",
+        "num_image": 1,
+        "image_ids": [
+            "606.jpg"
+        ]
+    },
+    {
+        "ID": 607,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Chest",
+        "Modality": "X-ray",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2014.12.08.1651",
+        "Type": "multiple-choice",
+        "Question": "The chest radiograph appearances are most likely due to:",
+        "OptionA": "Pneumonia",
+        "OptionB": "Previous tuberculosis",
+        "OptionC": "Sarcoidosis",
+        "OptionD": "Malignancy",
+        "Answer": "Previous tuberculosis",
+        "AnswerLabel": "B",
+        "num_image": 2,
+        "image_ids": [
+            "607-1.jpg",
+            "607-2.jpg"
+        ]
+    },
+    {
+        "ID": 608,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "Hybrid",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2014.12.08.1660",
+        "Type": "multiple-choice",
+        "Question": "Which of the following diagnoses are not compatible with these images.",
+        "OptionA": "A cardiac blood cyst",
+        "OptionB": "Prolapsing",
+        "OptionC": "Atrial myxoma",
+        "OptionD": "Infection of the mitral valve",
+        "Answer": "Atrial myxoma",
+        "AnswerLabel": "C",
+        "num_image": 4,
+        "image_ids": [
+            "608-1.jpg",
+            "608-2.jpg",
+            "608-3.jpg",
+            "608-4.jpg"
+        ]
+    },
+    {
+        "ID": 609,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Chest",
+        "Modality": "X-ray",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2014.12.08.1661",
+        "Type": "multiple-choice",
+        "Question": "Which of the following features can be seen?",
+        "OptionA": "Tracheal shift",
+        "OptionB": "Scalloping of the diaphragm",
+        "OptionC": "Right-sided pneumothorax",
+        "OptionD": "All of the above",
+        "Answer": "Scalloping of the diaphragm",
+        "AnswerLabel": "B",
+        "num_image": 1,
+        "image_ids": [
+            "609.jpg"
+        ]
+    },
+    {
+        "ID": 610,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Musculoskeletal",
+        "Modality": "X-ray",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2014.12.08.1655",
+        "Type": "multiple-choice",
+        "Question": "The most appropriate diagnosis is:",
+        "OptionA": "Turner's syndrome",
+        "OptionB": "Pseudopseudohypoparathyroidism",
+        "OptionC": "Pseudohypoparathyroidism",
+        "OptionD": "Renal failure",
+        "Answer": "Pseudopseudohypoparathyroidism",
+        "AnswerLabel": "B",
+        "num_image": 1,
+        "image_ids": [
+            "610.jpg"
+        ]
+    },
+    {
+        "ID": 611,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Chest",
+        "Modality": "X-ray",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2014.12.08.1667",
+        "Type": "multiple-choice",
+        "Question": "What is the most likely diagnosis?",
+        "OptionA": "Gastro-oesphageal reflux disease",
+        "OptionB": "Achalasia",
+        "OptionC": "Gastrobronchial fistula",
+        "OptionD": "Hiatus hernia",
+        "Answer": "Gastrobronchial fistula",
+        "AnswerLabel": "C",
+        "num_image": 1,
+        "image_ids": [
+            "611.jpg"
+        ]
+    },
+    {
+        "ID": 612,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Cardiovascular",
+        "Modality": "CT",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2014.12.08.1650",
+        "Type": "multiple-choice",
+        "Question": "The heart sounds of this patient are most likely to be:",
+        "OptionA": "S1 + S2",
+        "OptionB": "S1 + S2 + S3",
+        "OptionC": "S1 + S2 + a diastolic knock",
+        "OptionD": "S1 + S2 + an ejection systolic murmur",
+        "Answer": "S1 + S2 + a diastolic knock",
+        "AnswerLabel": "C",
+        "num_image": 1,
+        "image_ids": [
+            "612.jpg"
+        ]
+    },
+    {
+        "ID": 613,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Abdominal",
+        "Modality": "X-ray",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2014.12.08.1658",
+        "Type": "multiple-choice",
+        "Question": "This is the abdominal radiograph of a 56-year-old woman. How should this patient be treated?",
+        "OptionA": "Conservatively",
+        "OptionB": "Laparoscopically",
+        "OptionC": "With a laparotomy",
+        "OptionD": "Endoscopically",
+        "Answer": "Conservatively",
+        "AnswerLabel": "A",
+        "num_image": 1,
+        "image_ids": [
+            "613.jpg"
+        ]
+    },
+    {
+        "ID": 614,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Urogenital",
+        "Modality": "X-ray",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2014.12.08.1642",
+        "Type": "multiple-choice",
+        "Question": "This abdominal radiograph is from a 55-year-old man with pelvic pain. What is this appearance due to?",
+        "OptionA": "A uterine fibroid",
+        "OptionB": "Enterobacter cloacae infection",
+        "OptionC": "Crohn's disease",
+        "OptionD": "2-Naphthylamine exposure",
+        "Answer": "Enterobacter cloacae infection",
+        "AnswerLabel": "B",
+        "num_image": 1,
+        "image_ids": [
+            "614.jpg"
+        ]
+    },
+    {
+        "ID": 615,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Chest",
+        "Modality": "X-ray",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2014.12.08.1665",
+        "Type": "multiple-choice",
+        "Question": "This is the upright postero-anterior chest radiograph of a 79-year-old man. What is the most likely diagnosis?",
+        "OptionA": "Ruptured bowel",
+        "OptionB": "Chilaiditi syndrome",
+        "OptionC": "Subdiaphragmatic abcess",
+        "OptionD": "Recent laparoscopic surgery",
+        "Answer": "Chilaiditi syndrome",
+        "AnswerLabel": "B",
+        "num_image": 1,
+        "image_ids": [
+            "615.jpg"
+        ]
+    },
+    {
+        "ID": 616,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Abdominal",
+        "Modality": "CT",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2014.12.08.1664",
+        "Type": "multiple-choice",
+        "Question": "A 46-year-old man presented with abdominal pain. His blood tests were normal. What is the diagnosis?",
+        "OptionA": "Appendicitis",
+        "OptionB": "Colon cancer",
+        "OptionC": "Epiploic appendagitis",
+        "OptionD": "Diverticultitis",
+        "Answer": "Epiploic appendagitis",
+        "AnswerLabel": "C",
+        "num_image": 1,
+        "image_ids": [
+            "616.jpg"
+        ]
+    },
+    {
+        "ID": 617,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Abdominal",
+        "Modality": "Hybrid",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2014.12.08.1670",
+        "Type": "multiple-choice",
+        "Question": "These images are from a 42-year-old man. Which statement is correct about this condition?",
+        "OptionA": "It is inherited in an autosomal recessive manner",
+        "OptionB": "It commonly presents in the 1st decade of life",
+        "OptionC": "It is usually caused by single gene mutation on chromosome 4",
+        "OptionD": "It presents with abdominal pain",
+        "Answer": "It is usually caused by single gene mutation on chromosome 4",
+        "AnswerLabel": "C",
+        "num_image": 4,
+        "image_ids": [
+            "617-1.jpg",
+            "617-2.jpg",
+            "617-3.jpg",
+            "617-4.jpg"
+        ]
+    },
+    {
+        "ID": 618,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Abdominal",
+        "Modality": "Hybrid",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2014.12.08.1669",
+        "Type": "multiple-choice",
+        "Question": "This is the CT scan of a 45-year-old man. What is this appearance most likely to be caused by?",
+        "OptionA": "Long-term peritoneal dialysis",
+        "OptionB": "Scleroderma",
+        "OptionC": "Vitamin D excess",
+        "OptionD": "Carcinoid tumour",
+        "Answer": "Long-term peritoneal dialysis",
+        "AnswerLabel": "A",
+        "num_image": 3,
+        "image_ids": [
+            "618-1.jpg",
+            "618-2.jpg",
+            "618-3.jpg"
+        ]
+    },
+    {
+        "ID": 619,
+        "DataSource": "Lancet-PQ",
+        "Subspecialty": "Chest",
+        "Modality": "Hybrid",
+        "Link": "https://www.thelancet.com/doi/story/10.1016/pic.2014.12.08.1674",
+        "Type": "multiple-choice",
+        "Question": "Symptoms of this condition can be worsened by...",
+        "OptionA": "Exercise",
+        "OptionB": "Coughing",
+        "OptionC": "Cold fluids",
+        "OptionD": "Antidepressants",
+        "Answer": "Cold fluids",
+        "AnswerLabel": "C",
+        "num_image": 3,
+        "image_ids": [
+            "619-1.jpg",
+            "619-2.jpg",
+            "619-3.jpg"
+        ]
+    }
+]

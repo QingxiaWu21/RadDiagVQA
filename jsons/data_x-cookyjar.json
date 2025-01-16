@@ -1,0 +1,1276 @@
+[
+    {
+        "ID": 372,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Abdominal",
+        "Modality": "CT",
+        "Link": "https://twitter.com/CasesCookyJar/status/1663508052711186432",
+        "Type": "short-answer",
+        "Question": "History of tuberous sclerosis. What is the diagnosis?",
+        "Answer": "AML with Renal Vein Invasion",
+        "num_image": 1,
+        "image_ids": [
+            "372.jpg"
+        ]
+    },
+    {
+        "ID": 373,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Urogenital",
+        "Modality": "Hybrid",
+        "Link": "https://twitter.com/CasesCookyJar/status/1744698032392896801",
+        "Type": "short-answer",
+        "Question": "55-year-old man with new-onset HTN after biopsy of his kidney transplant. What is the diagnosis?",
+        "Answer": "Page Kidney",
+        "num_image": 1,
+        "image_ids": [
+            "373.jpg"
+        ]
+    },
+    {
+        "ID": 374,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Urogenital",
+        "Modality": "Hybrid",
+        "Link": "https://twitter.com/CasesCookyJar/status/1742161316071243841",
+        "Type": "short-answer",
+        "Question": "46-year-old man with right-sided epididymal pain. What is the diagnosis?",
+        "Answer": "Zinner Syndrome",
+        "num_image": 1,
+        "image_ids": [
+            "374.jpg"
+        ]
+    },
+    {
+        "ID": 375,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Urogenital",
+        "Modality": "Hybrid",
+        "Link": "https://twitter.com/CasesCookyJar/status/1739624603159335108",
+        "Type": "short-answer",
+        "Question": "51-year-old woman with suprapubic discomfort and hematuria. What is the diagnosis?",
+        "Answer": "Urachal Carcinoma",
+        "num_image": 1,
+        "image_ids": [
+            "375.jpg"
+        ]
+    },
+    {
+        "ID": 376,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Abdominal",
+        "Modality": "Hybrid",
+        "Link": "https://twitter.com/CasesCookyJar/status/1737087885940273426",
+        "Type": "short-answer",
+        "Question": "33-year-old asymptomatic woman who underwent screening CT. What is the diagnosis?",
+        "Answer": "MEN1-Related Cystic NET",
+        "num_image": 1,
+        "image_ids": [
+            "376.jpg"
+        ]
+    },
+    {
+        "ID": 377,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Abdominal",
+        "Modality": "CT",
+        "Link": "https://twitter.com/CasesCookyJar/status/1732014456480104928",
+        "Type": "short-answer",
+        "Question": "41-year-old man with acute epigastric pain. What is the diagnosis?",
+        "Answer": "Omental Infarct of the Lesser Sac",
+        "num_image": 1,
+        "image_ids": [
+            "377.jpg"
+        ]
+    },
+    {
+        "ID": 378,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Breast",
+        "Modality": "Hybrid",
+        "Link": "https://twitter.com/CasesCookyJar/status/1726941028723372110",
+        "Type": "short-answer",
+        "Question": "58-year-old woman with breast implants and right breast mass. What is the diagnosis?",
+        "Answer": "Implant-Associated Anaplastic Lymphoma",
+        "num_image": 1,
+        "image_ids": [
+            "378.jpg"
+        ]
+    },
+    {
+        "ID": 379,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Abdominal",
+        "Modality": "CT",
+        "Link": "https://twitter.com/CasesCookyJar/status/1721867597191229806",
+        "Type": "short-answer",
+        "Question": "43-year-old woman with history of metastatic melanoma on Ipilimumab therapy, now presenting with diarrhea. What is the diagnosis?",
+        "Answer": "Immune-Mediated Colitis",
+        "num_image": 1,
+        "image_ids": [
+            "379.jpg"
+        ]
+    },
+    {
+        "ID": 380,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Abdominal",
+        "Modality": "Hybrid",
+        "Link": "https://twitter.com/CasesCookyJar/status/1719315782654443633",
+        "Type": "short-answer",
+        "Question": "23-year-old woman with sudden-onset RUQ as well as right shoulder pain. What is the diagnosis?",
+        "Answer": "Ruptured Hepatic Adenoma",
+        "num_image": 1,
+        "image_ids": [
+            "380.jpg"
+        ]
+    },
+    {
+        "ID": 381,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Abdominal",
+        "Modality": "X-ray",
+        "Link": "https://twitter.com/CasesCookyJar/status/1716779066605613339",
+        "Type": "short-answer",
+        "Question": "62-year-old man on chronic GERD therapy. What is the diagnosis?",
+        "Answer": "PPI-Associated Fundic Gland Polyposis",
+        "num_image": 1,
+        "image_ids": [
+            "381.jpg"
+        ]
+    },
+    {
+        "ID": 382,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Abdominal",
+        "Modality": "Hybrid",
+        "Link": "https://twitter.com/CasesCookyJar/status/1711705635832905944",
+        "Type": "short-answer",
+        "Question": "18-year-old Guatemalan young man with RLQ abdominal pain. What is the diagnosis?",
+        "Answer": "Intestinal Ascariasis",
+        "num_image": 1,
+        "image_ids": [
+            "382.jpg"
+        ]
+    },
+    {
+        "ID": 383,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Urogenital",
+        "Modality": "CT",
+        "Link": "https://twitter.com/CasesCookyJar/status/1709168921536848042",
+        "Type": "short-answer",
+        "Question": "72-year-old woman with fatigue, anorexia, diarrhea and proteinuria. What is the diagnosis?",
+        "Answer": "Amyloidosis of the Retroperitoneum",
+        "num_image": 1,
+        "image_ids": [
+            "383.jpg"
+        ]
+    },
+    {
+        "ID": 384,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Urogenital",
+        "Modality": "CT",
+        "Link": "https://twitter.com/CasesCookyJar/status/1706632207778062778",
+        "Type": "short-answer",
+        "Question": "53-year-old man with hematuria and increased urgency. What is the diagnosis?",
+        "Answer": "Inflammatory Pseudotumor of the Bladder",
+        "num_image": 1,
+        "image_ids": [
+            "384.jpg"
+        ]
+    },
+    {
+        "ID": 385,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Breast",
+        "Modality": "Hybrid",
+        "Link": "https://twitter.com/CasesCookyJar/status/1701558778439590088",
+        "Type": "short-answer",
+        "Question": "15-year-old girl with a firm enlarging mass in her left breast. What is the diagnosis?",
+        "Answer": "Primary Breast Rhabdomyosarcoma",
+        "num_image": 1,
+        "image_ids": [
+            "385.jpg"
+        ]
+    },
+    {
+        "ID": 386,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Chest",
+        "Modality": "Hybrid",
+        "Link": "https://twitter.com/CasesCookyJar/status/1699022061883326583",
+        "Type": "short-answer",
+        "Question": "38-year-old man presents with intermittent dysphagia for 3 months. What is the diagnosis?",
+        "Answer": "Eosinophilic Esophagitis",
+        "num_image": 1,
+        "image_ids": [
+            "386.jpg"
+        ]
+    },
+    {
+        "ID": 387,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Urogenital",
+        "Modality": "Hybrid",
+        "Link": "https://twitter.com/CasesCookyJar/status/1696485347591635274",
+        "Type": "short-answer",
+        "Question": "46-year-old woman presents with progressive renal insufficiency. What is the diagnosis?",
+        "Answer": "Lithium-Induced Cystic Renal Disease",
+        "num_image": 1,
+        "image_ids": [
+            "387.jpg"
+        ]
+    },
+    {
+        "ID": 388,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Chest",
+        "Modality": "Hybrid",
+        "Link": "https://twitter.com/CasesCookyJar/status/1693948630774829354",
+        "Type": "short-answer",
+        "Question": "67-year-old man with DLBCL undergoing treatment for fungal sinusitis. What is the diagnosis?",
+        "Answer": "Voriconazole-Induced Periostitis",
+        "num_image": 1,
+        "image_ids": [
+            "388.jpg"
+        ]
+    },
+    {
+        "ID": 389,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Abdominal",
+        "Modality": "CT",
+        "Link": "https://twitter.com/CasesCookyJar/status/1688875202376052737",
+        "Type": "short-answer",
+        "Question": "53-year-old male, who recently began treatment for HTN, presents with acute-onset abdominal pain. What is the diagnosis?",
+        "Answer": "ACE Inhibitor-Induced Angioedema",
+        "num_image": 1,
+        "image_ids": [
+            "389.jpg"
+        ]
+    },
+    {
+        "ID": 390,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Chest",
+        "Modality": "CT",
+        "Link": "https://twitter.com/CasesCookyJar/status/1686338485291278336",
+        "Type": "short-answer",
+        "Question": "53-year-old male presents with dysphagia. What is the diagnosis?",
+        "Answer": "Esophageal Leiomyosarcoma",
+        "num_image": 1,
+        "image_ids": [
+            "390.jpg"
+        ]
+    },
+    {
+        "ID": 391,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Abdominal",
+        "Modality": "CT",
+        "Link": "https://twitter.com/CasesCookyJar/status/1683801770437541893",
+        "Type": "short-answer",
+        "Question": "56-year-old male with an incidental finding on CTU. What is the diagnosis?",
+        "Answer": "Lymphangioma of Colon",
+        "num_image": 1,
+        "image_ids": [
+            "391.jpg"
+        ]
+    },
+    {
+        "ID": 392,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Urogenital",
+        "Modality": "Hybrid",
+        "Link": "https://twitter.com/CasesCookyJar/status/1678728342202368001",
+        "Type": "short-answer",
+        "Question": "42-year-old male referred with jaundice and left renal mass. What is the diagnosis?",
+        "Answer": "IgG4-related Renal Disease",
+        "num_image": 1,
+        "image_ids": [
+            "392.jpg"
+        ]
+    },
+    {
+        "ID": 393,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Abdominal",
+        "Modality": "Hybrid",
+        "Link": "https://twitter.com/CasesCookyJar/status/1676191628216901632",
+        "Type": "short-answer",
+        "Question": "Incidental finding on fluoroscopy. What is the diagnosis?",
+        "Answer": "Jejunal diverticulosis",
+        "num_image": 1,
+        "image_ids": [
+            "393.jpg"
+        ]
+    },
+    {
+        "ID": 394,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Chest",
+        "Modality": "CT",
+        "Link": "https://twitter.com/CasesCookyJar/status/1673654911899168769",
+        "Type": "short-answer",
+        "Question": "39 year-old woman with transfusion-dependent thalassemia. What is the diagnosis?",
+        "Answer": "Extramedullary Hematopoiesis in Thalassemia",
+        "num_image": 1,
+        "image_ids": [
+            "394.jpg"
+        ]
+    },
+    {
+        "ID": 395,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Abdominal",
+        "Modality": "CT",
+        "Link": "https://twitter.com/CasesCookyJar/status/1668581484259856387",
+        "Type": "short-answer",
+        "Question": "No history of trauma. What is the diagnosis?",
+        "Answer": "Polyarteritis Nodosa",
+        "num_image": 1,
+        "image_ids": [
+            "395.jpg"
+        ]
+    },
+    {
+        "ID": 396,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Abdominal",
+        "Modality": "Hybrid",
+        "Link": "https://twitter.com/CasesCookyJar/status/1666044768403718149",
+        "Type": "short-answer",
+        "Question": "49-year-old female with concern for cirrhosis, presents for pre-TIPS ultrasound. What is the diagnosis?",
+        "Answer": "HHT and Juvenile Polyposis",
+        "num_image": 1,
+        "image_ids": [
+            "396.jpg"
+        ]
+    },
+    {
+        "ID": 397,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Urogenital",
+        "Modality": "MR",
+        "Link": "https://twitter.com/CasesCookyJar/status/1521452007596339200",
+        "Type": "short-answer",
+        "Question": "21-year-old female G0, with abnormal bleeding and pelvic pain. What is the diagnosis?",
+        "Answer": "Uterine Hemangioma",
+        "num_image": 1,
+        "image_ids": [
+            "397.jpg"
+        ]
+    },
+    {
+        "ID": 398,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Abdominal",
+        "Modality": "CT",
+        "Link": "https://twitter.com/CasesCookyJar/status/1660971335248678912",
+        "Type": "short-answer",
+        "Question": "42 yo female with pelvic masses. What is the diagnosis?",
+        "Answer": "Castleman Disease",
+        "num_image": 1,
+        "image_ids": [
+            "398.jpg"
+        ]
+    },
+    {
+        "ID": 399,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Chest",
+        "Modality": "CT",
+        "Link": "https://twitter.com/CasesCookyJar/status/1655897907717873669",
+        "Type": "short-answer",
+        "Question": "8-year-old M with hx of recurrent pneumonia with elevated LFTs. What is the dx for the liver finding.",
+        "Answer": "Cystic Fibrosis-related Liver Disease (CFLD)",
+        "num_image": 1,
+        "image_ids": [
+            "399.jpg"
+        ]
+    },
+    {
+        "ID": 400,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Abdominal",
+        "Modality": "MR",
+        "Link": "https://twitter.com/CasesCookyJar/status/1653361192155623426",
+        "Type": "short-answer",
+        "Question": "History of Von Hippel-Lindau syndrome. What is the diagnosis?",
+        "Answer": "VHL with Bilateral Pheochromocytomas",
+        "num_image": 1,
+        "image_ids": [
+            "400.jpg"
+        ]
+    },
+    {
+        "ID": 401,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Pediatric",
+        "Modality": "Hybrid",
+        "Link": "https://twitter.com/CasesCookyJar/status/1650824475133313024",
+        "Type": "short-answer",
+        "Question": "11-month-old boy with history of congenital heart defects presents with worsening abdominal pain. What is the diagnosis?",
+        "Answer": "Torsion of a wandering spleen ",
+        "num_image": 1,
+        "image_ids": [
+            "401.jpg"
+        ]
+    },
+    {
+        "ID": 402,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Abdominal",
+        "Modality": "Hybrid",
+        "Link": "https://twitter.com/CasesCookyJar/status/1645751045438717952",
+        "Type": "short-answer",
+        "Question": "5-year-old girl presents with intermittent episodes of nausea, vomiting, and abdominal pain. What is the diagnosis?",
+        "Answer": "Type IV Choledochal Cyst",
+        "num_image": 1,
+        "image_ids": [
+            "402.jpg"
+        ]
+    },
+    {
+        "ID": 403,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Pediatric",
+        "Modality": "Hybrid",
+        "Link": "https://twitter.com/CasesCookyJar/status/1643214330199146496",
+        "Type": "short-answer",
+        "Question": "1-year-old girl presents with dysphagia. What is the diagnosis?",
+        "Answer": "Aberrant left subclavian artery",
+        "num_image": 1,
+        "image_ids": [
+            "403.jpg"
+        ]
+    },
+    {
+        "ID": 404,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Pediatric",
+        "Modality": "CT",
+        "Link": "https://twitter.com/CasesCookyJar/status/1640677614879899648",
+        "Type": "short-answer",
+        "Question": "12-year-old man presents with abdominal pain and hemoptysis. What is the diagnosis?",
+        "Answer": "Granulomatosis with polyangiitis",
+        "num_image": 1,
+        "image_ids": [
+            "404.jpg"
+        ]
+    },
+    {
+        "ID": 405,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Abdominal",
+        "Modality": "CT",
+        "Link": "https://twitter.com/CasesCookyJar/status/1638133352082419713",
+        "Type": "short-answer",
+        "Question": "40-year-old male presents with fever, arthralgia, rash. What is the diagnosis?",
+        "Answer": "Systemic Mastocytosis",
+        "num_image": 1,
+        "image_ids": [
+            "405.jpg"
+        ]
+    },
+    {
+        "ID": 407,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Abdominal",
+        "Modality": "CT",
+        "Link": "https://twitter.com/CasesCookyJar/status/1630538304943710209",
+        "Type": "short-answer",
+        "Question": "67-year-old M with lung adenoCA treated with chemoRT and immunotherapy. Ttm interrupted 2/2 diarrhea and weight loss. What is the diagnosis?",
+        "Answer": "Immune Therapy Pancreatic Shrinkage",
+        "num_image": 1,
+        "image_ids": [
+            "407.jpg"
+        ]
+    },
+    {
+        "ID": 408,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Abdominal",
+        "Modality": "CT",
+        "Link": "https://twitter.com/CasesCookyJar/status/1628001594355904513",
+        "Type": "short-answer",
+        "Question": "46-year-old man with vague left abdominal pain. What is the diagnosis?",
+        "Answer": "Cystic Pheochromocytoma",
+        "num_image": 1,
+        "image_ids": [
+            "408.jpg"
+        ]
+    },
+    {
+        "ID": 409,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Abdominal",
+        "Modality": "CT",
+        "Link": "https://twitter.com/CasesCookyJar/status/1622928170969341952",
+        "Type": "short-answer",
+        "Question": "29 year-old woman with extensive abdominal surgery and imaging work-up performed 5 weeks post-op. What is the diagnosis?",
+        "Answer": "Heterotopic mesenteric ossification",
+        "num_image": 1,
+        "image_ids": [
+            "409.jpg"
+        ]
+    },
+    {
+        "ID": 410,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Urogenital",
+        "Modality": "CT",
+        "Link": "https://twitter.com/CasesCookyJar/status/1620391570343182337",
+        "Type": "short-answer",
+        "Question": "12-year-old girl with obesity and hypertension. What is the diagnosis?",
+        "Answer": "Ovarian hyperthecosis",
+        "num_image": 1,
+        "image_ids": [
+            "410.jpg"
+        ]
+    },
+    {
+        "ID": 411,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Abdominal",
+        "Modality": "Hybrid",
+        "Link": "https://twitter.com/CasesCookyJar/status/1617854740943048704",
+        "Type": "short-answer",
+        "Question": "55 year-old male with end-stage renal disease on long-term dialysis. What is the diagnosis?",
+        "Answer": "Hemodialysis liver granulomas",
+        "num_image": 1,
+        "image_ids": [
+            "411.jpg"
+        ]
+    },
+    {
+        "ID": 412,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Abdominal",
+        "Modality": "CT",
+        "Link": "https://twitter.com/CasesCookyJar/status/1615318025149812737",
+        "Type": "short-answer",
+        "Question": "59-year-old female presenting with abdominal distension. What is the diagnosis?",
+        "Answer": "Pseudomyxoma Peritonei ",
+        "num_image": 1,
+        "image_ids": [
+            "412.jpg"
+        ]
+    },
+    {
+        "ID": 413,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Chest",
+        "Modality": "Hybrid",
+        "Link": "https://twitter.com/CasesCookyJar/status/1607708001674170368",
+        "Type": "short-answer",
+        "Question": "Adult female patient with chest pain and fever. What is the diagnosis?",
+        "Answer": "Giant Cell Tumor of Mediastinum",
+        "num_image": 1,
+        "image_ids": [
+            "413.jpg"
+        ]
+    },
+    {
+        "ID": 414,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Musculoskeletal",
+        "Modality": "Hybrid",
+        "Link": "https://twitter.com/CasesCookyJar/status/1605171153793859585",
+        "Type": "short-answer",
+        "Question": "Young female patient with leg pain and precocious puberty. What is the diagnosis?",
+        "Answer": "McCune-Albright Syndrome",
+        "num_image": 1,
+        "image_ids": [
+            "414.jpg"
+        ]
+    },
+    {
+        "ID": 415,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Urogenital",
+        "Modality": "MR",
+        "Link": "https://twitter.com/CasesCookyJar/status/1602634446750027777",
+        "Type": "short-answer",
+        "Question": "63-year-old man with hx of intravesical BCG therapy for bladder cancer. What is the diagnosis? Hint: this is not prostate cancer.",
+        "Answer": "Granulomatous Prostatitis",
+        "num_image": 1,
+        "image_ids": [
+            "415.jpg"
+        ]
+    },
+    {
+        "ID": 416,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "CT",
+        "Link": "https://twitter.com/CasesCookyJar/status/1600097729560006657",
+        "Type": "short-answer",
+        "Question": "4-month-old male found cyanotic without pulse. What is the diagnosis??",
+        "Answer": "Severe Anoxic – Ischemic Brain Injury",
+        "num_image": 1,
+        "image_ids": [
+            "416.jpg"
+        ]
+    },
+    {
+        "ID": 417,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Urogenital",
+        "Modality": "CT",
+        "Link": "https://twitter.com/CasesCookyJar/status/1597561021153116161",
+        "Type": "short-answer",
+        "Question": "25-year-old woman with right-sided pelvic pain. What is the diagnosis?",
+        "Answer": "Torsion and rupture of ovarian teratoma",
+        "num_image": 1,
+        "image_ids": [
+            "417.jpg"
+        ]
+    },
+    {
+        "ID": 418,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "CT",
+        "Link": "https://twitter.com/CasesCookyJar/status/1595024304537710592",
+        "Type": "short-answer",
+        "Question": "21-year-old female with headaches. What is the diagnosis?",
+        "Answer": "Neurofibromatosis type 2",
+        "num_image": 1,
+        "image_ids": [
+            "418.jpg"
+        ]
+    },
+    {
+        "ID": 419,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Urogenital",
+        "Modality": "Hybrid",
+        "Link": "https://twitter.com/CasesCookyJar/status/1592487590933852160",
+        "Type": "short-answer",
+        "Question": "31-year-old female with acute renal failure and past history of renal stones. What is the diagnosis?",
+        "Answer": "Primary oxalosis",
+        "num_image": 1,
+        "image_ids": [
+            "419.jpg"
+        ]
+    },
+    {
+        "ID": 420,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Abdominal",
+        "Modality": "CT",
+        "Link": "https://twitter.com/CasesCookyJar/status/1582002231640850433",
+        "Type": "short-answer",
+        "Question": "42-year-old woman presents with right upper quadrant discomfort. What is the diagnosis? ",
+        "Answer": "Adult Epithelioid Hemangioendothelioma",
+        "num_image": 1,
+        "image_ids": [
+            "420.jpg"
+        ]
+    },
+    {
+        "ID": 421,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Abdominal",
+        "Modality": "CT",
+        "Link": "https://twitter.com/CasesCookyJar/status/1580158840657645568",
+        "Type": "short-answer",
+        "Question": "37-year-old woman presents with fatigue and nonspecific abdominal pain. What is the diagnosis?",
+        "Answer": "Hepatosplenic Sarcoidosis",
+        "num_image": 1,
+        "image_ids": [
+            "421.jpg"
+        ]
+    },
+    {
+        "ID": 422,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Head and neck",
+        "Modality": "CT",
+        "Link": "https://twitter.com/CasesCookyJar/status/1567105335331934208",
+        "Type": "short-answer",
+        "Question": "27-year-old F with base of tongue lesion and history of hypothyroidism. What is the diagnosis?",
+        "Answer": "Lingual Thyroid",
+        "num_image": 1,
+        "image_ids": [
+            "422.jpg"
+        ]
+    },
+    {
+        "ID": 423,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "CT",
+        "Link": "https://twitter.com/CasesCookyJar/status/1564568619215904770",
+        "Type": "short-answer",
+        "Question": "14-year-old girl with right-sided weakness. What is the diagnosis?",
+        "Answer": "Sturge-Weber Syndrome",
+        "num_image": 1,
+        "image_ids": [
+            "423.jpg"
+        ]
+    },
+    {
+        "ID": 424,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Abdominal",
+        "Modality": "CT",
+        "Link": "https://twitter.com/CasesCookyJar/status/1562031902604767232",
+        "Type": "short-answer",
+        "Question": "21-year-old female airport worker with 2-3 months of abdominal swelling, night sweats, fevers/chills, and weight loss. What is the diagnosis?",
+        "Answer": "Primary Peritoneal Tuberculosis",
+        "num_image": 1,
+        "image_ids": [
+            "424.jpg"
+        ]
+    },
+    {
+        "ID": 425,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Abdominal",
+        "Modality": "MR",
+        "Link": "https://twitter.com/CasesCookyJar/status/1559495184810917892",
+        "Type": "short-answer",
+        "Question": "44-year-old female with RUQ pain and fever. What is the diagnosis?",
+        "Answer": "Portal Biliopathy",
+        "num_image": 1,
+        "image_ids": [
+            "425.jpg"
+        ]
+    },
+    {
+        "ID": 426,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Head and neck",
+        "Modality": "Hybrid",
+        "Link": "https://twitter.com/CasesCookyJar/status/1556958473962807296",
+        "Type": "short-answer",
+        "Question": "56-year-old female with left neck mass. What is the diagnosis?",
+        "Answer": "Carotid Body Paraganglioma",
+        "num_image": 1,
+        "image_ids": [
+            "426.jpg"
+        ]
+    },
+    {
+        "ID": 427,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Head and neck",
+        "Modality": "Hybrid",
+        "Link": "https://twitter.com/CasesCookyJar/status/1554429305484083200",
+        "Type": "short-answer",
+        "Question": "6-year-old girl with neck pain. What is the diagnosis?",
+        "Answer": "Neurofibromatosis type 1",
+        "num_image": 1,
+        "image_ids": [
+            "427.jpg"
+        ]
+    },
+    {
+        "ID": 428,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Breast",
+        "Modality": "Hybrid",
+        "Link": "https://twitter.com/CasesCookyJar/status/1549348328856588289",
+        "Type": "short-answer",
+        "Question": "50-year-old female with bilateral breast masses and lymphadenopathy. What is the diagnosis?",
+        "Answer": "Waldenstrom Macroglobulinemia of the breast",
+        "num_image": 1,
+        "image_ids": [
+            "428.jpg"
+        ]
+    },
+    {
+        "ID": 429,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Head and neck",
+        "Modality": "MR",
+        "Link": "https://twitter.com/CasesCookyJar/status/1536714799924625409",
+        "Type": "short-answer",
+        "Question": "17 years old male with hearing loss. What is the diagnosis?",
+        "Answer": "Glomus Jugulare Paraganglioma",
+        "num_image": 1,
+        "image_ids": [
+            "429.jpg"
+        ]
+    },
+    {
+        "ID": 430,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Abdominal",
+        "Modality": "CT",
+        "Link": "https://twitter.com/CasesCookyJar/status/1526525438847238147",
+        "Type": "short-answer",
+        "Question": "55-year-old female with incidental abdominal mass on MRI. No history of pancreatitis. What is the diagnosis?",
+        "Answer": "Lymphoepithelial Cyst",
+        "num_image": 1,
+        "image_ids": [
+            "430.jpg"
+        ]
+    },
+    {
+        "ID": 431,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Urogenital",
+        "Modality": "CT",
+        "Link": "https://twitter.com/CasesCookyJar/status/1523988723838242816",
+        "Type": "short-answer",
+        "Question": "60-year-old male presenting with 2-month history of gross hematuria and dysuria. What is the diagnosis?",
+        "Answer": "Renal Tuberculosis ",
+        "num_image": 1,
+        "image_ids": [
+            "431.jpg"
+        ]
+    },
+    {
+        "ID": 432,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Abdominal",
+        "Modality": "MR",
+        "Link": "https://twitter.com/CasesCookyJar/status/1511305146889818115",
+        "Type": "short-answer",
+        "Question": "25-year-old M with an incidental liver lesion. What is the diagnosis?",
+        "Answer": "Anastomosing Hemangioma of the Liver",
+        "num_image": 1,
+        "image_ids": [
+            "432.jpg"
+        ]
+    },
+    {
+        "ID": 433,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Abdominal",
+        "Modality": "MR",
+        "Link": "https://twitter.com/CasesCookyJar/status/1506231718755377156",
+        "Type": "short-answer",
+        "Question": "48-year-old female with history of uterine myomectomy, now presents with abdominal distension. What is the diagnosis?",
+        "Answer": "Peritoneal Leiomyomatosis",
+        "num_image": 1,
+        "image_ids": [
+            "433.jpg"
+        ]
+    },
+    {
+        "ID": 434,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Abdominal",
+        "Modality": "CT",
+        "Link": "https://twitter.com/CasesCookyJar/status/1503695004543320067",
+        "Type": "short-answer",
+        "Question": "64-year-old with metastatic colon cancer on FOLFOX. What is the diagnosis?",
+        "Answer": "Post-Oxaliplatin Heterogeneous Liver (POHL)",
+        "num_image": 1,
+        "image_ids": [
+            "434.jpg"
+        ]
+    },
+    {
+        "ID": 435,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Pediatric",
+        "Modality": "CT",
+        "Link": "https://twitter.com/CasesCookyJar/status/1501173385530789888",
+        "Type": "short-answer",
+        "Question": "3-month-old girl with jaundice and acholic stools. US showed bile duct obstruction. What is the diagnosis?",
+        "Answer": "Hemangioendotelioma Kaposiforme Aprende más",
+        "num_image": 1,
+        "image_ids": [
+            "435.jpg"
+        ]
+    },
+    {
+        "ID": 436,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Abdominal",
+        "Modality": "CT",
+        "Link": "https://twitter.com/CasesCookyJar/status/1498666869791895553",
+        "Type": "short-answer",
+        "Question": "65-year-old female with liver mass. What is the diagnosis?",
+        "Answer": "Infiltrative Hepatocellular Carcinoma with Tumor Thrombus and Arteriovenous Shunting",
+        "num_image": 1,
+        "image_ids": [
+            "436.jpg"
+        ]
+    },
+    {
+        "ID": 437,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Abdominal",
+        "Modality": "CT",
+        "Link": "https://twitter.com/CasesCookyJar/status/1518915293317419008",
+        "Type": "short-answer",
+        "Question": "40 year old female with hx of primary myelofibrosis. What is the diagnosis?",
+        "Answer": "Extramedullary Hematopoeisis in Liver",
+        "num_image": 1,
+        "image_ids": [
+            "437.jpg"
+        ]
+    },
+    {
+        "ID": 438,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Urogenital",
+        "Modality": "CT",
+        "Link": "https://twitter.com/CasesCookyJar/status/1516378578580955147",
+        "Type": "short-answer",
+        "Question": "28-year old otherwise well Egyptian male presents with pyuria. What is the diagnosis?",
+        "Answer": "Renal Hydatid Cyst ",
+        "num_image": 1,
+        "image_ids": [
+            "438.jpg"
+        ]
+    },
+    {
+        "ID": 439,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Urogenital",
+        "Modality": "MR",
+        "Link": "https://twitter.com/CasesCookyJar/status/1513841863169433604",
+        "Type": "short-answer",
+        "Question": "40-year-old female presents with an abnormal Pap smear and vaginal bleeding. What is the diagnosis?",
+        "Answer": "Cervical Villoglandular Adenocarcinoma",
+        "num_image": 1,
+        "image_ids": [
+            "439.jpg"
+        ]
+    },
+    {
+        "ID": 440,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Cardiovascular",
+        "Modality": "Hybrid",
+        "Link": "https://twitter.com/CasesCookyJar/status/1507409477615734784",
+        "Type": "short-answer",
+        "Question": "6-month-old girl with irregular pulses. What is the diagnosis?",
+        "Answer": "Kawasaki Disease",
+        "num_image": 1,
+        "image_ids": [
+            "440.jpg"
+        ]
+    },
+    {
+        "ID": 441,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Abdominal",
+        "Modality": "CT",
+        "Link": "https://twitter.com/CasesCookyJar/status/1488489811249930241",
+        "Type": "short-answer",
+        "Question": "38-year-old female with spontaneous recurrent epistaxis. What is the diagnosis?",
+        "Answer": "Hereditary Hemorrhagic Telangiectasia",
+        "num_image": 1,
+        "image_ids": [
+            "441.jpg"
+        ]
+    },
+    {
+        "ID": 442,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Urogenital",
+        "Modality": "Hybrid",
+        "Link": "https://twitter.com/CasesCookyJar/status/1480879666181328898",
+        "Type": "short-answer",
+        "Question": "53-year-old female with recurrent right pleural effusion and abdominal distension. What is the diagnosis?",
+        "Answer": "Meigs Syndrome",
+        "num_image": 1,
+        "image_ids": [
+            "442.jpg"
+        ]
+    },
+    {
+        "ID": 443,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Chest",
+        "Modality": "Hybrid",
+        "Link": "https://twitter.com/CasesCookyJar/status/1470732805587886088",
+        "Type": "short-answer",
+        "Question": "17-year-old M with a bump on the chest wall. What is the most likely diagnosis?",
+        "Answer": "Ewing sarcoma of the chest wall",
+        "num_image": 1,
+        "image_ids": [
+            "443.jpg"
+        ]
+    },
+    {
+        "ID": 444,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Pediatric",
+        "Modality": "X-ray",
+        "Link": "https://twitter.com/CasesCookyJar/status/1465659374731419648",
+        "Type": "short-answer",
+        "Question": "4-year-old M with failure to thrive and short stature. Hx of facial and arm edema at birth, and mild ascites at 4 mo. What is the diagnosis?",
+        "Answer": "Intestinal Lymphangiectasis with rickets",
+        "num_image": 1,
+        "image_ids": [
+            "444.jpg"
+        ]
+    },
+    {
+        "ID": 445,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Pediatric",
+        "Modality": "X-ray",
+        "Link": "https://twitter.com/CasesCookyJar/status/1463122661660233734",
+        "Type": "short-answer",
+        "Question": "Neonate with congenital thrombocytopenia, progressive pancytopenia and arm deformity. What is the diagnosis?",
+        "Answer": "Fanconi Anemia",
+        "num_image": 1,
+        "image_ids": [
+            "445.jpg"
+        ]
+    },
+    {
+        "ID": 446,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "MR",
+        "Link": "https://twitter.com/CasesCookyJar/status/1460585947637202946",
+        "Type": "short-answer",
+        "Question": "7-year-old M w Hb-SS disease, with decreased attentiveness at school. Neuropsychological testing was normal. What is the diagnosis?",
+        "Answer": "Moyamoya syndrome secondary to sickle cell disease",
+        "num_image": 1,
+        "image_ids": [
+            "446.jpg"
+        ]
+    },
+    {
+        "ID": 447,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Pediatric",
+        "Modality": "CT",
+        "Link": "https://twitter.com/CasesCookyJar/status/1458049231323758596",
+        "Type": "short-answer",
+        "Question": "Infant of diabetic mother. What is the diagnosis?",
+        "Answer": "Complete Sacral Agenesis",
+        "num_image": 1,
+        "image_ids": [
+            "447.jpg"
+        ]
+    },
+    {
+        "ID": 448,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Pediatric",
+        "Modality": "CT",
+        "Link": "https://twitter.com/CasesCookyJar/status/1452960700721029120",
+        "Type": "short-answer",
+        "Question": "Stillborn term infant with short-limbed dwarfism. What is the diagnosis?",
+        "Answer": "Thanatophoric dysplasia",
+        "num_image": 1,
+        "image_ids": [
+            "448.jpg"
+        ]
+    },
+    {
+        "ID": 449,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Pediatric",
+        "Modality": "CT",
+        "Link": "https://twitter.com/CasesCookyJar/status/1450423987603869696",
+        "Type": "short-answer",
+        "Question": "Neonate presents with congestive heart failure. What is the diagnosis?",
+        "Answer": "Vein of Galen Aneurysmal Malformation",
+        "num_image": 1,
+        "image_ids": [
+            "449.jpg"
+        ]
+    },
+    {
+        "ID": 450,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Chest",
+        "Modality": "CT",
+        "Link": "https://twitter.com/CasesCookyJar/status/1447887269965217798",
+        "Type": "short-answer",
+        "Question": "18-year-old male with a 6-month history of shortness of breath. What is the diagnosis??",
+        "Answer": "Pulmonary Alveolar Proteinosis",
+        "num_image": 1,
+        "image_ids": [
+            "450.jpg"
+        ]
+    },
+    {
+        "ID": 451,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Pediatric",
+        "Modality": "CT",
+        "Link": "https://twitter.com/CasesCookyJar/status/1442813842879238146",
+        "Type": "short-answer",
+        "Question": "Male child with one week of rapidly increasing left eye pain, redness and diplopia. What is the diagnosis?",
+        "Answer": "Orbital rhabdomyosarcoma",
+        "num_image": 1,
+        "image_ids": [
+            "451.jpg"
+        ]
+    },
+    {
+        "ID": 452,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Pediatric",
+        "Modality": "X-ray",
+        "Link": "https://twitter.com/CasesCookyJar/status/1440277127191011328",
+        "Type": "short-answer",
+        "Question": "9 month old F presented with recurrent UTIs, inverted smile, and hx of VP shunt for cerebral aqueduct stenosis. What is the diagnosis?",
+        "Answer": "Urofacial (Ochoa) syndrome",
+        "num_image": 1,
+        "image_ids": [
+            "452.jpg"
+        ]
+    },
+    {
+        "ID": 453,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Musculoskeletal",
+        "Modality": "X-ray",
+        "Link": "https://twitter.com/CasesCookyJar/status/1437740409543876610",
+        "Type": "short-answer",
+        "Question": "18-year-old male with history of an autosomal dominant condition, presents with progressive ankle swelling and pain. What is the diagnosis?",
+        "Answer": "Neurofibromatosis of the foot",
+        "num_image": 1,
+        "image_ids": [
+            "453.jpg"
+        ]
+    },
+    {
+        "ID": 454,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Musculoskeletal",
+        "Modality": "Hybrid",
+        "Link": "https://twitter.com/CasesCookyJar/status/1435203694803357701",
+        "Type": "short-answer",
+        "Question": "14-year-old M presents with jaw pain after basketball injury. What is the likely diagnosis?",
+        "Answer": "Cherubism Fibrous dysplasia",
+        "num_image": 1,
+        "image_ids": [
+            "454.jpg"
+        ]
+    },
+    {
+        "ID": 455,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Breast",
+        "Modality": "CT",
+        "Link": "https://twitter.com/CasesCookyJar/status/1419983404452433921",
+        "Type": "short-answer",
+        "Question": "67-year-old woman presents with a painless right breast lump. Biopsy was benign. What is the diagnosis?",
+        "Answer": "Rosai-Dorfman Disease",
+        "num_image": 1,
+        "image_ids": [
+            "455.jpg"
+        ]
+    },
+    {
+        "ID": 456,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Pediatric",
+        "Modality": "X-ray",
+        "Link": "https://twitter.com/CasesCookyJar/status/1417446690898939911",
+        "Type": "short-answer",
+        "Question": "3-year-old male brought to the ER with acute abdominal pain and vomiting. What is the diagnosis?",
+        "Answer": "Non-Accidental Trauma",
+        "num_image": 1,
+        "image_ids": [
+            "456.jpg"
+        ]
+    },
+    {
+        "ID": 457,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Urogenital",
+        "Modality": "X-ray",
+        "Link": "https://twitter.com/CasesCookyJar/status/1414909975038595074",
+        "Type": "short-answer",
+        "Question": "Patient with history of tuberculosis now presents with what diagnosis?",
+        "Answer": "Watering can perineum",
+        "num_image": 1,
+        "image_ids": [
+            "457.jpg"
+        ]
+    },
+    {
+        "ID": 458,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Head and neck",
+        "Modality": "Hybrid",
+        "Link": "https://twitter.com/CasesCookyJar/status/1412365711549235204",
+        "Type": "short-answer",
+        "Question": "45-year-old M with hx of HIV presents with large neck masses for the last 8y, which have been drained several times. What is the likely diagnosis?",
+        "Answer": "Lymphoepithelial cysts",
+        "num_image": 1,
+        "image_ids": [
+            "458.jpg"
+        ]
+    },
+    {
+        "ID": 459,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Musculoskeletal",
+        "Modality": "CT",
+        "Link": "https://twitter.com/CasesCookyJar/status/1409829003662221318",
+        "Type": "short-answer",
+        "Question": "Given the constellation of findings, what is the most likely diagnosis?",
+        "Answer": "Pott disease",
+        "num_image": 1,
+        "image_ids": [
+            "459.jpg"
+        ]
+    },
+    {
+        "ID": 460,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Musculoskeletal",
+        "Modality": "CT",
+        "Link": "https://twitter.com/CasesCookyJar/status/1407292289659985922",
+        "Type": "short-answer",
+        "Question": "49-year-old woman with hx of schizophrenia and enlarging bump on left forehead since birth, now presenting with “more and enlarging bumps”. What is the diagnosis?",
+        "Answer": "Proteus syndrome",
+        "num_image": 1,
+        "image_ids": [
+            "460.jpg"
+        ]
+    },
+    {
+        "ID": 461,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Abdominal",
+        "Modality": "CT",
+        "Link": "https://twitter.com/CasesCookyJar/status/1404755573652951043",
+        "Type": "short-answer",
+        "Question": "What is the diagnosis?",
+        "Answer": "Peritoneal hydatidosis",
+        "num_image": 1,
+        "image_ids": [
+            "461.jpg"
+        ]
+    },
+    {
+        "ID": 462,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "MR",
+        "Link": "https://twitter.com/CasesCookyJar/status/1400052074319028225",
+        "Type": "short-answer",
+        "Question": "69-year-old F presents with history of rapid-onset dementia presents with altered mental status. What is the diagnosis?",
+        "Answer": "Creutzfeldt-Jakob disease",
+        "num_image": 1,
+        "image_ids": [
+            "462.jpg"
+        ]
+    },
+    {
+        "ID": 463,
+        "DataSource": "X-CookyJar",
+        "Subspecialty": "Abdominal",
+        "Modality": "CT",
+        "Link": "https://twitter.com/CasesCookyJar/status/1384470325795168262",
+        "Type": "short-answer",
+        "Question": "65-year-old M with metastatic RCC undergoing treatment presents with diarrhea. What is the diagnosis? for the small bowel abnormality seen on restaging CT. ",
+        "Answer": "Small bowel lymphangiectasia caused by Tyrosine Kinase Inhibitor (TKI)",
+        "num_image": 1,
+        "image_ids": [
+            "463.jpg"
+        ]
+    }
+]

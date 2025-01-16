@@ -1,0 +1,2756 @@
+[
+    {
+        "ID": "Case 1",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Abdominal",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiology.207.1.58",
+        "Type": "short-answer",
+        "num_image": 1
+    },
+    {
+        "ID": "Case 2",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Abdominal",
+        "Modality": "CT",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiology.207.2.389",
+        "Type": "short-answer",
+        "num_image": 2
+    },
+    {
+        "ID": "Case 3",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Musculoskeletal",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiology.207.3.813",
+        "Type": "short-answer",
+        "num_image": 3
+    },
+    {
+        "ID": "Case 4",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Musculoskeletal",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiology.208.1.63",
+        "Type": "short-answer",
+        "num_image": 7
+    },
+    {
+        "ID": "Case 5",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Chest",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiology.208.2.339",
+        "Type": "short-answer",
+        "num_image": 3
+    },
+    {
+        "ID": "Case 6",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Head and neck",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiology.208.3.619",
+        "Type": "short-answer",
+        "num_image": 2
+    },
+    {
+        "ID": "Case 7",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Pediatric",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiology.209.1.67",
+        "Type": "short-answer",
+        "num_image": 6
+    },
+    {
+        "ID": "Case 8",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Chest",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiology.209.2.519",
+        "Type": "short-answer",
+        "num_image": 4
+    },
+    {
+        "ID": "Case 9",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Abdominal",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiology.209.3.755",
+        "Type": "short-answer",
+        "num_image": 7
+    },
+    {
+        "ID": "Case 10",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiology.210.1.r99ja32143",
+        "Type": "short-answer",
+        "num_image": 4
+    },
+    {
+        "ID": "Case 11",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Abdominal",
+        "Modality": "CT",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiology.210.2.r99fe51417",
+        "Type": "short-answer",
+        "num_image": 4
+    },
+    {
+        "ID": "Case 12",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Musculoskeletal",
+        "Modality": "MR",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiology.210.3.r99mr36792",
+        "Type": "short-answer",
+        "num_image": 3
+    },
+    {
+        "ID": "Case 13",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Abdominal",
+        "Modality": "CT",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiology.211.1.r99ap3179",
+        "Type": "short-answer",
+        "num_image": 4
+    },
+    {
+        "ID": "Case 14",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Musculoskeletal",
+        "Modality": "X-ray",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiology.211.2.r99ma45471",
+        "Type": "short-answer",
+        "num_image": 6
+    },
+    {
+        "ID": "Case 15",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Pediatric",
+        "Modality": "MR",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiology.211.3.r99jn44709",
+        "Type": "short-answer",
+        "num_image": 1
+    },
+    {
+        "ID": "Case 16",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "MR",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiology.212.1.r99jl24126",
+        "Type": "short-answer",
+        "num_image": 4
+    },
+    {
+        "ID": "Case 17",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "MR",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiology.212.2.r99au37357",
+        "Type": "short-answer",
+        "num_image": 2
+    },
+    {
+        "ID": "Case 18",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Abdominal",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiology.212.3.r99se29706",
+        "Type": "short-answer",
+        "num_image": 3
+    },
+    {
+        "ID": "Case 19",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Abdominal",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiology.213.1.r99oc11101",
+        "Type": "short-answer",
+        "num_image": 5
+    },
+    {
+        "ID": "Case 21",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Head and neck",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiology.213.3.r99dc33811",
+        "Type": "short-answer",
+        "num_image": 8
+    },
+    {
+        "ID": "Case 22",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Abdominal",
+        "Modality": "X-ray",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiology.214.1.r00ja29193",
+        "Type": "short-answer",
+        "num_image": 3
+    },
+    {
+        "ID": "Case 23",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Abdominal",
+        "Modality": "CT",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiology.214.2.r00fe31523",
+        "Type": "short-answer",
+        "num_image": 3
+    },
+    {
+        "ID": "Case 24",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Abdominal",
+        "Modality": "CT",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiology.214.3.r00mr44843",
+        "Type": "short-answer",
+        "num_image": 6
+    },
+    {
+        "ID": "Case 25",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "MR",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiology.215.1.r00ap23235",
+        "Type": "short-answer",
+        "num_image": 5
+    },
+    {
+        "ID": "Case 26",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Abdominal",
+        "Modality": "CT",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiology.215.2.r00ma31390",
+        "Type": "short-answer",
+        "num_image": 2
+    },
+    {
+        "ID": "Case 27",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Abdominal",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiology.215.3.r00jn24752",
+        "Type": "short-answer",
+        "num_image": 5
+    },
+    {
+        "ID": "Case 28",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Chest",
+        "Modality": "X-ray",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiology.216.1.r00jl44140",
+        "Type": "short-answer",
+        "num_image": 3
+    },
+    {
+        "ID": "Case 29",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Abdominal",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiology.216.2.r00au30377",
+        "Type": "short-answer",
+        "num_image": 4
+    },
+    {
+        "ID": "Case 30",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Pediatric",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiology.216.3.r00se39724",
+        "Type": "short-answer",
+        "num_image": 7
+    },
+    {
+        "ID": "Case 31",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Chest",
+        "Modality": "CT",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiology.217.1.r00oc10133",
+        "Type": "short-answer",
+        "num_image": 3
+    },
+    {
+        "ID": "Case 32",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Abdominal",
+        "Modality": "X-ray",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiology.217.2.r00nv09436",
+        "Type": "short-answer",
+        "num_image": 2
+    },
+    {
+        "ID": "Case 33",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Chest",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiology.217.3.r00dc38737",
+        "Type": "short-answer",
+        "num_image": 5
+    },
+    {
+        "ID": "Case 34",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Abdominal",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiology.218.1.r01ja2689",
+        "Type": "short-answer",
+        "num_image": 4
+    },
+    {
+        "ID": "Case 36",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Head and neck",
+        "Modality": "X-ray",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiology.218.3.r01mr01772",
+        "Type": "short-answer",
+        "num_image": 3
+    },
+    {
+        "ID": "Case 37",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Abdominal",
+        "Modality": "CT",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiology.219.1.r01ap0980",
+        "Type": "short-answer",
+        "num_image": 4
+    },
+    {
+        "ID": "Case 38",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Abdominal",
+        "Modality": "CT",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiology.219.2.r01ma14440",
+        "Type": "short-answer",
+        "num_image": 5
+    },
+    {
+        "ID": "Case 40",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "CT",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiology.220.1.r01jl08190",
+        "Type": "short-answer",
+        "num_image": 2
+    },
+    {
+        "ID": "Case 42",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Abdominal",
+        "Modality": "MR",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2203001151",
+        "Type": "short-answer",
+        "num_image": 6
+    },
+    {
+        "ID": "Case 43",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Breast",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2211991840",
+        "Type": "short-answer",
+        "num_image": 4
+    },
+    {
+        "ID": "Case 44",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Urogenital",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2212001469",
+        "Type": "short-answer",
+        "num_image": 3
+    },
+    {
+        "ID": "Case 45",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Abdominal",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2213001597",
+        "Type": "short-answer",
+        "num_image": 6
+    },
+    {
+        "ID": "Case 46",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Urogenital",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2221001613",
+        "Type": "short-answer",
+        "num_image": 7
+    },
+    {
+        "ID": "Case 47",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Musculoskeletal",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2222000970",
+        "Type": "short-answer",
+        "num_image": 5
+    },
+    {
+        "ID": "Case 48",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Musculoskeletal",
+        "Modality": "CT",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2223001706",
+        "Type": "short-answer",
+        "num_image": 4
+    },
+    {
+        "ID": "Case 50",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Musculoskeletal",
+        "Modality": "MR",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2232001704",
+        "Type": "short-answer",
+        "num_image": 4
+    },
+    {
+        "ID": "Case 51",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Abdominal",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2233010373",
+        "Type": "short-answer",
+        "num_image": 4
+    },
+    {
+        "ID": "Case 52",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Abdominal",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2241010497",
+        "Type": "short-answer",
+        "num_image": 3
+    },
+    {
+        "ID": "Case 53",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Head and neck",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2242010662",
+        "Type": "short-answer",
+        "num_image": 6
+    },
+    {
+        "ID": "Case 55",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Abdominal",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2251010623",
+        "Type": "short-answer",
+        "num_image": 4
+    },
+    {
+        "ID": "Case 56",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Chest",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2252001844",
+        "Type": "short-answer",
+        "num_image": 12
+    },
+    {
+        "ID": "Case 57",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Abdominal",
+        "Modality": "CT",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2253010937",
+        "Type": "short-answer",
+        "num_image": 5
+    },
+    {
+        "ID": "Case 60",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Abdominal",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2263011428",
+        "Type": "short-answer",
+        "num_image": 6
+    },
+    {
+        "ID": "Case 61",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Abdominal",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2271011951",
+        "Type": "short-answer",
+        "num_image": 4
+    },
+    {
+        "ID": "Case 62",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2272011828",
+        "Type": "short-answer",
+        "num_image": 5
+    },
+    {
+        "ID": "Case 63",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Chest",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2273012170",
+        "Type": "short-answer",
+        "num_image": 2
+    },
+    {
+        "ID": "Case 65",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Chest",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2282012158",
+        "Type": "short-answer",
+        "num_image": 6
+    },
+    {
+        "ID": "Case 67",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Head and neck",
+        "Modality": "CT",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2291021107",
+        "Type": "short-answer",
+        "num_image": 8
+    },
+    {
+        "ID": "Case 68",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Musculoskeletal",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2292021087",
+        "Type": "short-answer",
+        "num_image": 7
+    },
+    {
+        "ID": "Case 69",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Abdominal",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2293020672",
+        "Type": "short-answer",
+        "num_image": 2
+    },
+    {
+        "ID": "Case 70",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Abdominal",
+        "Modality": "CT",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2301021059",
+        "Type": "short-answer",
+        "num_image": 5
+    },
+    {
+        "ID": "Case 71",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Cardiovascular",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2302000925",
+        "Type": "short-answer",
+        "num_image": 1
+    },
+    {
+        "ID": "Case 72",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Abdominal",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2303011975",
+        "Type": "short-answer",
+        "num_image": 6
+    },
+    {
+        "ID": "Case 73",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Head and neck",
+        "Modality": "CT",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2311011863",
+        "Type": "short-answer",
+        "num_image": 4
+    },
+    {
+        "ID": "Case 74",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Chest",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2312021093",
+        "Type": "short-answer",
+        "num_image": 5
+    },
+    {
+        "ID": "Case 75",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Abdominal",
+        "Modality": "MR",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2313021247",
+        "Type": "short-answer",
+        "num_image": 6
+    },
+    {
+        "ID": "Case 76",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Abdominal",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2321030140",
+        "Type": "short-answer",
+        "num_image": 3
+    },
+    {
+        "ID": "Case 77",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Urogenital",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2322021616",
+        "Type": "short-answer",
+        "num_image": 5
+    },
+    {
+        "ID": "Case 78",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Head and neck",
+        "Modality": "MR",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2323021607",
+        "Type": "short-answer",
+        "num_image": 8
+    },
+    {
+        "ID": "Case 79",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2331030615",
+        "Type": "short-answer",
+        "num_image": 4
+    },
+    {
+        "ID": "Case 80",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Abdominal",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2332030694",
+        "Type": "short-answer",
+        "num_image": 6
+    },
+    {
+        "ID": "Case 81",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Abdominal",
+        "Modality": "MR",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2333031837",
+        "Type": "short-answer",
+        "num_image": 5
+    },
+    {
+        "ID": "Case 83",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Abdominal",
+        "Modality": "MR",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2341030041",
+        "Type": "short-answer",
+        "num_image": 4
+    },
+    {
+        "ID": "Case 84",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Urogenital",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2343031029",
+        "Type": "short-answer",
+        "num_image": 4
+    },
+    {
+        "ID": "Case 85",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Abdominal",
+        "Modality": "CT",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2351031033",
+        "Type": "short-answer",
+        "num_image": 4
+    },
+    {
+        "ID": "Case 86",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Abdominal",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2352030939",
+        "Type": "short-answer",
+        "num_image": 2
+    },
+    {
+        "ID": "Case 87",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Head and neck",
+        "Modality": "MR",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2353031756",
+        "Type": "short-answer",
+        "num_image": 5
+    },
+    {
+        "ID": "Case 88",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Chest",
+        "Modality": "CT",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2361031923",
+        "Type": "short-answer",
+        "num_image": 4
+    },
+    {
+        "ID": "Case 89",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Abdominal",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2362031360",
+        "Type": "short-answer",
+        "num_image": 5
+    },
+    {
+        "ID": "Case 90",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Chest",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2363031746",
+        "Type": "short-answer",
+        "num_image": 5
+    },
+    {
+        "ID": "Case 92",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Chest",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2372032122",
+        "Type": "short-answer",
+        "num_image": 4
+    },
+    {
+        "ID": "Case 93",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Chest",
+        "Modality": "CT",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2373040055",
+        "Type": "short-answer",
+        "num_image": 4
+    },
+    {
+        "ID": "Case 94",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Urogenital",
+        "Modality": "MR",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2381031087",
+        "Type": "short-answer",
+        "num_image": 6
+    },
+    {
+        "ID": "Case 95",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Musculoskeletal",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2382032019",
+        "Type": "short-answer",
+        "num_image": 6
+    },
+    {
+        "ID": "Case 96",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Abdominal",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2383032039",
+        "Type": "short-answer",
+        "num_image": 5
+    },
+    {
+        "ID": "Case 97",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Musculoskeletal",
+        "Modality": "X-ray",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2391031991",
+        "Type": "short-answer",
+        "num_image": 3
+    },
+    {
+        "ID": "Case 98",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Abdominal",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2392040109",
+        "Type": "short-answer",
+        "num_image": 6
+    },
+    {
+        "ID": "Case 99",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Pediatric",
+        "Modality": "MR",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2393040164",
+        "Type": "short-answer",
+        "num_image": 4
+    },
+    {
+        "ID": "Case 100",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "MR",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2401040202",
+        "Type": "short-answer",
+        "num_image": 4
+    },
+    {
+        "ID": "Case 101",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "MR",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2401040298",
+        "Type": "short-answer",
+        "num_image": 4
+    },
+    {
+        "ID": "Case 102",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "MR",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2402031953",
+        "Type": "short-answer",
+        "num_image": 3
+    },
+    {
+        "ID": "Case 103",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "MR",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2402031666",
+        "Type": "short-answer",
+        "num_image": 5
+    },
+    {
+        "ID": "Case 104",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Musculoskeletal",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2403040402",
+        "Type": "short-answer",
+        "num_image": 7
+    },
+    {
+        "ID": "Case 105",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Abdominal",
+        "Modality": "CT",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2403032007",
+        "Type": "short-answer",
+        "num_image": 1
+    },
+    {
+        "ID": "Case 106",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Urogenital",
+        "Modality": "MR",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2422040656",
+        "Type": "short-answer",
+        "num_image": 4
+    },
+    {
+        "ID": "Case 107",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Abdominal",
+        "Modality": "CT",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2411040407",
+        "Type": "short-answer",
+        "num_image": 4
+    },
+    {
+        "ID": "Case 108",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Abdominal",
+        "Modality": "CT",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2412040787",
+        "Type": "short-answer",
+        "num_image": 4
+    },
+    {
+        "ID": "Case 109",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Urogenital",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2412040774",
+        "Type": "short-answer",
+        "num_image": 8
+    },
+    {
+        "ID": "Case 110",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Musculoskeletal",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2413040426",
+        "Type": "short-answer",
+        "num_image": 6
+    },
+    {
+        "ID": "Case 111",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Musculoskeletal",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2413040394",
+        "Type": "short-answer",
+        "num_image": 6
+    },
+    {
+        "ID": "Case 112",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "MR",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2421040358",
+        "Type": "short-answer",
+        "num_image": 5
+    },
+    {
+        "ID": "Case 113",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Abdominal",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2421040914",
+        "Type": "short-answer",
+        "num_image": 5
+    },
+    {
+        "ID": "Case 114",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Urogenital",
+        "Modality": "MR",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2422041037",
+        "Type": "short-answer",
+        "num_image": 1
+    },
+    {
+        "ID": "Case 115",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Cardiovascular",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2422040925",
+        "Type": "short-answer",
+        "num_image": 5
+    },
+    {
+        "ID": "Case 116",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Abdominal",
+        "Modality": "CT",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2423040789",
+        "Type": "short-answer",
+        "num_image": 6
+    },
+    {
+        "ID": "Case 117",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Abdominal",
+        "Modality": "CT",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2423041210",
+        "Type": "short-answer",
+        "num_image": 4
+    },
+    {
+        "ID": "Case 118",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Musculoskeletal",
+        "Modality": "MR",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2431041505",
+        "Type": "short-answer",
+        "num_image": 5
+    },
+    {
+        "ID": "Case 119",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Cardiovascular",
+        "Modality": "MR",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2431041241",
+        "Type": "short-answer",
+        "num_image": 3
+    },
+    {
+        "ID": "Case 120",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Abdominal",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2432041268",
+        "Type": "short-answer",
+        "num_image": 5
+    },
+    {
+        "ID": "Case 121",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2432041498",
+        "Type": "short-answer",
+        "num_image": 6
+    },
+    {
+        "ID": "Case 122",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Musculoskeletal",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2433031732",
+        "Type": "short-answer",
+        "num_image": 4
+    },
+    {
+        "ID": "Case 123",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Abdominal",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2433040851",
+        "Type": "short-answer",
+        "num_image": 3
+    },
+    {
+        "ID": "Case 124",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Chest",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2441040493",
+        "Type": "short-answer",
+        "num_image": 4
+    },
+    {
+        "ID": "Case 125",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "MR",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2441041585",
+        "Type": "short-answer",
+        "num_image": 4
+    },
+    {
+        "ID": "Case 126",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Chest",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2442040714",
+        "Type": "short-answer",
+        "num_image": 3
+    },
+    {
+        "ID": "Case 127",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Abdominal",
+        "Modality": "CT",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2442040998",
+        "Type": "short-answer",
+        "num_image": 6
+    },
+    {
+        "ID": "Case 128",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Urogenital",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2443041652",
+        "Type": "short-answer",
+        "num_image": 4
+    },
+    {
+        "ID": "Case 129",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Abdominal",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2443040001",
+        "Type": "short-answer",
+        "num_image": 5
+    },
+    {
+        "ID": "Case 130",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Chest",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2451042032",
+        "Type": "short-answer",
+        "num_image": 7
+    },
+    {
+        "ID": "Case 131",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2452042154",
+        "Type": "short-answer",
+        "num_image": 8
+    },
+    {
+        "ID": "Case 132",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Chest",
+        "Modality": "CT",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2453042091",
+        "Type": "short-answer",
+        "num_image": 5
+    },
+    {
+        "ID": "Case 133",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2461050100",
+        "Type": "short-answer",
+        "num_image": 6
+    },
+    {
+        "ID": "Case 134",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2462050506",
+        "Type": "short-answer",
+        "num_image": 7
+    },
+    {
+        "ID": "Case 135",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Abdominal",
+        "Modality": "CT",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2463050320",
+        "Type": "short-answer",
+        "num_image": 2
+    },
+    {
+        "ID": "Case 136",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Abdominal",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2471031096",
+        "Type": "short-answer",
+        "num_image": 5
+    },
+    {
+        "ID": "Case 137",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Pediatric",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2472050724",
+        "Type": "short-answer",
+        "num_image": 6
+    },
+    {
+        "ID": "Case 138",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2473020675",
+        "Type": "short-answer",
+        "num_image": 5
+    },
+    {
+        "ID": "Case 139",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Head and neck",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2481040408",
+        "Type": "short-answer",
+        "num_image": 5
+    },
+    {
+        "ID": "Case 140",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Abdominal",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2482050025",
+        "Type": "short-answer",
+        "num_image": 6
+    },
+    {
+        "ID": "Case 141",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "MR",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2483051196",
+        "Type": "short-answer",
+        "num_image": 6
+    },
+    {
+        "ID": "Case 142",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "MR",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2491051864",
+        "Type": "short-answer",
+        "num_image": 4
+    },
+    {
+        "ID": "Case 143",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Musculoskeletal",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2492071023",
+        "Type": "short-answer",
+        "num_image": 7
+    },
+    {
+        "ID": "Case 144",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "MR",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2493071391",
+        "Type": "short-answer",
+        "num_image": 6
+    },
+    {
+        "ID": "Case 145",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Abdominal",
+        "Modality": "MR",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2501071143",
+        "Type": "short-answer",
+        "num_image": 4
+    },
+    {
+        "ID": "Case 146",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Urogenital",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2502071233",
+        "Type": "short-answer",
+        "num_image": 4
+    },
+    {
+        "ID": "Case 147",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Pediatric",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2503080092",
+        "Type": "short-answer",
+        "num_image": 6
+    },
+    {
+        "ID": "Case 148",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "MR",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2511080364",
+        "Type": "short-answer",
+        "num_image": 4
+    },
+    {
+        "ID": "Case 149",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "MR",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2512080401",
+        "Type": "short-answer",
+        "num_image": 4
+    },
+    {
+        "ID": "Case 150",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2513072189",
+        "Type": "short-answer",
+        "num_image": 8
+    },
+    {
+        "ID": "Case 151",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Abdominal",
+        "Modality": "CT",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2521080597",
+        "Type": "short-answer",
+        "num_image": 6
+    },
+    {
+        "ID": "Case 152",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "MR",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2522081925",
+        "Type": "short-answer",
+        "num_image": 4
+    },
+    {
+        "ID": "Case 153",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Cardiovascular",
+        "Modality": "MR",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2523082142",
+        "Type": "short-answer",
+        "num_image": 7
+    },
+    {
+        "ID": "Case 154",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Head and neck",
+        "Modality": "CT",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2531081659",
+        "Type": "short-answer",
+        "num_image": 7
+    },
+    {
+        "ID": "Case 155",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Chest",
+        "Modality": "CT",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2532082061",
+        "Type": "short-answer",
+        "num_image": 3
+    },
+    {
+        "ID": "Case 156",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Abdominal",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2533090089",
+        "Type": "short-answer",
+        "num_image": 3
+    },
+    {
+        "ID": "Case 157",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Cardiovascular",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2541082210",
+        "Type": "short-answer",
+        "num_image": 6
+    },
+    {
+        "ID": "Case 158",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Abdominal",
+        "Modality": "CT",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radio1.09081541",
+        "Type": "short-answer",
+        "num_image": 4
+    },
+    {
+        "ID": "Case 159",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "MR",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.09091169",
+        "Type": "short-answer",
+        "num_image": 9
+    },
+    {
+        "ID": "Case 160",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Chest",
+        "Modality": "CT",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.09081906",
+        "Type": "short-answer",
+        "num_image": 4
+    },
+    {
+        "ID": "Case 161",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Pediatric",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.10081035",
+        "Type": "short-answer",
+        "num_image": 4
+    },
+    {
+        "ID": "Case 162",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Chest",
+        "Modality": "X-ray",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.10090047",
+        "Type": "short-answer",
+        "num_image": 2
+    },
+    {
+        "ID": "Case 163",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "MR",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.10090854",
+        "Type": "short-answer",
+        "num_image": 6
+    },
+    {
+        "ID": "Case 165",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Musculoskeletal",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.10090701",
+        "Type": "short-answer",
+        "num_image": 3
+    },
+    {
+        "ID": "Case 166",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Chest",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.10082168",
+        "Type": "short-answer",
+        "num_image": 7
+    },
+    {
+        "ID": "Case 167",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Urogenital",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.10091146",
+        "Type": "short-answer",
+        "num_image": 6
+    },
+    {
+        "ID": "Case 168",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Pediatric",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.10092143",
+        "Type": "short-answer",
+        "num_image": 5
+    },
+    {
+        "ID": "Case 169",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Chest",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.10092047",
+        "Type": "short-answer",
+        "num_image": 3
+    },
+    {
+        "ID": "Case 170",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Chest",
+        "Modality": "CT",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.10090785",
+        "Type": "short-answer",
+        "num_image": 4
+    },
+    {
+        "ID": "Case 171",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.10092010",
+        "Type": "short-answer",
+        "num_image": 6
+    },
+    {
+        "ID": "Case 172",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Cardiovascular",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.10100183",
+        "Type": "short-answer",
+        "num_image": 7
+    },
+    {
+        "ID": "Case 173",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Pediatric",
+        "Modality": "MR",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.11090528 ",
+        "Type": "short-answer",
+        "num_image": 6
+    },
+    {
+        "ID": "Case 174",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.11100008",
+        "Type": "short-answer",
+        "num_image": 4
+    },
+    {
+        "ID": "Case 176",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.11091984",
+        "Type": "short-answer",
+        "num_image": 4
+    },
+    {
+        "ID": "Case 177",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Abdominal",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.11102045",
+        "Type": "short-answer",
+        "num_image": 10
+    },
+    {
+        "ID": "Case 178",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "CT",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.11091972",
+        "Type": "short-answer",
+        "num_image": 8
+    },
+    {
+        "ID": "Case 179",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Abdominal",
+        "Modality": "MR",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.11102325",
+        "Type": "short-answer",
+        "num_image": 10
+    },
+    {
+        "ID": "Case 180",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Chest",
+        "Modality": "MR",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.11092467",
+        "Type": "short-answer",
+        "num_image": 4
+    },
+    {
+        "ID": "Case 181",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Musculoskeletal",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.204422",
+        "Type": "short-answer",
+        "num_image": 3
+    },
+    {
+        "ID": "Case 182",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Chest",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.11103539",
+        "Type": "short-answer",
+        "num_image": 7
+    },
+    {
+        "ID": "Case 183",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Abdominal",
+        "Modality": "CT",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.11110586",
+        "Type": "short-answer",
+        "num_image": 6
+    },
+    {
+        "ID": "Case 184",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Chest",
+        "Modality": "CT",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.12110411",
+        "Type": "short-answer",
+        "num_image": 6
+    },
+    {
+        "ID": "Case 185",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Pediatric",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.12102424",
+        "Type": "short-answer",
+        "num_image": 6
+    },
+    {
+        "ID": "Case 186",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Pediatric",
+        "Modality": "MR",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.12092475",
+        "Type": "short-answer",
+        "num_image": 7
+    },
+    {
+        "ID": "Case 187",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Abdominal",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.12102044",
+        "Type": "short-answer",
+        "num_image": 4
+    },
+    {
+        "ID": "Case 188",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Cardiovascular",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.12111236",
+        "Type": "short-answer",
+        "num_image": 6
+    },
+    {
+        "ID": "Case 189",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Pediatric",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.12111842",
+        "Type": "short-answer",
+        "num_image": 5
+    },
+    {
+        "ID": "Case 190",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Cardiovascular",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.12110393",
+        "Type": "short-answer",
+        "num_image": 4
+    },
+    {
+        "ID": "Case 191",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "MR",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.12103507",
+        "Type": "short-answer",
+        "num_image": 5
+    },
+    {
+        "ID": "Case 192",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Abdominal",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.12111735",
+        "Type": "short-answer",
+        "num_image": 3
+    },
+    {
+        "ID": "Case 193",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.12111135",
+        "Type": "short-answer",
+        "num_image": 3
+    },
+    {
+        "ID": "Case 194",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Abdominal",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.12120307",
+        "Type": "short-answer",
+        "num_image": 9
+    },
+    {
+        "ID": "Case 195",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Musculoskeletal",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.12120434",
+        "Type": "short-answer",
+        "num_image": 6
+    },
+    {
+        "ID": "Case 196",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Head and neck",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.13121257",
+        "Type": "short-answer",
+        "num_image": 6
+    },
+    {
+        "ID": "Case 197",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.13120842",
+        "Type": "short-answer",
+        "num_image": 6
+    },
+    {
+        "ID": "Case 198",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Abdominal",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.13121178",
+        "Type": "short-answer",
+        "num_image": 10
+    },
+    {
+        "ID": "Case 199",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Cardiovascular",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.13121096",
+        "Type": "short-answer",
+        "num_image": 10
+    },
+    {
+        "ID": "Case 200",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Abdominal",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.13120809",
+        "Type": "short-answer",
+        "num_image": 7
+    },
+    {
+        "ID": "Case 201",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Breast",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.13120918",
+        "Type": "short-answer",
+        "num_image": 5
+    },
+    {
+        "ID": "Case 202",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "MR",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.13110153",
+        "Type": "short-answer",
+        "num_image": 9
+    },
+    {
+        "ID": "Case 203",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Musculoskeletal",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.13112687",
+        "Type": "short-answer",
+        "num_image": 7
+    },
+    {
+        "ID": "Case 204",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.13120839",
+        "Type": "short-answer",
+        "num_image": 5
+    },
+    {
+        "ID": "Case 205",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Abdominal",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.13120635",
+        "Type": "short-answer",
+        "num_image": 7
+    },
+    {
+        "ID": "Case 206",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Pediatric",
+        "Modality": "MR",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.13110857",
+        "Type": "short-answer",
+        "num_image": 3
+    },
+    {
+        "ID": "Case 207",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Pediatric",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.13112741",
+        "Type": "short-answer",
+        "num_image": 4
+    },
+    {
+        "ID": "Case 208",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Musculoskeletal",
+        "Modality": "X-ray",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.14121644",
+        "Type": "short-answer",
+        "num_image": 2
+    },
+    {
+        "ID": "Case 209",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Musculoskeletal",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.14112330",
+        "Type": "short-answer",
+        "num_image": 5
+    },
+    {
+        "ID": "Case 210",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Urogenital",
+        "Modality": "CT",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.14121806",
+        "Type": "short-answer",
+        "num_image": 4
+    },
+    {
+        "ID": "Case 211",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Pediatric",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.14130948",
+        "Type": "short-answer",
+        "num_image": 6
+    },
+    {
+        "ID": "Case 212",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "MR",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.14131354",
+        "Type": "short-answer",
+        "num_image": 8
+    },
+    {
+        "ID": "Case 213",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Abdominal",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.14110885",
+        "Type": "short-answer",
+        "num_image": 9
+    },
+    {
+        "ID": "Case 214",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Abdominal",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.14132277",
+        "Type": "short-answer",
+        "num_image": 6
+    },
+    {
+        "ID": "Case 215",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Musculoskeletal",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.12122693",
+        "Type": "short-answer",
+        "num_image": 5
+    },
+    {
+        "ID": "Case 216",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Musculoskeletal",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.14122158",
+        "Type": "short-answer",
+        "num_image": 8
+    },
+    {
+        "ID": "Case 217",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Pediatric",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.14131965",
+        "Type": "short-answer",
+        "num_image": 6
+    },
+    {
+        "ID": "Case 218",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Chest",
+        "Modality": "CT",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.14122723",
+        "Type": "short-answer",
+        "num_image": 8
+    },
+    {
+        "ID": "Case 219",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Urogenital",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.14131223",
+        "Type": "short-answer",
+        "num_image": 3
+    },
+    {
+        "ID": "Case 220",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Pediatric",
+        "Modality": "MR",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.15131128",
+        "Type": "short-answer",
+        "num_image": 4
+    },
+    {
+        "ID": "Case 221",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Abdominal",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2015132797",
+        "Type": "short-answer",
+        "num_image": 12
+    },
+    {
+        "ID": "Case 222",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Chest",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2015131417",
+        "Type": "short-answer",
+        "num_image": 6
+    },
+    {
+        "ID": "Case 223",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Head and neck",
+        "Modality": "CT",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2015140144",
+        "Type": "short-answer",
+        "num_image": 6
+    },
+    {
+        "ID": "Case 224",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Cardiovascular",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2015131672",
+        "Type": "short-answer",
+        "num_image": 5
+    },
+    {
+        "ID": "Case 225",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Urogenital",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2015130252",
+        "Type": "short-answer",
+        "num_image": 7
+    },
+    {
+        "ID": "Case 226",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Pediatric",
+        "Modality": "CT",
+        "Link": "https://pubs.rsna.org/action/doSearch?AllField=case+226",
+        "Type": "short-answer",
+        "num_image": 5
+    },
+    {
+        "ID": "Case 227",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Chest",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2015141474",
+        "Type": "short-answer",
+        "num_image": 3
+    },
+    {
+        "ID": "Case 228",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Musculoskeletal",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2015132279",
+        "Type": "short-answer",
+        "num_image": 4
+    },
+    {
+        "ID": "Case 229",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Musculoskeletal",
+        "Modality": "X-ray",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2015140300",
+        "Type": "short-answer",
+        "num_image": 6
+    },
+    {
+        "ID": "Case 230",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Urogenital",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2015141804",
+        "Type": "short-answer",
+        "num_image": 8
+    },
+    {
+        "ID": "Case 231",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Abdominal",
+        "Modality": "CT",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2016140459",
+        "Type": "short-answer",
+        "num_image": 5
+    },
+    {
+        "ID": "Case 232",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Cardiovascular",
+        "Modality": "MR",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2016142867",
+        "Type": "short-answer",
+        "num_image": 6
+    },
+    {
+        "ID": "Case 233",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Chest",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2016142651",
+        "Type": "short-answer",
+        "num_image": 6
+    },
+    {
+        "ID": "Case 234",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Musculoskeletal",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2016132793",
+        "Type": "short-answer",
+        "num_image": 11
+    },
+    {
+        "ID": "Case 235",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Abdominal",
+        "Modality": "MR",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2016150247",
+        "Type": "short-answer",
+        "num_image": 6
+    },
+    {
+        "ID": "Case 236",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Pediatric",
+        "Modality": "MR",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2016150502",
+        "Type": "short-answer",
+        "num_image": 6
+    },
+    {
+        "ID": "Case 237",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Abdominal",
+        "Modality": "CT",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2016140816A",
+        "Type": "short-answer",
+        "num_image": 5
+    },
+    {
+        "ID": "Case 238",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Chest",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2016150223",
+        "Type": "short-answer",
+        "num_image": 4
+    },
+    {
+        "ID": "Case 239",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2016150706",
+        "Type": "short-answer",
+        "num_image": 6
+    },
+    {
+        "ID": "Case 240",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Abdominal",
+        "Modality": "CT",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2016150884",
+        "Type": "short-answer",
+        "num_image": 4
+    },
+    {
+        "ID": "Case 241",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Musculoskeletal",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2016151718",
+        "Type": "short-answer",
+        "num_image": 10
+    },
+    {
+        "ID": "Case 242",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Breast",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2016150455",
+        "Type": "short-answer",
+        "num_image": 9
+    },
+    {
+        "ID": "Case 243",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Abdominal",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2016150148",
+        "Type": "short-answer",
+        "num_image": 7
+    },
+    {
+        "ID": "Case 244",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Abdominal",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2017151157",
+        "Type": "short-answer",
+        "num_image": 6
+    },
+    {
+        "ID": "Case 245",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Head and neck",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2017141150",
+        "Type": "short-answer",
+        "num_image": 8
+    },
+    {
+        "ID": "Case 246",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Pediatric",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2017132068",
+        "Type": "short-answer",
+        "num_image": 7
+    },
+    {
+        "ID": "Case 247",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Musculoskeletal",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2017152588",
+        "Type": "short-answer",
+        "num_image": 7
+    },
+    {
+        "ID": "Case 248",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Abdominal",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2017150346",
+        "Type": "short-answer",
+        "num_image": 7
+    },
+    {
+        "ID": "Case 249",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Musculoskeletal",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2017152806",
+        "Type": "short-answer",
+        "num_image": 8
+    },
+    {
+        "ID": "Case 250",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Pediatric",
+        "Modality": "MR",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2017151645",
+        "Type": "short-answer",
+        "num_image": 7
+    },
+    {
+        "ID": "Case 251",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Head and neck",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2017152593",
+        "Type": "short-answer",
+        "num_image": 3
+    },
+    {
+        "ID": "Case 252",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "MR",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2017161833",
+        "Type": "short-answer",
+        "num_image": 2
+    },
+    {
+        "ID": "Case 253",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Pediatric",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2017152908",
+        "Type": "short-answer",
+        "num_image": 6
+    },
+    {
+        "ID": "Case 254",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Musculoskeletal",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2017160232",
+        "Type": "short-answer",
+        "num_image": 10
+    },
+    {
+        "ID": "Case 255",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Musculoskeletal",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2018160563",
+        "Type": "short-answer",
+        "num_image": 5
+    },
+    {
+        "ID": "Case 256",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Breast",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2018160439",
+        "Type": "short-answer",
+        "num_image": 11
+    },
+    {
+        "ID": "Case 257",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Abdominal",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2018160819",
+        "Type": "short-answer",
+        "num_image": 2
+    },
+    {
+        "ID": "Case 258",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Urogenital",
+        "Modality": "MR",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2018161176",
+        "Type": "short-answer",
+        "num_image": 6
+    },
+    {
+        "ID": "Case 259",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "MR",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2018161474",
+        "Type": "short-answer",
+        "num_image": 8
+    },
+    {
+        "ID": "Case 260",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Chest",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2018161559",
+        "Type": "short-answer",
+        "num_image": 4
+    },
+    {
+        "ID": "Case 261",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Chest",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2018161760",
+        "Type": "short-answer",
+        "num_image": 8
+    },
+    {
+        "ID": "Case 262",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Cardiovascular",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2018161773",
+        "Type": "short-answer",
+        "num_image": 7
+    },
+    {
+        "ID": "Case 263",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Musculoskeletal",
+        "Modality": "X-ray",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2018162112",
+        "Type": "short-answer",
+        "num_image": 4
+    },
+    {
+        "ID": "Case 264",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Musculoskeletal",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2018162093",
+        "Type": "short-answer",
+        "num_image": 8
+    },
+    {
+        "ID": "Case 265",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Abdominal",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2018162374",
+        "Type": "short-answer",
+        "num_image": 3
+    },
+    {
+        "ID": "Case 266",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Pediatric",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2019162303",
+        "Type": "short-answer",
+        "num_image": 7
+    },
+    {
+        "ID": "Case 267",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Urogenital",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2019162780",
+        "Type": "short-answer",
+        "num_image": 8
+    },
+    {
+        "ID": "Case 268",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Abdominal",
+        "Modality": "CT",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2019170367",
+        "Type": "short-answer",
+        "num_image": 4
+    },
+    {
+        "ID": "Case 269",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Urogenital",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2019170905",
+        "Type": "short-answer",
+        "num_image": 6
+    },
+    {
+        "ID": "Case 270",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Cardiovascular",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2019170821",
+        "Type": "short-answer",
+        "num_image": 7
+    },
+    {
+        "ID": "Case 271",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Pediatric",
+        "Modality": "MR",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2019170925",
+        "Type": "short-answer",
+        "num_image": 9
+    },
+    {
+        "ID": "Case 272",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Musculoskeletal",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2019171254",
+        "Type": "short-answer",
+        "num_image": 4
+    },
+    {
+        "ID": "Case 273",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Abdominal",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2017171374",
+        "Type": "short-answer",
+        "num_image": 6
+    },
+    {
+        "ID": "Case 274",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Cardiovascular",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2019171769",
+        "Type": "short-answer",
+        "num_image": 6
+    },
+    {
+        "ID": "Case 275",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Abdominal",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2019180133",
+        "Type": "short-answer",
+        "num_image": 5
+    },
+    {
+        "ID": "Case 276",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Cardiovascular",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2019180472",
+        "Type": "short-answer",
+        "num_image": 8
+    },
+    {
+        "ID": "Case 277",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Head and neck",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2019180650",
+        "Type": "short-answer",
+        "num_image": 3
+    },
+    {
+        "ID": "Case 278",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Pediatric",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2019181239",
+        "Type": "short-answer",
+        "num_image": 7
+    },
+    {
+        "ID": "Case 279",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "MR",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2019181548",
+        "Type": "short-answer",
+        "num_image": 7
+    },
+    {
+        "ID": "Case 280",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Pediatric",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2020182236",
+        "Type": "short-answer",
+        "num_image": 8
+    },
+    {
+        "ID": "Case 281",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Chest",
+        "Modality": "CT",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2020182474",
+        "Type": "short-answer",
+        "num_image": 5
+    },
+    {
+        "ID": "Case 282",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Abdominal",
+        "Modality": "CT",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2020190435",
+        "Type": "short-answer",
+        "num_image": 6
+    },
+    {
+        "ID": "Case 283",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Breast",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2020190500",
+        "Type": "short-answer",
+        "num_image": 6
+    },
+    {
+        "ID": "Case 284",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2020190728",
+        "Type": "short-answer",
+        "num_image": 5
+    },
+    {
+        "ID": "Case 285",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Breast",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2020191331",
+        "Type": "short-answer",
+        "num_image": 8
+    },
+    {
+        "ID": "Case 286",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Chest",
+        "Modality": "CT",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2020191246",
+        "Type": "short-answer",
+        "num_image": 4
+    },
+    {
+        "ID": "Case 287",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Chest",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2020192177",
+        "Type": "short-answer",
+        "num_image": 5
+    },
+    {
+        "ID": "Case 288",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Cardiovascular",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2020192473",
+        "Type": "short-answer",
+        "num_image": 4
+    },
+    {
+        "ID": "Case 289",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Pediatric",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2020192802",
+        "Type": "short-answer",
+        "num_image": 6
+    },
+    {
+        "ID": "Case 290",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Urogenital",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2021192862",
+        "Type": "short-answer",
+        "num_image": 7
+    },
+    {
+        "ID": "Case 291",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Chest",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2021200027",
+        "Type": "short-answer",
+        "num_image": 5
+    },
+    {
+        "ID": "Case 292",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "MR",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2021201712",
+        "Type": "short-answer",
+        "num_image": 8
+    },
+    {
+        "ID": "Case 293",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Pediatric",
+        "Modality": "MR",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2021203048",
+        "Type": "short-answer",
+        "num_image": 5
+    },
+    {
+        "ID": "Case 294",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Cardiovascular",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2021203170",
+        "Type": "short-answer",
+        "num_image": 6
+    },
+    {
+        "ID": "Case 295",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Musculoskeletal",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2021202311",
+        "Type": "short-answer",
+        "num_image": 8
+    },
+    {
+        "ID": "Case 296",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Abdominal",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2021201790",
+        "Type": "short-answer",
+        "num_image": 3
+    },
+    {
+        "ID": "Case 297",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Urogenital",
+        "Modality": "MR",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2021202948",
+        "Type": "short-answer",
+        "num_image": 4
+    },
+    {
+        "ID": "Case 298",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Musculoskeletal",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2021203740",
+        "Type": "short-answer",
+        "num_image": 5
+    },
+    {
+        "ID": "Case 299",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "MR",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2021203442",
+        "Type": "short-answer",
+        "num_image": 5
+    },
+    {
+        "ID": "Case 300",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Abdominal",
+        "Modality": "MR",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.2021203779",
+        "Type": "short-answer",
+        "num_image": 2
+    },
+    {
+        "ID": "Case 301",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.204313",
+        "Type": "short-answer",
+        "num_image": 5
+    },
+    {
+        "ID": "Case 302",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "MR",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.204422",
+        "Type": "short-answer",
+        "num_image": 3
+    },
+    {
+        "ID": "Case 303",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.203755",
+        "Type": "short-answer",
+        "num_image": 3
+    },
+    {
+        "ID": "Case 304",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Abdominal",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.204598",
+        "Type": "short-answer",
+        "num_image": 5
+    },
+    {
+        "ID": "Case 305",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Cardiovascular",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.210452",
+        "Type": "short-answer",
+        "num_image": 3
+    },
+    {
+        "ID": "Case 306",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Abdominal",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.210538",
+        "Type": "short-answer",
+        "num_image": 5
+    },
+    {
+        "ID": "Case 307",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Abdominal",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.210250",
+        "Type": "short-answer",
+        "num_image": 2
+    },
+    {
+        "ID": "Case 308",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Pediatric",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.211118",
+        "Type": "short-answer",
+        "num_image": 4
+    },
+    {
+        "ID": "Case 309",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "MR",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.211953",
+        "Type": "short-answer",
+        "num_image": 4
+    },
+    {
+        "ID": "Case 310",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.212606",
+        "Type": "short-answer",
+        "num_image": 3
+    },
+    {
+        "ID": "Case 311",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Pediatric",
+        "Modality": "CT",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.213228",
+        "Type": "short-answer",
+        "num_image": 3
+    },
+    {
+        "ID": "Case 313",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.221927",
+        "Type": "short-answer",
+        "num_image": 5
+    },
+    {
+        "ID": "Case 314",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "MR",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.220111",
+        "Type": "short-answer",
+        "num_image": 3
+    },
+    {
+        "ID": "Case 315",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Cardiovascular",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.220880",
+        "Type": "short-answer",
+        "num_image": 5
+    },
+    {
+        "ID": "Case 316",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Pediatric",
+        "Modality": "X-ray",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.220629",
+        "Type": "short-answer",
+        "num_image": 6
+    },
+    {
+        "ID": "Case 317",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "MR",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.220788",
+        "Type": "short-answer",
+        "num_image": 4
+    },
+    {
+        "ID": "Case 318",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "MR",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.220597",
+        "Type": "short-answer",
+        "num_image": 1
+    },
+    {
+        "ID": "Case 319",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Pediatric",
+        "Modality": "MR",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.222048",
+        "Type": "short-answer",
+        "num_image": 2
+    },
+    {
+        "ID": "Case 320",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Pediatric",
+        "Modality": "Hybrid",
+        "Link": "https://pubs.rsna.org/action/doSearch?AllField=case+320&SeriesKey=radiology",
+        "Type": "short-answer",
+        "num_image": 4
+    },
+    {
+        "ID": "Case 321",
+        "DataSource": "Radiology-DP",
+        "Subspecialty": "Pediatric",
+        "Modality": "MR",
+        "Link": "https://pubs.rsna.org/doi/10.1148/radiol.222508",
+        "Type": "short-answer",
+        "num_image": 6
+    }
+]

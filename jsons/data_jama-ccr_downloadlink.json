@@ -1,0 +1,551 @@
+[
+    {
+        "ID": 464,
+        "DataSource": "JAMA-CCR",
+        "Subspecialty": "Head and neck",
+        "Modality": "Hybrid",
+        "Link": "https://edhub.ama-assn.org/jn-learning/module/2788395",
+        "Type": "multiple-choice",
+        "num_image": 1
+    },
+    {
+        "ID": 465,
+        "DataSource": "JAMA-CCR",
+        "Subspecialty": "Head and neck",
+        "Modality": "MR",
+        "Link": "https://edhub.ama-assn.org/jn-learning/module/2790358",
+        "Type": "multiple-choice",
+        "num_image": 1
+    },
+    {
+        "ID": 466,
+        "DataSource": "JAMA-CCR",
+        "Subspecialty": "Head and neck",
+        "Modality": "MR",
+        "Link": "https://edhub.ama-assn.org/jn-learning/module/2787788",
+        "Type": "multiple-choice",
+        "num_image": 1
+    },
+    {
+        "ID": 467,
+        "DataSource": "JAMA-CCR",
+        "Subspecialty": "Head and neck",
+        "Modality": "Hybrid",
+        "Link": "https://edhub.ama-assn.org/jn-learning/module/2784552",
+        "Type": "multiple-choice",
+        "num_image": 1
+    },
+    {
+        "ID": 468,
+        "DataSource": "JAMA-CCR",
+        "Subspecialty": "Head and neck",
+        "Modality": "CT",
+        "Link": "https://edhub.ama-assn.org/jn-learning/module/2784326",
+        "Type": "multiple-choice",
+        "num_image": 1
+    },
+    {
+        "ID": 469,
+        "DataSource": "JAMA-CCR",
+        "Subspecialty": "Head and neck",
+        "Modality": "CT",
+        "Link": "https://edhub.ama-assn.org/jn-learning/module/2782368",
+        "Type": "multiple-choice",
+        "num_image": 1
+    },
+    {
+        "ID": 470,
+        "DataSource": "JAMA-CCR",
+        "Subspecialty": "Head and neck",
+        "Modality": "X-ray",
+        "Link": "https://edhub.ama-assn.org/jn-learning/module/2781097",
+        "Type": "multiple-choice",
+        "num_image": 1
+    },
+    {
+        "ID": 471,
+        "DataSource": "JAMA-CCR",
+        "Subspecialty": "Head and neck",
+        "Modality": "MR",
+        "Link": "https://edhub.ama-assn.org/jn-learning/module/2813362?resultClick=1&bypassSolrId=J_2813362",
+        "Type": "multiple-choice",
+        "num_image": 1
+    },
+    {
+        "ID": 472,
+        "DataSource": "JAMA-CCR",
+        "Subspecialty": "Chest",
+        "Modality": "CT",
+        "Link": "https://edhub.ama-assn.org/jn-learning/module/2813924?resultClick=1&bypassSolrId=J_2813924",
+        "Type": "multiple-choice",
+        "num_image": 1
+    },
+    {
+        "ID": 473,
+        "DataSource": "JAMA-CCR",
+        "Subspecialty": "Head and neck",
+        "Modality": "CT",
+        "Link": "https://edhub.ama-assn.org/jn-learning/module/2812074?resultClick=1&bypassSolrId=J_2812074",
+        "Type": "multiple-choice",
+        "num_image": 1
+    },
+    {
+        "ID": 474,
+        "DataSource": "JAMA-CCR",
+        "Subspecialty": "Head and neck",
+        "Modality": "CT",
+        "Link": "https://edhub.ama-assn.org/jn-learning/module/2811315?resultClick=1&bypassSolrId=J_2811315",
+        "Type": "multiple-choice",
+        "num_image": 1
+    },
+    {
+        "ID": 475,
+        "DataSource": "JAMA-CCR",
+        "Subspecialty": "Head and neck",
+        "Modality": "CT",
+        "Link": "https://edhub.ama-assn.org/jn-learning/module/2812749?resultClick=1&bypassSolrId=J_2812749",
+        "Type": "multiple-choice",
+        "num_image": 1
+    },
+    {
+        "ID": 476,
+        "DataSource": "JAMA-CCR",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "MR",
+        "Link": "https://edhub.ama-assn.org/jn-learning/module/2812954?resultClick=1&bypassSolrId=J_2812954",
+        "Type": "multiple-choice",
+        "num_image": 1
+    },
+    {
+        "ID": 477,
+        "DataSource": "JAMA-CCR",
+        "Subspecialty": "Head and neck",
+        "Modality": "Hybrid",
+        "Link": "https://edhub.ama-assn.org/jn-learning/module/2812400?resultClick=1&bypassSolrId=J_2812400",
+        "Type": "multiple-choice",
+        "num_image": 1
+    },
+    {
+        "ID": 478,
+        "DataSource": "JAMA-CCR",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "Hybrid",
+        "Link": "https://edhub.ama-assn.org/jn-learning/module/2810455?resultClick=1&bypassSolrId=J_2810455",
+        "Type": "multiple-choice",
+        "num_image": 1
+    },
+    {
+        "ID": 480,
+        "DataSource": "JAMA-CCR",
+        "Subspecialty": "Head and neck",
+        "Modality": "Hybrid",
+        "Link": "https://edhub.ama-assn.org/jn-learning/module/2810142?resultClick=1&bypassSolrId=J_2810142",
+        "Type": "multiple-choice",
+        "num_image": 1
+    },
+    {
+        "ID": 481,
+        "DataSource": "JAMA-CCR",
+        "Subspecialty": "Chest",
+        "Modality": "Hybrid",
+        "Link": "https://edhub.ama-assn.org/jn-learning/module/2807957?resultClick=1&bypassSolrId=J_2807957",
+        "Type": "multiple-choice",
+        "num_image": 1
+    },
+    {
+        "ID": 482,
+        "DataSource": "JAMA-CCR",
+        "Subspecialty": "Musculoskeletal",
+        "Modality": "X-ray",
+        "Link": "https://edhub.ama-assn.org/jn-learning/module/2807531?resultClick=1&bypassSolrId=J_2807531",
+        "Type": "multiple-choice",
+        "num_image": 1
+    },
+    {
+        "ID": 483,
+        "DataSource": "JAMA-CCR",
+        "Subspecialty": "Pediatric",
+        "Modality": "CT",
+        "Link": "https://edhub.ama-assn.org/jn-learning/module/2807273?resultClick=1&bypassSolrId=J_2807273",
+        "Type": "multiple-choice",
+        "num_image": 1
+    },
+    {
+        "ID": 484,
+        "DataSource": "JAMA-CCR",
+        "Subspecialty": "Cardiovascular",
+        "Modality": "CT",
+        "Link": "https://edhub.ama-assn.org/jn-learning/module/2806639?resultClick=1&bypassSolrId=J_2806639",
+        "Type": "multiple-choice",
+        "num_image": 1
+    },
+    {
+        "ID": 485,
+        "DataSource": "JAMA-CCR",
+        "Subspecialty": "Head and neck",
+        "Modality": "MR",
+        "Link": "https://edhub.ama-assn.org/jn-learning/module/2805263?resultClick=1&bypassSolrId=J_2805263",
+        "Type": "multiple-choice",
+        "num_image": 1
+    },
+    {
+        "ID": 487,
+        "DataSource": "JAMA-CCR",
+        "Subspecialty": "Abdominal",
+        "Modality": "CT",
+        "Link": "https://edhub.ama-assn.org/jn-learning/module/2804367?resultClick=1&bypassSolrId=J_2804367",
+        "Type": "multiple-choice",
+        "num_image": 1
+    },
+    {
+        "ID": 488,
+        "DataSource": "JAMA-CCR",
+        "Subspecialty": "Breast",
+        "Modality": "Hybrid",
+        "Link": "https://edhub.ama-assn.org/jn-learning/module/2802569?resultClick=1&bypassSolrId=J_2802569",
+        "Type": "multiple-choice",
+        "num_image": 1
+    },
+    {
+        "ID": 489,
+        "DataSource": "JAMA-CCR",
+        "Subspecialty": "Head and neck",
+        "Modality": "Hybrid",
+        "Link": "https://edhub.ama-assn.org/jn-learning/module/2801610?resultClick=1&bypassSolrId=J_2801610",
+        "Type": "multiple-choice",
+        "num_image": 1
+    },
+    {
+        "ID": 490,
+        "DataSource": "JAMA-CCR",
+        "Subspecialty": "Head and neck",
+        "Modality": "Hybrid",
+        "Link": "https://edhub.ama-assn.org/jn-learning/module/2801952?resultClick=1&bypassSolrId=J_2801952",
+        "Type": "multiple-choice",
+        "num_image": 1
+    },
+    {
+        "ID": 491,
+        "DataSource": "JAMA-CCR",
+        "Subspecialty": "Head and neck",
+        "Modality": "Hybrid",
+        "Link": "https://edhub.ama-assn.org/jn-learning/module/2799621?resultClick=1&bypassSolrId=J_2799621",
+        "Type": "multiple-choice",
+        "num_image": 1
+    },
+    {
+        "ID": 492,
+        "DataSource": "JAMA-CCR",
+        "Subspecialty": "Abdominal",
+        "Modality": "CT",
+        "Link": "https://edhub.ama-assn.org/jn-learning/module/2799951?resultClick=1&bypassSolrId=J_2799951",
+        "Type": "multiple-choice",
+        "num_image": 1
+    },
+    {
+        "ID": 493,
+        "DataSource": "JAMA-CCR",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "MR",
+        "Link": "https://edhub.ama-assn.org/jn-learning/module/2798382?resultClick=1&bypassSolrId=J_2798382",
+        "Type": "multiple-choice",
+        "num_image": 1
+    },
+    {
+        "ID": 494,
+        "DataSource": "JAMA-CCR",
+        "Subspecialty": "Head and neck",
+        "Modality": "Hybrid",
+        "Link": "https://edhub.ama-assn.org/jn-learning/module/2798780?resultClick=1&bypassSolrId=J_2798780",
+        "Type": "multiple-choice",
+        "num_image": 1
+    },
+    {
+        "ID": 496,
+        "DataSource": "JAMA-CCR",
+        "Subspecialty": "Pediatric",
+        "Modality": "Hybrid",
+        "Link": "https://edhub.ama-assn.org/jn-learning/module/2796305?resultClick=1&bypassSolrId=J_2796305",
+        "Type": "multiple-choice",
+        "num_image": 1
+    },
+    {
+        "ID": 497,
+        "DataSource": "JAMA-CCR",
+        "Subspecialty": "Head and neck",
+        "Modality": "Hybrid",
+        "Link": "https://edhub.ama-assn.org/jn-learning/module/2796435?resultClick=1&bypassSolrId=J_2796435",
+        "Type": "multiple-choice",
+        "num_image": 1
+    },
+    {
+        "ID": 500,
+        "DataSource": "JAMA-CCR",
+        "Subspecialty": "Head and neck",
+        "Modality": "CT",
+        "Link": "https://edhub.ama-assn.org/jn-learning/module/2795334?resultClick=1&bypassSolrId=J_2795334",
+        "Type": "multiple-choice",
+        "num_image": 1
+    },
+    {
+        "ID": 506,
+        "DataSource": "JAMA-CCR",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "MR",
+        "Link": "https://edhub.ama-assn.org/jn-learning/module/2787477?resultClick=1&bypassSolrId=J_2787477",
+        "Type": "multiple-choice",
+        "num_image": 1
+    },
+    {
+        "ID": 507,
+        "DataSource": "JAMA-CCR",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "Hybrid",
+        "Link": "https://edhub.ama-assn.org/jn-learning/module/2785706?resultClick=1&bypassSolrId=J_2785706",
+        "Type": "multiple-choice",
+        "num_image": 1
+    },
+    {
+        "ID": 508,
+        "DataSource": "JAMA-CCR",
+        "Subspecialty": "Head and neck",
+        "Modality": "Hybrid",
+        "Link": "https://edhub.ama-assn.org/jn-learning/module/2786488?resultClick=1&bypassSolrId=J_2786488",
+        "Type": "multiple-choice",
+        "num_image": 1
+    },
+    {
+        "ID": 511,
+        "DataSource": "JAMA-CCR",
+        "Subspecialty": "Abdominal",
+        "Modality": "CT",
+        "Link": "https://edhub.ama-assn.org/jn-learning/module/2783496?resultClick=1&bypassSolrId=J_2783496",
+        "Type": "multiple-choice",
+        "num_image": 1
+    },
+    {
+        "ID": 512,
+        "DataSource": "JAMA-CCR",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "MR",
+        "Link": "https://edhub.ama-assn.org/jn-learning/module/2780426?resultClick=1&bypassSolrId=J_2780426",
+        "Type": "multiple-choice",
+        "num_image": 1
+    },
+    {
+        "ID": 513,
+        "DataSource": "JAMA-CCR",
+        "Subspecialty": "Head and neck",
+        "Modality": "Hybrid",
+        "Link": "https://edhub.ama-assn.org/jn-learning/module/2780289?resultClick=1&bypassSolrId=J_2780289",
+        "Type": "multiple-choice",
+        "num_image": 1
+    },
+    {
+        "ID": 514,
+        "DataSource": "JAMA-CCR",
+        "Subspecialty": "Musculoskeletal",
+        "Modality": "CT",
+        "Link": "https://edhub.ama-assn.org/jn-learning/module/2777581?resultClick=1&bypassSolrId=J_2777581",
+        "Type": "multiple-choice",
+        "num_image": 1
+    },
+    {
+        "ID": 515,
+        "DataSource": "JAMA-CCR",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "MR",
+        "Link": "https://edhub.ama-assn.org/jn-learning/module/2776955?resultClick=1&bypassSolrId=J_2776955",
+        "Type": "multiple-choice",
+        "num_image": 1
+    },
+    {
+        "ID": 516,
+        "DataSource": "JAMA-CCR",
+        "Subspecialty": "Head and neck",
+        "Modality": "Hybrid",
+        "Link": "https://edhub.ama-assn.org/jn-learning/module/2775156?resultClick=1&bypassSolrId=J_2775156",
+        "Type": "multiple-choice",
+        "num_image": 1
+    },
+    {
+        "ID": 518,
+        "DataSource": "JAMA-CCR",
+        "Subspecialty": "Chest",
+        "Modality": "Hybrid",
+        "Link": "https://edhub.ama-assn.org/jn-learning/module/2814985?resultClick=1&bypassSolrId=J_2814985",
+        "Type": "multiple-choice",
+        "num_image": 1
+    },
+    {
+        "ID": 528,
+        "DataSource": "JAMA-CCR",
+        "Subspecialty": "Abdominal",
+        "Modality": "X-ray",
+        "Link": "https://edhub.ama-assn.org/jn-learning/module/2811509?resultClick=1&bypassSolrId=J_2811509",
+        "Type": "multiple-choice",
+        "num_image": 1
+    },
+    {
+        "ID": 537,
+        "DataSource": "JAMA-CCR",
+        "Subspecialty": "Head and neck",
+        "Modality": "Hybrid",
+        "Link": "https://edhub.ama-assn.org/jn-learning/module/2799630?resultClick=1&bypassSolrId=J_2799630",
+        "Type": "multiple-choice",
+        "num_image": 1
+    },
+    {
+        "ID": 538,
+        "DataSource": "JAMA-CCR",
+        "Subspecialty": "Head and neck",
+        "Modality": "Hybrid",
+        "Link": "https://edhub.ama-assn.org/jn-learning/module/2791582?resultClick=1&bypassSolrId=J_2791582",
+        "Type": "multiple-choice",
+        "num_image": 1
+    },
+    {
+        "ID": 539,
+        "DataSource": "JAMA-CCR",
+        "Subspecialty": "Head and neck",
+        "Modality": "CT",
+        "Link": "https://edhub.ama-assn.org/jn-learning/module/2792062?resultClick=1&bypassSolrId=J_2792062",
+        "Type": "multiple-choice",
+        "num_image": 1
+    },
+    {
+        "ID": 540,
+        "DataSource": "JAMA-CCR",
+        "Subspecialty": "Musculoskeletal",
+        "Modality": "MR",
+        "Link": "https://edhub.ama-assn.org/jn-learning/module/2790731?resultClick=1&bypassSolrId=J_2790731",
+        "Type": "multiple-choice",
+        "num_image": 1
+    },
+    {
+        "ID": 542,
+        "DataSource": "JAMA-CCR",
+        "Subspecialty": "Head and neck",
+        "Modality": "CT",
+        "Link": "https://edhub.ama-assn.org/jn-learning/module/2788902?resultClick=1&bypassSolrId=J_2788902",
+        "Type": "multiple-choice",
+        "num_image": 1
+    },
+    {
+        "ID": 544,
+        "DataSource": "JAMA-CCR",
+        "Subspecialty": "Breast",
+        "Modality": "MR",
+        "Link": "https://edhub.ama-assn.org/jn-learning/module/2787650?resultClick=1&bypassSolrId=J_2787650",
+        "Type": "multiple-choice",
+        "num_image": 1
+    },
+    {
+        "ID": 525,
+        "DataSource": "JAMA-CCR",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "Hybrid",
+        "Link": "https://edhub.ama-assn.org/jn-learning/module/2812355?resultClick=1&bypassSolrId=J_2812355",
+        "Type": "multiple-choice",
+        "num_image": 1
+    },
+    {
+        "ID": 503,
+        "DataSource": "JAMA-CCR",
+        "Subspecialty": "Head and neck",
+        "Modality": "CT",
+        "Link": "https://edhub.ama-assn.org/jn-learning/module/2792878?resultClick=1&bypassSolrId=J_2792878",
+        "Type": "multiple-choice",
+        "num_image": 1
+    },
+    {
+        "ID": 479,
+        "DataSource": "JAMA-CCR",
+        "Subspecialty": "Head and neck",
+        "Modality": "MR",
+        "Link": "https://edhub.ama-assn.org/jn-learning/module/2810537?resultClick=1&bypassSolrId=J_2810537",
+        "Type": "multiple-choice",
+        "num_image": 2
+    },
+    {
+        "ID": 486,
+        "DataSource": "JAMA-CCR",
+        "Subspecialty": "Head and neck",
+        "Modality": "Hybrid",
+        "Link": "https://edhub.ama-assn.org/jn-learning/module/2805264?resultClick=1&bypassSolrId=J_2805264",
+        "Type": "multiple-choice",
+        "num_image": 2
+    },
+    {
+        "ID": 509,
+        "DataSource": "JAMA-CCR",
+        "Subspecialty": "Neuroradiology",
+        "Modality": "Hybrid",
+        "Link": "https://edhub.ama-assn.org/jn-learning/module/2784643?resultClick=1&bypassSolrId=J_2784643",
+        "Type": "multiple-choice",
+        "num_image": 2
+    },
+    {
+        "ID": 510,
+        "DataSource": "JAMA-CCR",
+        "Subspecialty": "Chest",
+        "Modality": "Hybrid",
+        "Link": "https://edhub.ama-assn.org/jn-learning/module/2786531?resultClick=1&bypassSolrId=J_2786531",
+        "Type": "multiple-choice",
+        "num_image": 2
+    },
+    {
+        "ID": 547,
+        "DataSource": "JAMA-CCR",
+        "Subspecialty": "Head and neck",
+        "Modality": "Hybrid",
+        "Link": "https://edhub.ama-assn.org/jn-learning/module/2791448?resultClick=1&bypassSolrId=J_2791448",
+        "Type": "multiple-choice",
+        "num_image": 2
+    },
+    {
+        "ID": 499,
+        "DataSource": "JAMA-CCR",
+        "Subspecialty": "Head and neck",
+        "Modality": "Hybrid",
+        "Link": "https://edhub.ama-assn.org/jn-learning/module/2797009?resultClick=1&bypassSolrId=J_2797009",
+        "Type": "multiple-choice",
+        "num_image": 2
+    },
+    {
+        "ID": 501,
+        "DataSource": "JAMA-CCR",
+        "Subspecialty": "Head and neck",
+        "Modality": "Hybrid",
+        "Link": "https://edhub.ama-assn.org/jn-learning/module/2795514?resultClick=1&bypassSolrId=J_2795514",
+        "Type": "multiple-choice",
+        "num_image": 2
+    },
+    {
+        "ID": 502,
+        "DataSource": "JAMA-CCR",
+        "Subspecialty": "Head and neck",
+        "Modality": "Hybrid",
+        "Link": "https://edhub.ama-assn.org/jn-learning/module/2794139?resultClick=1&bypassSolrId=J_2794139",
+        "Type": "multiple-choice",
+        "num_image": 2
+    },
+    {
+        "ID": 504,
+        "DataSource": "JAMA-CCR",
+        "Subspecialty": "Head and neck",
+        "Modality": "Hybrid",
+        "Link": "https://edhub.ama-assn.org/jn-learning/module/2791448?resultClick=1&bypassSolrId=J_2791448",
+        "Type": "multiple-choice",
+        "num_image": 2
+    },
+    {
+        "ID": 505,
+        "DataSource": "JAMA-CCR",
+        "Subspecialty": "Head and neck",
+        "Modality": "Hybrid",
+        "Link": "https://edhub.ama-assn.org/jn-learning/module/2789634?resultClick=1&bypassSolrId=J_2789634",
+        "Type": "multiple-choice",
+        "num_image": 2
+    }
+]
