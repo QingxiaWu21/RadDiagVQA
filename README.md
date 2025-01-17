@@ -10,7 +10,7 @@ Each case comprises:
 - Radiological images (1-16 images per case)
 - Corresponding diagnostic questions and answers
 
-This dataset aims to facilitate the development and evaluation of multimodal LLM in understanding and reasoning about radiological images in real clinical settings.
+This dataset aims to facilitate the development and evaluation of multimodal LLM in understanding and reasoning about radiological images in real clinical diagnostic settings.
 
 ## Dataset Structure
 
@@ -130,8 +130,8 @@ for item in data:
 ## Citation
 If you find this dataset useful in your research, please cite our paper:
 ```tex
-@article{raddiagvqa2024,
-  title={Benchmarking multimodal large language models against human expertise in radiology},
+@article{raddiagvqa2025,
+  title={RadDiagVQA: Benchmarking multimodal large language models against human expertise in diagnostic radiology},
   author={Qingxia Wu, Qingxia Wu, Peipei Zhang et al.},
   journal={arXiv preprint},
   year={2025}
